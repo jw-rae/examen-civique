@@ -1,0 +1,626 @@
+{
+    "categorie": "Système institutionnel et politique",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Comment est désigné le Premier ministre ?",
+            "bonne_reponse": "Il est nommé par le Président de la République",
+            "description_bonne_reponse": "Selon l'article 8 de la Constitution du 4 octobre 1958, le Président de la République nomme le Premier ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du gouvernement. Le Premier ministre est généralement issu de la majorité parlementaire à l'Assemblée nationale, mais il n'y a pas d'élection directe pour ce poste.",
+            "mauvais_choix": [
+                "Il est élu au suffrage universel direct par les citoyens français lors d'un scrutin dédié",
+                "Il est élu par les députés de l'Assemblée nationale à la majorité absolue",
+                "Il est désigné par le Sénat après un vote de confiance de la chambre haute du Parlement"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Qui peut se présenter aux élections présidentielles ?",
+            "bonne_reponse": "Tout citoyen français âgé d'au moins 18 ans, jouissant de ses droits civiques et ayant obtenu le parrainage d'au moins 500 élus",
+            "description_bonne_reponse": "Depuis la loi organique du 25 avril 2016, pour être candidat à l'élection présidentielle, il faut être de nationalité française, avoir 18 ans révolus (abaissé de 23 ans en 2011), jouir de ses droits civils et politiques, ne pas être placé sous tutelle ou curatelle, et recueillir les signatures (parrainages) d'au moins 500 élus issus d'au moins 30 départements ou collectivités d'outre-mer différents.",
+            "mauvais_choix": [
+                "Tout citoyen français majeur, sans condition de parrainage, à condition de verser une caution financière remboursable",
+                "Tout citoyen français âgé d'au moins 35 ans, titulaire d'un mandat électif national, parrainé par 100 parlementaires",
+                "Tout résident français depuis plus de 10 ans, européen ou français, âgé d'au moins 21 ans avec parrainage de 200 élus"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "À qui appartient la souveraineté nationale ?",
+            "bonne_reponse": "Au peuple français, qui l'exerce par ses représentants et par la voie du référendum",
+            "description_bonne_reponse": "L'article 3 de la Constitution dispose que « la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum ». Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice. Le peuple délègue son pouvoir à des représentants élus (Président, parlementaires) ou l'exerce directement par référendum.",
+            "mauvais_choix": [
+                "À l'État français, représenté par le Président de la République en tant que garant des institutions",
+                "Au Parlement, en sa qualité d'assemblée représentative élue directement par les citoyens",
+                "À la Nation française dans son ensemble, distincte du peuple, incarnée par ses institutions historiques"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Qui est élu lors des élections municipales ?",
+            "bonne_reponse": "Les conseillers municipaux, qui élisent ensuite le maire parmi eux",
+            "description_bonne_reponse": "Lors des élections municipales, les citoyens élisent au suffrage universel direct les conseillers municipaux. Ce sont ensuite ces conseillers municipaux qui, lors de la première réunion du nouveau conseil, élisent le maire en leur sein. Les élections municipales ont lieu tous les 6 ans. Dans les communes de plus de 1 000 habitants, le scrutin est proportionnel de liste.",
+            "mauvais_choix": [
+                "Le maire directement, par les citoyens de la commune au suffrage universel direct à deux tours",
+                "Les conseillers départementaux et municipaux lors d'un scrutin commun organisé tous les 6 ans",
+                "Le conseil municipal et le maire simultanément lors d'un scrutin de liste à deux tours"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "L'inscription sur les listes électorales est :",
+            "bonne_reponse": "Automatique pour les jeunes de 18 ans et possible à tout moment pour les autres, sauf clôture avant une élection",
+            "description_bonne_reponse": "Depuis la réforme de 2016, l'inscription sur les listes électorales est automatique pour les jeunes atteignant 18 ans. Les autres citoyens peuvent s'inscrire à tout moment, mais pour participer à un scrutin, ils doivent être inscrits avant la date limite fixée par la loi (6e vendredi précédant le scrutin). L'inscription peut se faire en mairie, en ligne sur service-public.fr ou par courrier.",
+            "mauvais_choix": [
+                "Obligatoire sous peine d'amende, tout citoyen français majeur doit impérativement s'inscrire avant ses 19 ans",
+                "Définitive une fois effectuée, sans possibilité de changer de bureau de vote ou de se réinscrire dans une autre commune",
+                "Uniquement possible en préfecture lors des périodes de révision des listes électorales fixées chaque année en décembre"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+            "bonne_reponse": "Être de nationalité française, avoir 18 ans révolus, jouir de ses droits civiques et être inscrit sur les listes électorales",
+            "description_bonne_reponse": "Pour voter à l'élection présidentielle, il faut réunir quatre conditions cumulatives : posséder la nationalité française (les ressortissants étrangers ne peuvent pas voter à cette élection, contrairement aux élections municipales ou européennes pour les citoyens de l'UE), avoir 18 ans révolus le jour du scrutin, jouir de ses droits civiques (ne pas avoir été privé du droit de vote par une décision judiciaire), et être inscrit sur les listes électorales.",
+            "mauvais_choix": [
+                "Être citoyen européen, résider en France depuis au moins 5 ans et être inscrit sur les listes électorales",
+                "Être de nationalité française ou européenne, avoir 18 ans, résider fiscalement en France et être inscrit sur les listes",
+                "Être français, avoir 21 ans révolus, résider dans la commune depuis au moins 6 mois et être inscrit sur les listes"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+            "bonne_reponse": "Être français ou ressortissant de l'UE, avoir 18 ans révolus, jouir de ses droits civiques et être domicilié ou contribuable dans la commune",
+            "description_bonne_reponse": "Pour être candidat aux élections municipales, il faut avoir 18 ans révolus, être de nationalité française ou ressortissant d'un État membre de l'UE (depuis le traité de Maastricht), jouir de ses droits civils et politiques, ne pas être privé de l'éligibilité par une décision de justice, et être inscrit sur les listes électorales de la commune ou y être contribuable (payer des impôts locaux).",
+            "mauvais_choix": [
+                "Être de nationalité française uniquement, avoir 18 ans, résider dans la commune depuis au moins 2 ans et obtenir 100 signatures d'habitants",
+                "Être citoyen français ou européen, avoir 25 ans révolus, résider obligatoirement dans la commune depuis au moins un an",
+                "Être français de naissance, avoir 18 ans, ne pas exercer de profession libérale et avoir résidé 3 ans dans la commune"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Parmi ces autorités, laquelle est élue ?",
+            "bonne_reponse": "Le député",
+            "description_bonne_reponse": "Le député est élu au suffrage universel direct par les citoyens de sa circonscription, lors des élections législatives, pour un mandat de 5 ans. Il siège à l'Assemblée nationale. À la différence du préfet (nommé en Conseil des ministres), du procureur de la République (magistrat nommé par décret) ou du directeur d'administration centrale (fonctionnaire nommé), le député tire sa légitimité directement du vote populaire.",
+            "mauvais_choix": [
+                "Le préfet, représentant de l'État dans le département, nommé à cette fonction après élection interne au corps préfectoral",
+                "Le procureur de la République, élu par les magistrats du ressort du tribunal judiciaire pour un mandat de 7 ans",
+                "Le directeur général des services d'une région, désigné lors d'une élection professionnelle au sein de la fonction publique territoriale"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Quelles sont les fonctions du maire ?",
+            "bonne_reponse": "Chef de l'exécutif municipal, officier d'état civil, officier de police judiciaire et représentant de l'État dans la commune",
+            "description_bonne_reponse": "Le maire cumule plusieurs casquettes : il est l'exécutif de la commune (prépare et exécute les décisions du conseil municipal, gère les services communaux), officier d'état civil (célèbre les mariages, signe les actes de naissance et de décès), officier de police judiciaire (peut dresser des procès-verbaux), et agent de l'État dans la commune (publication des lois, organisation des élections). Il dispose aussi du pouvoir de police administrative.",
+            "mauvais_choix": [
+                "Représentant exclusif de l'État dans la commune, sans pouvoir exécutif propre, chargé uniquement d'appliquer les décisions préfectorales",
+                "Chef de l'exécutif municipal et président du conseil général, cumulant de droit les fonctions communales et départementales",
+                "Responsable uniquement des questions d'urbanisme et de voirie, le reste des fonctions étant délégué aux adjoints élus séparément"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Une personne n'ayant pas accès à internet veut s'inscrire sur les listes électorales. Où peut-elle s'inscrire ?",
+            "bonne_reponse": "En mairie, en se présentant directement au guichet avec les justificatifs requis (pièce d'identité et justificatif de domicile)",
+            "description_bonne_reponse": "L'inscription sur les listes électorales est possible sans internet. La personne peut se rendre directement à la mairie de son domicile avec une pièce d'identité en cours de validité et un justificatif de domicile. Elle peut aussi envoyer un dossier par courrier ou confier un mandataire porteur d'une procuration. Des bornes ou agents sont disponibles dans les mairies pour accompagner les personnes en difficulté numérique.",
+            "mauvais_choix": [
+                "Uniquement en préfecture ou sous-préfecture, seule autorité compétente pour la tenue des listes électorales officielles",
+                "Dans un bureau de poste agréé, qui dispose d'un accès au système national d'inscription électorale REU",
+                "Dans tout espace France Services, mais uniquement pendant les périodes de révision des listes électorales fixées par décret"
+            ]
+        },
+        {
+            "id": 11,
+            "question": "À quel âge peut-on devenir électeur en France ?",
+            "bonne_reponse": "À 18 ans révolus",
+            "description_bonne_reponse": "Le droit de vote est accordé à 18 ans en France depuis la loi du 5 juillet 1974, qui a abaissé la majorité électorale de 21 à 18 ans. C'est l'âge de la majorité civile et politique. Depuis 2016, les jeunes atteignant 18 ans sont automatiquement inscrits sur les listes électorales s'ils ont effectué le recensement citoyen à 16 ans.",
+            "mauvais_choix": [
+                "À 16 ans, depuis la réforme constitutionnelle de 2019 pour les élections locales uniquement",
+                "À 21 ans, âge de la majorité politique telle qu'elle est définie par la Constitution de 1958",
+                "À 18 ans pour les élections locales et à 21 ans pour les élections présidentielles et législatives"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "En France, est-ce obligatoire de voter ?",
+            "bonne_reponse": "Non, le vote est un droit et non une obligation légale, l'abstention n'est pas sanctionnée",
+            "description_bonne_reponse": "En France, le vote est un droit civique mais non une obligation légale pour les citoyens ordinaires. L'abstention n'est passible d'aucune sanction. Cependant, pour certains élus (jurés d'assises, membres de certaines assemblées), la participation peut être obligatoire. Des débats existent régulièrement pour instaurer le vote obligatoire, comme en Belgique, mais cette réforme n'a jamais abouti en France.",
+            "mauvais_choix": [
+                "Oui, le vote est une obligation civique sanctionnée d'une amende de 135 euros en cas d'abstention non justifiée",
+                "Oui, pour les élections présidentielles et législatives uniquement, le vote est obligatoire sous peine de perdre certains droits civiques",
+                "Non, sauf pour les élections présidentielles où l'abstention doit être justifiée par écrit auprès de la mairie"
+            ]
+        },
+        {
+            "id": 13,
+            "question": "A-t-on le droit de ne pas respecter une loi ?",
+            "bonne_reponse": "Non, la loi s'impose à tous et son non-respect expose à des sanctions pénales ou civiles, nul n'est censé ignorer la loi",
+            "description_bonne_reponse": "Le principe fondamental de l'État de droit veut que la loi s'applique à tous sans exception. L'adage « nul n'est censé ignorer la loi » signifie que l'ignorance de la loi ne peut servir d'excuse pour s'y soustraire. Le non-respect d'une loi expose son auteur à des sanctions : pénales (amende, emprisonnement) ou civiles (dommages-intérêts). Seule la désobéissance civile non-violente constitue un débat philosophique, sans valeur juridique en droit français.",
+            "mauvais_choix": [
+                "Oui, si la loi est contraire aux convictions morales ou religieuses profondes d'une personne, elle peut invoquer l'objection de conscience",
+                "Oui, dans les cas d'urgence ou de nécessité absolue, le citoyen peut déroger à la loi et se justifier a posteriori devant un tribunal",
+                "Non, sauf pour les lois jugées inconstitutionnelles par un citoyen qui peut saisir le Conseil constitutionnel avant de l'appliquer"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "Comment sont désignés les députés ?",
+            "bonne_reponse": "Ils sont élus au suffrage universel direct lors des élections législatives, au scrutin uninominal majoritaire à deux tours dans chaque circonscription",
+            "description_bonne_reponse": "Les 577 députés de l'Assemblée nationale sont élus au suffrage universel direct, à raison d'un député par circonscription (scrutin uninominal), selon un système majoritaire à deux tours. Est élu au premier tour le candidat obtenant la majorité absolue des suffrages exprimés représentant au moins 25 % des électeurs inscrits. Au second tour, la majorité relative suffit. Le mandat dure 5 ans.",
+            "mauvais_choix": [
+                "Ils sont élus au scrutin proportionnel de liste lors des élections législatives, à raison d'une liste par région administrative",
+                "Ils sont désignés par le Président de la République sur proposition du Premier ministre parmi les personnalités qualifiées",
+                "Ils sont élus par les conseillers municipaux et régionaux réunis en congrès départemental tous les cinq ans"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "Qui vote les lois ?",
+            "bonne_reponse": "Le Parlement, composé de l'Assemblée nationale et du Sénat",
+            "description_bonne_reponse": "En vertu de l'article 24 de la Constitution, le Parlement vote la loi. Il est composé de l'Assemblée nationale (577 députés élus au suffrage direct) et du Sénat (348 sénateurs élus au suffrage indirect). En cas de désaccord entre les deux chambres, c'est l'Assemblée nationale qui a le dernier mot. Le Président de la République peut aussi soumettre certains textes au référendum (article 11).",
+            "mauvais_choix": [
+                "Uniquement l'Assemblée nationale, le Sénat n'ayant qu'un rôle consultatif sans pouvoir de vote sur les lois",
+                "Le gouvernement, qui dispose du pouvoir législatif délégué par le Président de la République sous la Ve République",
+                "Le Conseil d'État, qui examine et adopte les projets de loi avant leur transmission au Président pour promulgation"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+            "bonne_reponse": "Le pouvoir législatif (vote des lois), le pouvoir exécutif (application des lois) et le pouvoir judiciaire (sanction des violations de la loi)",
+            "description_bonne_reponse": "La théorie de la séparation des pouvoirs, théorisée par Montesquieu dans L'Esprit des lois (1748), distingue trois pouvoirs indépendants : le pouvoir législatif (confié au Parlement : Assemblée nationale et Sénat), le pouvoir exécutif (confié au Président de la République et au gouvernement), et le pouvoir judiciaire (confié aux juridictions, garant des libertés individuelles). Cette séparation vise à prévenir toute concentration du pouvoir.",
+            "mauvais_choix": [
+                "Le pouvoir central (État), le pouvoir décentralisé (collectivités) et le pouvoir supranational (Union européenne)",
+                "Le pouvoir politique (gouvernement), le pouvoir économique (entreprises publiques) et le pouvoir médiatique (audiovisuel public)",
+                "Le pouvoir constituant (révision de la Constitution), le pouvoir législatif (vote des lois) et le pouvoir réglementaire (décrets)"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "Qu'est-ce que l'État de droit ?",
+            "bonne_reponse": "Un système dans lequel tous les acteurs, y compris l'État et ses gouvernants, sont soumis au respect de la loi et d'une hiérarchie des normes surmontée par la Constitution",
+            "description_bonne_reponse": "L'État de droit désigne un système politique dans lequel toutes les personnes, institutions et entités — y compris l'État lui-même — sont responsables devant des lois qui sont publiquement promulguées, appliquées de manière égale et indépendante. Il implique la hiérarchie des normes (Constitution > lois > règlements), le contrôle juridictionnel des actes de l'État, la protection des droits fondamentaux et l'indépendance de la justice.",
+            "mauvais_choix": [
+                "Un régime dans lequel l'État dispose du monopole de la création des lois et peut les modifier librement selon les nécessités de l'ordre public",
+                "Un système où les citoyens élisent directement les juges chargés d'interpréter et d'appliquer les lois démocratiquement votées",
+                "Une organisation politique dans laquelle la loi ne s'applique qu'aux simples citoyens, les gouvernants disposant d'une immunité fonctionnelle permanente"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+            "bonne_reponse": "6 ans pour le conseil municipal, et le maire est élu pour la même durée par les conseillers municipaux en leur sein",
+            "description_bonne_reponse": "Les conseillers municipaux sont élus pour 6 ans au suffrage universel direct. Le maire est élu par les conseillers municipaux lors de la première réunion suivant l'élection, et exerce ses fonctions pour la même durée de 6 ans, soit pour toute la durée du mandat municipal. En cas de démission ou de décès du maire, le conseil procède à une nouvelle élection.",
+            "mauvais_choix": [
+                "4 ans pour le conseil municipal et 6 ans pour le maire, qui peut être renommé au-delà du mandat du conseil",
+                "5 ans pour le conseil municipal et le maire, alignés sur la durée du mandat présidentiel depuis la réforme de 2000",
+                "6 ans pour le conseil municipal, mais le maire est réélu tous les 3 ans par les conseillers pour assurer une rotation"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "Qui est élu lors des élections législatives ?",
+            "bonne_reponse": "Les députés, représentants du peuple siégeant à l'Assemblée nationale",
+            "description_bonne_reponse": "Les élections législatives permettent d'élire les 577 députés de l'Assemblée nationale pour un mandat de 5 ans. Ces élections ont lieu généralement dans les 20 à 40 jours suivant l'élection présidentielle. Les députés représentent la Nation et votent les lois, le budget, et peuvent renverser le gouvernement par une motion de censure. À ne pas confondre avec les élections sénatoriales qui élisent les sénateurs au suffrage indirect.",
+            "mauvais_choix": [
+                "Les sénateurs, élus pour 6 ans au suffrage universel direct par les citoyens de chaque département",
+                "Les conseillers régionaux, représentant les régions au sein d'un Parlement à chambre unique depuis 2003",
+                "Les députés et les sénateurs simultanément, lors d'un scrutin national commun organisé tous les 5 ans"
+            ]
+        },
+        {
+            "id": 20,
+            "question": "Quelle est la durée du mandat du Président de la République française ?",
+            "bonne_reponse": "5 ans, renouvelable une seule fois de manière consécutive",
+            "description_bonne_reponse": "Le mandat présidentiel est de 5 ans (quinquennat) depuis la révision constitutionnelle du 2 octobre 2000, approuvée par référendum. Avant cette réforme, il était de 7 ans (septennat). La loi constitutionnelle du 23 juillet 2008 a introduit la limitation à deux mandats consécutifs, pour éviter qu'un Président ne reste indéfiniment en fonction.",
+            "mauvais_choix": [
+                "7 ans, durée du septennat maintenue par la Constitution de 1958 et toujours en vigueur",
+                "5 ans, renouvelable indéfiniment sans limitation du nombre de mandats consécutifs",
+                "4 ans, aligné sur les mandats des autres démocraties européennes depuis la réforme constitutionnelle de 1995"
+            ]
+        },
+        {
+            "id": 21,
+            "question": "Quelle est la durée du mandat des députés ?",
+            "bonne_reponse": "5 ans",
+            "description_bonne_reponse": "Les députés de l'Assemblée nationale sont élus pour un mandat de 5 ans. Ce mandat peut être écourté en cas de dissolution de l'Assemblée nationale par le Président de la République (article 12 de la Constitution). Depuis la réforme de 2000 alignant le mandat présidentiel sur 5 ans, les élections législatives suivent de peu les élections présidentielles, favorisant une coïncidence des majorités.",
+            "mauvais_choix": [
+                "4 ans, mandat harmonisé avec les élections européennes depuis le traité de Lisbonne",
+                "6 ans, comme les sénateurs, pour assurer une continuité et une stabilité institutionnelle au Parlement",
+                "5 ans, mais renouvelable obligatoirement par un vote de confiance à mi-mandat par les électeurs de la circonscription"
+            ]
+        },
+        {
+            "id": 22,
+            "question": "Quelle est la durée du mandat des sénateurs ?",
+            "bonne_reponse": "6 ans, le Sénat étant renouvelé par moitié tous les 3 ans",
+            "description_bonne_reponse": "Les sénateurs sont élus pour un mandat de 6 ans. Depuis la réforme de 2003, le Sénat est renouvelé par moitié tous les 3 ans, lors d'élections sénatoriales. Les sénateurs sont élus au suffrage universel indirect par un collège de grands électeurs composé principalement d'élus locaux (conseillers municipaux, départementaux, régionaux, députés). Le Sénat comporte actuellement 348 membres.",
+            "mauvais_choix": [
+                "5 ans, comme les députés, pour assurer une synchronisation avec le cycle électoral général tous les 5 ans",
+                "9 ans, mandat long non renouvelable garantissant l'indépendance des sénateurs vis-à-vis des pressions politiques",
+                "6 ans, le Sénat étant intégralement renouvelé en une seule fois lors de chaque élection sénatoriale nationale"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "Qui dirige l'action du gouvernement ?",
+            "bonne_reponse": "Le Premier ministre, qui coordonne l'action des ministres et assure l'exécution des lois",
+            "description_bonne_reponse": "Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du gouvernement. Il est responsable de la défense nationale, assure l'exécution des lois, exerce le pouvoir réglementaire et nomme aux emplois civils et militaires. Il est responsable devant l'Assemblée nationale. En pratique, sous la Ve République, lorsque le Président et le Premier ministre sont de la même majorité, c'est le Président qui prédomine.",
+            "mauvais_choix": [
+                "Le Président de la République, seul chef du pouvoir exécutif selon la Constitution de la Ve République",
+                "Le ministre de l'Intérieur, chargé de la coordination interministérielle et de la cohérence de l'action gouvernementale",
+                "Le Secrétaire général du gouvernement, haut fonctionnaire garant de la continuité et de la coordination de l'action ministérielle"
+            ]
+        },
+        {
+            "id": 24,
+            "question": "En France, est-il possible d'adhérer à un parti politique ?",
+            "bonne_reponse": "Oui, la liberté d'adhérer ou non à un parti politique est garantie par l'article 4 de la Constitution",
+            "description_bonne_reponse": "L'article 4 de la Constitution reconnaît que les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Tout citoyen peut adhérer librement à un parti de son choix, ou n'adhérer à aucun. Cependant, certains fonctionnaires (préfets, magistrats, militaires) sont soumis à un devoir de réserve qui limite leur engagement partisan public.",
+            "mauvais_choix": [
+                "Oui, mais uniquement à un seul parti à la fois, le cumul d'adhésions étant interdit par la loi sur le financement politique",
+                "Non, pour les fonctionnaires et agents de l'État, l'adhésion à un parti politique est strictement prohibée par le statut de la fonction publique",
+                "Oui, à condition d'avoir 21 ans révolus et de n'avoir jamais fait l'objet d'une condamnation pénale définitive"
+            ]
+        },
+        {
+            "id": 25,
+            "question": "Qui sanctionne l'auteur d'un vol ?",
+            "bonne_reponse": "Le tribunal judiciaire (tribunal correctionnel pour un délit ou cour d'assises pour un vol aggravé qualifié de crime)",
+            "description_bonne_reponse": "En France, les infractions pénales comme le vol sont jugées par les juridictions de l'ordre judiciaire. Le vol simple est un délit jugé par le tribunal correctionnel. Le vol avec circonstances aggravantes (violence, arme, bande organisée) peut être requalifié en crime et jugé par la cour d'assises. La sanction est prononcée par un juge au nom du peuple français, après un procès contradictoire respectant les droits de la défense.",
+            "mauvais_choix": [
+                "Le préfet du département, qui dispose du pouvoir de police administrative pour sanctionner les atteintes aux biens",
+                "Le tribunal administratif, chargé de juger les litiges entre les citoyens et de fixer les réparations civiles en cas de vol",
+                "La police nationale, qui détient le pouvoir de sanction définitive pour les délits mineurs comme le vol simple"
+            ]
+        },
+        {
+            "id": 26,
+            "question": "Qui gère les collèges publics ?",
+            "bonne_reponse": "Le département (conseil départemental)",
+            "description_bonne_reponse": "Depuis les lois de décentralisation de 1983-1984, la gestion des collèges publics (construction, entretien, fonctionnement matériel) relève de la compétence des départements. Le conseil départemental finance et gère les bâtiments, les équipements et les personnels techniques. En revanche, les enseignants sont des fonctionnaires d'État recrutés et rémunérés par l'Éducation nationale.",
+            "mauvais_choix": [
+                "La région, qui est compétente pour l'ensemble de l'enseignement secondaire, collèges et lycées confondus",
+                "L'État, par l'intermédiaire des rectorats d'académie qui gèrent directement tous les établissements du second degré",
+                "La commune, en vertu du principe de proximité appliqué aux services éducatifs depuis la loi Defferre de 1982"
+            ]
+        },
+        {
+            "id": 27,
+            "question": "Qui gère les écoles primaires et maternelles publiques ?",
+            "bonne_reponse": "La commune, qui est responsable de la construction, de l'entretien des locaux et du fonctionnement matériel des écoles",
+            "description_bonne_reponse": "Les communes sont compétentes pour les écoles primaires et maternelles publiques (loi de 1983). Elles assurent la construction et l'entretien des bâtiments, les équipements, le personnel municipal d'entretien (ATSEM) et la restauration scolaire. Les enseignants du premier degré sont, eux, des fonctionnaires d'État (professeurs des écoles) recrutés et rémunérés par le ministère de l'Éducation nationale.",
+            "mauvais_choix": [
+                "Le département, compétent pour l'ensemble de l'enseignement primaire et secondaire du premier cycle",
+                "L'État, seul responsable de l'ensemble de l'enseignement public, de la maternelle au lycée inclus",
+                "La région, en sa qualité de collectivité chef de file de l'éducation sur l'ensemble du territoire régional"
+            ]
+        },
+        {
+            "id": 28,
+            "question": "Comment sont désignés les maires ?",
+            "bonne_reponse": "Ils sont élus par les conseillers municipaux parmi eux, lors de la première séance du nouveau conseil municipal suivant les élections",
+            "description_bonne_reponse": "Le maire n'est pas élu directement par les citoyens. Il est élu au scrutin secret par les conseillers municipaux, à la majorité absolue aux deux premiers tours, et à la majorité relative au troisième tour. Cette élection a lieu lors de la première réunion du nouveau conseil municipal, dans les 8 jours suivant les élections municipales. Le maire est à la fois chef de l'exécutif municipal et agent de l'État dans la commune.",
+            "mauvais_choix": [
+                "Ils sont élus directement par les citoyens de la commune au suffrage universel direct lors des élections municipales",
+                "Ils sont nommés par le préfet du département parmi les candidats proposés par le conseil municipal élu",
+                "Ils sont désignés par le Président de la République sur proposition du ministre de l'Intérieur pour les grandes villes"
+            ]
+        },
+        {
+            "id": 29,
+            "question": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+            "bonne_reponse": "La région, qui est autorité organisatrice des transports ferroviaires régionaux (TER) et de certains transports interurbains",
+            "description_bonne_reponse": "Depuis la loi de décentralisation de 2004, les régions sont les autorités organisatrices des transports ferroviaires régionaux (TER). Elles organisent, financent et définissent les dessertes des trains régionaux en convention avec SNCF Voyageurs. La loi d'orientation des mobilités (LOM) de 2019 a renforcé ce rôle. Pour les transports urbains, ce sont les intercommunalités qui sont compétentes.",
+            "mauvais_choix": [
+                "Le département, qui organise les transports interurbains entre les communes de son territoire et les liaisons ferroviaires locales",
+                "L'État, via la SNCF, qui reste seul compétent pour l'ensemble des transports ferroviaires sur le territoire national",
+                "L'intercommunalité, autorité organisatrice de l'ensemble des transports collectifs, urbains et régionaux, depuis la loi NOTRe"
+            ]
+        },
+        {
+            "id": 30,
+            "question": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+            "bonne_reponse": "Par le vote du Parlement réuni en Congrès (3/5 des suffrages exprimés) ou par référendum soumis directement aux citoyens",
+            "description_bonne_reponse": "L'article 89 de la Constitution prévoit deux voies de révision : la voie parlementaire (le texte est adopté dans les mêmes termes par l'Assemblée nationale et le Sénat, puis approuvé soit par le Congrès à la majorité des 3/5, soit par référendum), ou la voie présidentielle par référendum (article 11, utilisé par de Gaulle en 1962 et 1969, bien que controversée). L'initiative appartient au Président sur proposition du Premier ministre ou aux membres du Parlement.",
+            "mauvais_choix": [
+                "Par simple décret du Président de la République, signé en Conseil des ministres et contresigné par le Premier ministre",
+                "Par une loi organique votée à la majorité absolue de l'Assemblée nationale, sans nécessité d'un vote du Sénat",
+                "Par une pétition citoyenne ayant recueilli au moins 5 millions de signatures soumises directement au Conseil constitutionnel"
+            ]
+        },
+        {
+            "id": 31,
+            "question": "Qui assure l'intérim du Président de la République en cas de décès ou d'empêchement définitif ?",
+            "bonne_reponse": "Le Président du Sénat, à titre provisoire, jusqu'à l'élection d'un nouveau Président dans les 20 à 35 jours",
+            "description_bonne_reponse": "L'article 7 de la Constitution prévoit qu'en cas de vacance de la présidence (décès, démission, empêchement définitif constaté par le Conseil constitutionnel), c'est le Président du Sénat qui assure l'intérim. Il exerce alors les fonctions présidentielles, à l'exception de certaines prérogatives (dissolution de l'Assemblée, référendum, révision de la Constitution). Une élection présidentielle est organisée dans les 20 à 35 jours.",
+            "mauvais_choix": [
+                "Le Premier ministre, en tant que chef du gouvernement et second personnage de l'État dans l'ordre protocolaire",
+                "Le Président de l'Assemblée nationale, en vertu de sa représentation directe de la chambre élue au suffrage universel",
+                "Le doyen d'âge du gouvernement, selon la tradition républicaine consacrée par la jurisprudence du Conseil d'État"
+            ]
+        },
+        {
+            "id": 32,
+            "question": "Quel est le rôle du Conseil constitutionnel ?",
+            "bonne_reponse": "Veiller à la conformité des lois à la Constitution, contrôler la régularité des élections nationales et des référendums, et protéger les droits fondamentaux via la QPC",
+            "description_bonne_reponse": "Institué par la Constitution de 1958, le Conseil constitutionnel est composé de 9 membres nommés pour 9 ans non renouvelables (3 par le Président de la République, 3 par le Président du Sénat, 3 par le Président de l'Assemblée nationale). Il contrôle la constitutionnalité des lois avant promulgation (contrôle a priori) ou après (contrôle a posteriori via la Question Prioritaire de Constitutionnalité, QPC, depuis 2008), et veille à la régularité des élections présidentielles, législatives et des référendums.",
+            "mauvais_choix": [
+                "Juger les membres du gouvernement pour les crimes commis dans l'exercice de leurs fonctions, comme la Cour de justice de la République",
+                "Conseiller le gouvernement sur la rédaction des projets de loi et vérifier leur cohérence juridique avant le dépôt parlementaire",
+                "Contrôler les comptes de l'État et des collectivités territoriales, en lieu et place de la Cour des comptes pour les lois de finances"
+            ]
+        },
+        {
+            "id": 33,
+            "question": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+            "bonne_reponse": "Obtenir au moins 500 parrainages d'élus issus d'au moins 30 départements ou collectivités différents",
+            "description_bonne_reponse": "La condition du parrainage est l'une des plus restrictives et spécifiques à l'élection présidentielle française. Le candidat doit recueillir au moins 500 signatures d'élus habilités (parlementaires, conseillers régionaux, maires, etc.), ces parrainages devant provenir d'au moins 30 départements ou collectivités d'outre-mer distincts, sans que plus de 10 % ne proviennent du même département. Les parrainages sont publics depuis 2017.",
+            "mauvais_choix": [
+                "Justifier d'un mandat électif national en cours (député, sénateur ou eurodéputé) au moment du dépôt de candidature",
+                "Obtenir 100 000 signatures de citoyens français inscrits sur les listes électorales via une plateforme officielle",
+                "Être proposé par au moins deux partis politiques représentés au Parlement, chacun ayant obtenu plus de 5 % aux dernières législatives"
+            ]
+        },
+        {
+            "id": 34,
+            "question": "Combien y a-t-il de départements en France ?",
+            "bonne_reponse": "101 départements, dont 96 en métropole et 5 départements et régions d'outre-mer (DROM)",
+            "description_bonne_reponse": "La France compte 101 départements : 96 en métropole (dont la Corse-du-Sud et la Haute-Corse) et 5 départements et régions d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte). Les départements sont numérotés de 01 à 95 pour la métropole (sauf la Corse : 2A et 2B), et 971 à 976 pour l'outre-mer. Mayotte est devenu le 101e département en 2011.",
+            "mauvais_choix": [
+                "96 départements, uniquement en France métropolitaine, les territoires d'outre-mer ayant un statut administratif distinct",
+                "100 départements, chiffre rond atteint lors de la création du département de Mayotte en 2011",
+                "95 départements métropolitains, les numéros 91 à 95 correspondant à la petite couronne et grande couronne d'Île-de-France"
+            ]
+        },
+        {
+            "id": 35,
+            "question": "Comment est organisé le découpage administratif de la France ?",
+            "bonne_reponse": "En régions, départements, arrondissements, cantons et communes, selon une organisation pyramidale décentralisée",
+            "description_bonne_reponse": "L'organisation territoriale française est structurée du plus large au plus local : 18 régions (13 en métropole + 5 DROM), 101 départements, 332 arrondissements (circonscriptions de l'État), 3 995 cantons (circonscriptions électorales pour les conseillers départementaux) et environ 34 935 communes. La France est le pays qui compte le plus de communes en Europe. S'y ajoutent les intercommunalités (EPCI) qui regroupent les communes.",
+            "mauvais_choices": [
+                "En régions, départements et communes uniquement, la France ayant supprimé les arrondissements et cantons en 2015",
+                "En 13 régions métropolitaines, 95 départements, et environ 36 000 communes, sans autre niveau intermédiaire",
+                "En districts, provinces et municipalités, selon le modèle napoléonien révisé par les lois de décentralisation de 1982"
+            ],
+            "mauvais_choix": [
+                "En régions, départements et communes uniquement, la France ayant supprimé les arrondissements et cantons en 2015",
+                "En 13 régions métropolitaines, 95 départements, et environ 36 000 communes, sans autre niveau intermédiaire",
+                "En districts, provinces et municipalités, selon le modèle napoléonien révisé par les lois de décentralisation de 1982"
+            ]
+        },
+        {
+            "id": 36,
+            "question": "Qui représente l'État dans un département ?",
+            "bonne_reponse": "Le préfet, nommé en Conseil des ministres, représentant direct du gouvernement et de chaque ministre",
+            "description_bonne_reponse": "Le préfet est le représentant de l'État dans le département. Nommé par décret du Président de la République en Conseil des ministres, il représente le Premier ministre et chaque ministre. Il est chargé d'appliquer les politiques nationales, d'assurer l'ordre public, de contrôler la légalité des actes des collectivités territoriales (contrôle de légalité) et de coordonner les services de l'État dans le département.",
+            "mauvais_choix": [
+                "Le Président du conseil départemental, élu par les conseillers départementaux et chargé d'exécuter les décisions de l'État",
+                "Le sous-préfet d'arrondissement, seul représentant territorial de l'État au niveau infradépartemental",
+                "Le procureur de la République, représentant de l'autorité judiciaire et de l'État dans les affaires pénales du département"
+            ]
+        },
+        {
+            "id": 37,
+            "question": "Quel est le rôle du Président de la République ?",
+            "bonne_reponse": "Garant de la Constitution, de l'indépendance nationale et de l'intégrité du territoire, il arbitre le fonctionnement des pouvoirs publics et incarne la continuité de l'État",
+            "description_bonne_reponse": "Selon l'article 5 de la Constitution, le Président de la République veille au respect de la Constitution, assure le fonctionnement régulier des pouvoirs publics et la continuité de l'État, garantit l'indépendance nationale, l'intégrité du territoire et le respect des traités. Il dispose de prérogatives importantes : nomination du Premier ministre, présidence du Conseil des ministres, droit de dissolution, recours au référendum, pouvoir exceptionnel de l'article 16.",
+            "mauvais_choix": [
+                "Chef du gouvernement exclusif, le Président dirige directement l'ensemble des ministères et en est personnellement responsable devant le Parlement",
+                "Représentant protocolaire de la Nation, sans pouvoir exécutif réel, l'essentiel du pouvoir étant détenu par le Premier ministre",
+                "Garant de la Constitution mais soumis au contrôle permanent du Parlement qui peut le révoquer par un vote à la majorité simple"
+            ]
+        },
+        {
+            "id": 38,
+            "question": "Quel est le rôle du Premier ministre ?",
+            "bonne_reponse": "Il dirige l'action du gouvernement, assure l'exécution des lois, exerce le pouvoir réglementaire et est responsable devant l'Assemblée nationale",
+            "description_bonne_reponse": "Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du gouvernement, assure l'exécution des lois, exerce le pouvoir réglementaire général (décrets), est responsable de la Défense nationale et nomme aux emplois civils et militaires. Il est responsable devant l'Assemblée nationale qui peut lui retirer sa confiance par un vote de censure. Il contresigne la plupart des actes du Président de la République.",
+            "mauvais_choix": [
+                "Chef de l'État en second, le Premier ministre préside les Conseils des ministres en l'absence du Président et dispose du droit de veto législatif",
+                "Coordinateur exclusif des ministères économiques et financiers, le Premier ministre n'intervenant pas dans les politiques régaliennes",
+                "Représentant du gouvernement devant le Sénat uniquement, l'Assemblée nationale relevant de la seule responsabilité du Président"
+            ]
+        },
+        {
+            "id": 39,
+            "question": "Quel est le rôle du Défenseur des droits ?",
+            "bonne_reponse": "Défendre les droits et libertés des citoyens dans leurs relations avec les administrations publiques et lutter contre les discriminations",
+            "description_bonne_reponse": "Le Défenseur des droits est une autorité constitutionnelle indépendante créée par la révision constitutionnelle de 2008 et instituée par la loi organique de 2011. Il a repris les missions du Médiateur de la République, de la HALDE (discrimination), du Défenseur des enfants et de la Commission nationale de déontologie de la sécurité. Il peut être saisi par tout citoyen gratuitement, sans avocat, pour des difficultés avec une administration, une discrimination ou une violation des droits des enfants.",
+            "mauvais_choix": [
+                "Contrôler la régularité des élections nationales et locales, et arbitrer les litiges entre candidats et partis politiques",
+                "Représenter la France devant la Cour européenne des droits de l'homme et défendre les intérêts de l'État dans les procédures internationales",
+                "Superviser le travail parlementaire et signaler au Conseil constitutionnel les lois susceptibles de violer les droits fondamentaux"
+            ]
+        },
+        {
+            "id": 40,
+            "question": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+            "bonne_reponse": "En 1992, par le traité de Maastricht entré en vigueur le 1er novembre 1993",
+            "description_bonne_reponse": "La citoyenneté de l'Union européenne a été instaurée par le traité sur l'Union européenne, signé à Maastricht le 7 février 1992 et entré en vigueur le 1er novembre 1993. Elle s'ajoute à la citoyenneté nationale sans la remplacer. Elle confère notamment le droit de vote et d'éligibilité aux élections municipales et européennes dans tout État membre de l'UE, le droit de circuler et de séjourner librement dans l'UE, et la protection diplomatique.",
+            "mauvais_choix": [
+                "En 1957, lors de la signature du traité de Rome instituant la Communauté économique européenne",
+                "En 1986, lors de l'Acte unique européen qui a instauré la liberté de circulation des personnes dans la CEE",
+                "En 2004, lors de l'entrée en vigueur du traité constitutionnel européen adopté par les États membres"
+            ]
+        },
+        {
+            "id": 41,
+            "question": "Qui a composé l'hymne de l'Union européenne ?",
+            "bonne_reponse": "Ludwig van Beethoven, dont l'Ode à la joie (9e symphonie) a été adoptée comme hymne européen en 1985",
+            "description_bonne_reponse": "L'hymne européen est tiré du mouvement final de la 9e symphonie de Ludwig van Beethoven (1824), l'Ode à la joie, dont le texte est inspiré du poème de Friedrich von Schiller. Il a été adopté par le Conseil de l'Europe en 1972, puis par la Communauté européenne en 1985. L'hymne est joué sans paroles (uniquement l'arrangement orchestral) pour symboliser l'union dans la diversité des peuples européens.",
+            "mauvais_choix": [
+                "Wolfgang Amadeus Mozart, dont la Symphonie n°40 a été choisie comme symbole de l'héritage culturel commun européen",
+                "Johann Sebastian Bach, dont un choral de la Passion selon saint Matthieu a été adapté pour représenter les valeurs chrétiennes de l'Europe",
+                "Frédéric Chopin, compositeur polonais choisi pour symboliser l'élargissement de l'Union européenne vers l'Europe centrale et orientale"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Quand est célébrée la Journée de l'Europe ?",
+            "bonne_reponse": "Le 9 mai, anniversaire de la déclaration Schuman de 1950 qui est à l'origine de la construction européenne",
+            "description_bonne_reponse": "La Journée de l'Europe est célébrée chaque 9 mai en commémoration de la déclaration du ministre français des Affaires étrangères Robert Schuman, le 9 mai 1950. Cette déclaration proposait de mettre en commun les productions de charbon et d'acier franco-allemandes, fondant ainsi la CECA, première étape de la construction européenne. Cette date a été officiellement retenue par le Conseil européen de Milan en 1985.",
+            "mauvais_choix": [
+                "Le 25 mars, anniversaire de la signature du traité de Rome en 1957 fondant la Communauté économique européenne",
+                "Le 1er janvier, date marquant l'entrée en vigueur du marché unique européen et du traité de Maastricht",
+                "Le 7 février, anniversaire de la signature du traité de Maastricht en 1992 instaurant l'Union européenne"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Où est le siège de la Banque centrale européenne ?",
+            "bonne_reponse": "À Francfort-sur-le-Main, en Allemagne",
+            "description_bonne_reponse": "La Banque centrale européenne (BCE) a son siège à Francfort-sur-le-Main, en Allemagne, depuis sa création en 1998. Elle est installée dans une tour inaugurée en 2015. La BCE est responsable de la politique monétaire de la zone euro, dont le principal objectif est la stabilité des prix (inflation proche de 2 %). Elle est indépendante des gouvernements des États membres.",
+            "mauvais_choix": [
+                "À Bruxelles, en Belgique, où sont regroupées la plupart des institutions de l'Union européenne",
+                "À Luxembourg-Ville, au Luxembourg, siège historique des institutions financières européennes depuis 1952",
+                "À Amsterdam, aux Pays-Bas, place financière majeure choisie pour accueillir la BCE lors de la création de l'euro"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Où est le siège de la Commission européenne ?",
+            "bonne_reponse": "À Bruxelles, en Belgique (bâtiment Berlaymont)",
+            "description_bonne_reponse": "La Commission européenne a son siège principal à Bruxelles, dans le bâtiment Berlaymont, depuis 1967. Elle est l'organe exécutif de l'UE, gardienne des traités, et détient le monopole de l'initiative législative. Elle est composée de 27 commissaires (un par État membre) nommés pour 5 ans. Elle dispose également de bureaux de représentation dans chaque État membre et de délégations dans les pays tiers.",
+            "mauvais_choix": [
+                "À Strasbourg, en France, ville siège du Parlement européen et de toutes les institutions communautaires",
+                "À Luxembourg-Ville, au Luxembourg, où sont regroupées les institutions judiciaires et financières de l'Union",
+                "À La Haye, aux Pays-Bas, siège traditionnel des institutions supranationales et des organisations internationales en Europe"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Qui siège au Parlement européen ?",
+            "bonne_reponse": "Les députés européens (eurodéputés), élus au suffrage universel direct par les citoyens de chaque État membre",
+            "description_bonne_reponse": "Le Parlement européen est composé de 720 députés européens (depuis les élections de juin 2024), élus au suffrage universel direct dans chaque État membre pour un mandat de 5 ans. Le nombre de sièges par pays est proportionnel à la population, avec un minimum de 6 et un maximum de 96 sièges. Les eurodéputés siègent en groupes politiques transnationaux et non par nationalité.",
+            "mauvais_choix": [
+                "Les ministres des États membres, qui représentent leurs gouvernements nationaux dans la chambre haute du Parlement",
+                "Les représentants permanents des États membres et des commissaires européens chargés des affaires législatives",
+                "Des délégués nommés par les parlements nationaux de chaque État membre selon une clé de répartition proportionnelle"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+            "bonne_reponse": "27 États membres, depuis le retrait du Royaume-Uni (Brexit) effectif au 1er février 2020",
+            "description_bonne_reponse": "Au 1er janvier 2025, l'Union européenne compte 27 États membres. Après avoir compté 28 membres, elle est revenue à 27 suite au retrait officiel du Royaume-Uni (Brexit), entré en vigueur le 31 janvier 2020 (accord de retrait) puis complété par l'accord commercial au 1er janvier 2021. Plusieurs pays sont candidats à l'adhésion (Ukraine, Moldavie, pays des Balkans), mais aucune nouvelle adhésion n'est intervenue depuis la Croatie en 2013.",
+            "mauvais_choix": [
+                "28 États membres, le Royaume-Uni ayant finalement maintenu son adhésion après le référendum sur le Brexit de 2016",
+                "30 États membres, l'Ukraine et la Moldavie ayant officiellement intégré l'Union européenne en 2024",
+                "25 États membres, deux pays ayant quitté l'Union européenne suite à des crises politiques et économiques récentes"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+            "bonne_reponse": "Le 7 février 1992, avec une entrée en vigueur le 1er novembre 1993",
+            "description_bonne_reponse": "Le traité sur l'Union européenne (TUE), dit traité de Maastricht, a été signé le 7 février 1992 par les 12 États membres de la CEE et est entré en vigueur le 1er novembre 1993. Il a créé l'Union européenne, instauré la citoyenneté européenne, posé les bases de l'Union économique et monétaire (future zone euro) et introduit la structure en trois piliers (communautés européennes, politique étrangère, justice et affaires intérieures).",
+            "mauvais_choix": [
+                "Le 25 mars 1957, date fondatrice de la construction européenne avec la signature du traité de Rome",
+                "Le 1er janvier 1993, date d'entrée en vigueur du marché unique et de la libre circulation des personnes",
+                "Le 13 décembre 2007, lors de la signature du traité de Lisbonne réformant les institutions de l'Union européenne"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "Quel traité concerne la construction de l'Union européenne actuellement en vigueur ?",
+            "bonne_reponse": "Le traité de Lisbonne, signé le 13 décembre 2007 et entré en vigueur le 1er décembre 2009",
+            "description_bonne_reponse": "Le traité de Lisbonne est le traité fondateur actuellement en vigueur pour l'Union européenne. Il modifie le traité de Maastricht (TUE) et le traité de Rome (TFUE). Il a créé le poste de Président du Conseil européen (élu pour 2,5 ans), le Haut représentant de l'UE pour les affaires étrangères, renforcé les pouvoirs du Parlement européen, instauré la clause de retrait (article 50, utilisée par le Royaume-Uni) et la Charte des droits fondamentaux.",
+            "mauvais_choix": [
+                "Le traité de Rome de 1957, toujours en vigueur dans sa version originale comme texte fondateur de la construction européenne",
+                "Le traité constitutionnel européen adopté par référendum dans tous les États membres en 2005 et entré en vigueur en 2006",
+                "Le traité d'Amsterdam de 1997, qui constitue le texte de référence pour l'organisation institutionnelle actuelle de l'Union"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Quel État a quitté l'Union européenne en 2020 ?",
+            "bonne_reponse": "Le Royaume-Uni (Brexit), dont le retrait est entré en vigueur le 31 janvier 2020",
+            "description_bonne_reponse": "Le Royaume-Uni a quitté l'Union européenne à la suite du référendum du 23 juin 2016 (51,9 % pour le Brexit). Le retrait officiel est intervenu le 31 janvier 2020, suivi d'une période de transition jusqu'au 31 décembre 2020. L'accord de commerce et de coopération UE-Royaume-Uni est entré en vigueur le 1er janvier 2021. Le Royaume-Uni est le premier et seul État à avoir quitté l'UE, en utilisant la procédure de l'article 50 du traité de Lisbonne.",
+            "mauvais_choix": [
+                "La Norvège, qui avait rejoint l'UE en 1994 avant de se retirer suite à un second référendum négatif en 2019",
+                "La Suisse, qui avait intégré l'espace Schengen avant de s'en retirer en 2020 suite à une votation populaire",
+                "La Grèce, qui avait envisagé un Grexit lors de la crise de la dette en 2015 avant de finalement rester dans la zone euro"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Quel est l'hymne de l'Union européenne ?",
+            "bonne_reponse": "L'Ode à la joie, tiré du dernier mouvement de la 9e symphonie de Beethoven",
+            "description_bonne_reponse": "L'hymne européen est l'Ode à la joie (An die Freude), tiré du 4e mouvement de la 9e symphonie de Ludwig van Beethoven composée en 1824. Il a été adopté par le Conseil de l'Europe en 1972, puis par la Communauté européenne en 1985. Il est joué sans paroles lors des cérémonies officielles européennes, l'absence de paroles permettant de dépasser les barrières linguistiques des 24 langues officielles de l'UE.",
+            "mauvais_choix": [
+                "La Marseillaise européenne, hymne composite créé en 1957 fusionnant des extraits des hymnes des six États fondateurs",
+                "Europa, hymne spécialement composé par le musicien grec Vangelis pour la création de l'Union européenne en 1993",
+                "Les Quatre Saisons de Vivaldi, musique baroque italienne symbolisant la diversité culturelle du continent européen"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "De quoi est composé le drapeau européen ?",
+            "bonne_reponse": "Un cercle de douze étoiles dorées à cinq branches sur fond bleu, symbolisant l'unité et la solidarité des peuples européens",
+            "description_bonne_reponse": "Le drapeau européen représente un cercle de 12 étoiles dorées à cinq branches sur fond bleu azur. Il a été créé en 1955 pour le Conseil de l'Europe, avant d'être adopté par la Communauté européenne en 1986. Le chiffre 12 ne représente pas le nombre d'États membres (il est resté 12 même après les élargissements) mais symbolise la perfection et la plénitude selon la tradition européenne (12 mois, 12 heures, 12 apôtres).",
+            "mauvais_choix": [
+                "Autant d'étoiles que d'États membres, sur fond bleu, le nombre d'étoiles augmentant à chaque élargissement de l'Union",
+                "Une étoile centrale représentant l'Union entourée de cercles concentriques dorés sur fond bleu et or symbolisant les traités",
+                "Douze bandes alternées bleues et dorées avec une étoile centrale blanche, symbolisant les valeurs fondatrices de la paix en Europe"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Qui élit les députés européens ?",
+            "bonne_reponse": "Les citoyens de l'Union européenne, au suffrage universel direct, dans chaque État membre, tous les 5 ans",
+            "description_bonne_reponse": "Les députés européens sont élus au suffrage universel direct par les citoyens de l'Union européenne depuis 1979 (première élection directe). Le scrutin a lieu tous les 5 ans et simultanément dans tous les États membres. Chaque État détermine son mode de scrutin (en France, proportionnel de liste par circonscription unique depuis 2018). Les citoyens de l'UE résidant dans un autre État membre peuvent y voter.",
+            "mauvais_choix": [
+                "Les parlements nationaux de chaque État membre, qui désignent leurs représentants au Parlement européen proportionnellement à leur poids démographique",
+                "Le Conseil européen, composé des chefs d'État et de gouvernement, qui nomme les eurodéputés pour garantir leur indépendance",
+                "Les partis politiques européens, qui désignent leurs représentants selon des listes européennes communes adoptées en congrès transnational"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Où est le siège du Parlement européen ?",
+            "bonne_reponse": "À Strasbourg (France), siège officiel, avec des sessions supplémentaires à Bruxelles et le Secrétariat général à Luxembourg",
+            "description_bonne_reponse": "Le siège officiel du Parlement européen est à Strasbourg, où se tiennent les 12 sessions plénières mensuelles. Cependant, les commissions parlementaires et les sessions plénières additionnelles se tiennent à Bruxelles. Le Secrétariat général est basé à Luxembourg. Cette dispersion géographique fait l'objet de critiques pour son coût et son inefficacité, mais est garantie par les traités et fait l'objet de discussions récurrentes entre États membres.",
+            "mauvais_choix": [
+                "À Bruxelles uniquement, en Belgique, où sont regroupées toutes les institutions de l'Union européenne depuis le traité de Lisbonne",
+                "À Luxembourg-Ville, au Luxembourg, siège historique des premières institutions communautaires depuis la CECA en 1952",
+                "À Genève, en Suisse, ville internationale neutre choisie pour accueillir les institutions parlementaires supranationales"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Quel est le dernier État à avoir intégré l'Union européenne en 2013 ?",
+            "bonne_reponse": "La Croatie, devenue le 28e État membre le 1er juillet 2013",
+            "description_bonne_reponse": "La Croatie est le dernier pays à avoir adhéré à l'Union européenne, le 1er juillet 2013, devenant ainsi le 28e État membre (puis 27e après le Brexit). Après l'indépendance de la Yougoslavie (1991), la guerre des Balkans et un long processus de négociations entamé en 2005, la Croatie a signé son traité d'adhésion le 9 décembre 2011. Elle a également rejoint la zone euro en 2023 et l'espace Schengen en janvier 2023.",
+            "mauvais_choix": [
+                "La Bulgarie, qui a rejoint l'Union européenne en 2013 lors du même élargissement que la Roumanie dans les Balkans",
+                "La Serbie, qui a finalisé ses négociations d'adhésion en 2013 et est devenue membre à part entière de l'Union",
+                "Le Monténégro, qui a rejoint l'Union européenne en 2013, complétant ainsi l'intégration des États issus de l'ex-Yougoslavie"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?",
+            "bonne_reponse": "Oui, tout citoyen de l'UE résidant dans un autre État membre peut voter et être candidat aux élections municipales et européennes dans son pays de résidence",
+            "description_bonne_reponse": "La citoyenneté européenne, instaurée par le traité de Maastricht (1992), confère le droit de vote actif et passif aux élections municipales et aux élections du Parlement européen dans l'État membre de résidence, dans les mêmes conditions que les ressortissants de cet État. Un Allemand vivant en France peut ainsi voter aux élections municipales françaises. En revanche, les élections présidentielles et législatives restent réservées aux nationaux.",
+            "mauvais_choix": [
+                "Non, le droit de vote aux élections locales reste exclusivement réservé aux nationaux de chaque État membre souverain",
+                "Oui, mais uniquement pour les élections au Parlement européen, les élections municipales restant réservées aux citoyens nationaux",
+                "Oui, à condition de résider dans le pays depuis au moins 5 ans et d'avoir obtenu un titre de séjour permanent européen"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Quelle est la devise de l'Union européenne ?",
+            "bonne_reponse": "« Unie dans la diversité »",
+            "description_bonne_reponse": "La devise de l'Union européenne est « Unie dans la diversité » (en latin : In varietate concordia). Elle a été adoptée officiellement en 2000, à la suite d'un concours ouvert aux jeunes Européens. Elle signifie que les Européens se rassemblent au sein de l'UE pour œuvrer en faveur de la paix et de la prospérité, tout en restant attachés à la richesse de leurs diverses cultures, traditions et langues.",
+            "mauvais_choix": [
+                "« Liberté, Égalité, Fraternité », devise française adoptée comme symbole des valeurs communes de l'ensemble des États membres",
+                "« Paix, Prospérité, Solidarité », devise adoptée lors du traité de Lisbonne pour refléter les objectifs de l'Union au XXIe siècle",
+                "« Par l'Europe, pour les peuples », devise officieuse adoptée lors du premier anniversaire de la création de l'euro en 2000"
+            ]
+        }
+    ]
+}

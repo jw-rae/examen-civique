@@ -1,0 +1,423 @@
+{
+    "categorie": "Principes et valeurs de la République",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie...\"",
+            "bonne_reponse": "Le jour de gloire est arrivé !",
+            "description_bonne_reponse": "Le premier couplet de La Marseillaise, hymne national français composé par Rouget de Lisle en 1792, continue par \"Le jour de gloire est arrivé !\" C'est l'une des phrases les plus emblématiques de l'hymne national.",
+            "mauvais_choix": [
+                "La victoire en chantant nous ouvre la barrière !",
+                "Liberté, liberté chérie !",
+                "Contre nous de la tyrannie, l'étendard sanglant est levé !"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+            "bonne_reponse": "Ses compétences professionnelles et son expérience en lien avec le poste",
+            "description_bonne_reponse": "La loi française interdit de poser des questions sur la vie privée, les convictions religieuses, l'état de santé, la situation familiale ou les origines du candidat. Seules les informations en lien direct avec le poste peuvent être demandées, conformément au Code du travail et aux principes de non-discrimination.",
+            "mauvais_choix": [
+                "Sa religion et ses pratiques religieuses pour évaluer les absences futures",
+                "Son état de santé complet et ses antécédents médicaux",
+                "Sa situation familiale et son intention d'avoir des enfants"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Déclarer ses revenus aux services fiscaux est :",
+            "bonne_reponse": "Une obligation légale pour tout contribuable résidant en France",
+            "description_bonne_reponse": "La déclaration des revenus est une obligation légale prévue par le Code général des impôts. Tout contribuable domicilié fiscalement en France doit déclarer l'ensemble de ses revenus chaque année. Le non-respect de cette obligation expose à des pénalités fiscales.",
+            "mauvais_choix": [
+                "Un acte volontaire laissé à la discrétion de chaque citoyen",
+                "Une obligation uniquement pour les personnes gagnant plus de 30 000 euros par an",
+                "Une démarche facultative remplacée automatiquement par le prélèvement à la source"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+            "bonne_reponse": "Les impôts financent l'éducation, la santé, la défense nationale et les services publics accessibles à tous",
+            "description_bonne_reponse": "Les impôts constituent la principale ressource de l'État et des collectivités territoriales. Ils permettent de financer l'ensemble des services publics : l'éducation nationale, la santé via l'assurance maladie, la sécurité, la justice, les infrastructures et la solidarité nationale. C'est le principe de mutualisation des ressources au service de l'intérêt général.",
+            "mauvais_choix": [
+                "Les impôts servent uniquement à rembourser la dette de l'État",
+                "Seule une partie minoritaire des services publics est financée par les impôts, le reste l'étant par des cotisations privées",
+                "Les impôts sont reversés directement aux citoyens les plus démunis sans passer par l'État"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "La liberté d'association est :",
+            "bonne_reponse": "Le droit pour toute personne de créer ou rejoindre librement une association à but non lucratif, garanti par la loi du 1er juillet 1901",
+            "description_bonne_reponse": "La liberté d'association est consacrée par la loi du 1er juillet 1901. Elle permet à toute personne de s'unir à d'autres dans un but commun non lucratif, sans autorisation préalable de l'État. Il suffit de déclarer l'association en préfecture. C'est une liberté fondamentale reconnue par le Conseil constitutionnel.",
+            "mauvais_choix": [
+                "Un privilège accordé uniquement aux citoyens français majeurs ayant un casier judiciaire vierge",
+                "Une autorisation préfectorale obligatoire permettant à l'État de contrôler les regroupements de citoyens",
+                "Le droit exclusif des syndicats professionnels à se regrouper pour défendre leurs intérêts"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "La liberté d'expression sur les réseaux sociaux en France est :",
+            "bonne_reponse": "Garantie mais encadrée par la loi, notamment en matière de diffamation, d'incitation à la haine et d'injures publiques",
+            "description_bonne_reponse": "En France, la liberté d'expression est un droit fondamental garanti par la loi du 29 juillet 1881 sur la liberté de la presse et par la Constitution. Cependant, elle n'est pas absolue : les propos diffamatoires, l'incitation à la haine raciale ou religieuse, le négationnisme et les menaces sont réprimés par la loi, y compris sur les réseaux sociaux.",
+            "mauvais_choix": [
+                "Totalement libre et non soumise à aucune législation particulière car Internet est un espace de liberté",
+                "Strictement réglementée et soumise à une autorisation préalable de l'ARCOM pour chaque publication",
+                "Limitée aux seuls discours approuvés par les autorités publiques pour préserver l'ordre républicain"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Lequel de ces prénoms évoque un symbole de la République ?",
+            "bonne_reponse": "Marianne",
+            "description_bonne_reponse": "Marianne est le prénom associé au symbole féminin de la République française. Cette figure allégorique représente la liberté et la raison. Son buste est présent dans toutes les mairies de France et son effigie figure sur les documents officiels et les timbres-poste.",
+            "mauvais_choix": [
+                "Jeanne",
+                "Françoise",
+                "Liberté"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Lequel de ces symboles représente la République française ?",
+            "bonne_reponse": "Le coq gaulois",
+            "description_bonne_reponse": "Le coq gaulois est l'un des symboles non officiels mais historiquement associés à la France et à la République. Il figure notamment sur les grilles de l'Élysée et certains sceaux officiels. Parmi les symboles officiels, on trouve le drapeau tricolore, Marianne, La Marseillaise et la devise républicaine.",
+            "mauvais_choix": [
+                "L'aigle impérial à deux têtes",
+                "La fleur de lys royale",
+                "La croix de Saint-André"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Où peut-on voir la devise de la République ?",
+            "bonne_reponse": "Sur les frontons des bâtiments publics, les documents officiels de l'État et les pièces de monnaie",
+            "description_bonne_reponse": "La devise \"Liberté, Égalité, Fraternité\" est inscrite sur les frontons des mairies, des tribunaux, des écoles et autres édifices publics. On la retrouve également sur les documents officiels de l'État, les timbres-poste, les pièces de monnaie euro françaises et le sceau de la République.",
+            "mauvais_choix": [
+                "Uniquement sur le drapeau tricolore lors des cérémonies officielles",
+                "Exclusivement dans les textes de loi et les actes administratifs",
+                "Seulement dans les écoles publiques, conformément au principe de laïcité"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Lesquels sont des symboles officiels de la République française ?",
+            "bonne_reponse": "Le drapeau tricolore, La Marseillaise, la devise \"Liberté, Égalité, Fraternité\" et Marianne",
+            "description_bonne_reponse": "L'article 2 de la Constitution du 4 octobre 1958 définit les symboles officiels de la République française : le drapeau tricolore bleu, blanc, rouge ; La Marseillaise comme hymne national ; la devise \"Liberté, Égalité, Fraternité\" ; et Marianne comme emblème. Le 14 juillet est la fête nationale.",
+            "mauvais_choix": [
+                "La fleur de lys, le sceptre royal, La Marseillaise et le drapeau blanc",
+                "L'aigle napoléonien, la devise républicaine, le bonnet phrygien rouge et La Marseillaise",
+                "Le drapeau tricolore, le coq gaulois, la croix de Lorraine et la Marseillaise"
+            ]
+        },
+        {
+            "id": 11,
+            "question": "Peut-on brûler publiquement un drapeau français ?",
+            "bonne_reponse": "Non, c'est un délit punissable par la loi française",
+            "description_bonne_reponse": "Depuis la loi du 18 mars 2003, brûler ou dégrader publiquement le drapeau tricolore ou l'hymne national dans un contexte officiel est un délit. Cette infraction est passible de 7 500 euros d'amende. Cet acte est considéré comme une atteinte aux symboles de la République.",
+            "mauvais_choix": [
+                "Oui, cela relève de la liberté d'expression artistique protégée par la Constitution",
+                "Oui, à condition que l'acte soit réalisé lors d'une manifestation déclarée en préfecture",
+                "Non, mais uniquement si l'acte est filmé et diffusé sur les réseaux sociaux avec intention de nuire"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "Quand la Sécurité sociale a-t-elle été établie en France ?",
+            "bonne_reponse": "En 1945, à la Libération, sous l'impulsion du Conseil National de la Résistance",
+            "description_bonne_reponse": "La Sécurité sociale a été créée par les ordonnances du 4 et 19 octobre 1945, dans le contexte de la Libération. Elle est issue du programme du Conseil National de la Résistance (CNR) qui souhaitait instaurer une protection universelle couvrant la maladie, la retraite, la famille et les accidents du travail pour tous les travailleurs.",
+            "mauvais_choix": [
+                "En 1936, lors du Front Populaire avec les premiers congés payés",
+                "En 1958, lors de la fondation de la Ve République par le général de Gaulle",
+                "En 1905, en même temps que la loi de séparation des Églises et de l'État"
+            ]
+        },
+        {
+            "id": 13,
+            "question": "Que commémore la fête nationale du 14 juillet ?",
+            "bonne_reponse": "La prise de la Bastille le 14 juillet 1789 et la Fête de la Fédération du 14 juillet 1790",
+            "description_bonne_reponse": "La fête nationale française du 14 juillet commémore deux événements : la prise de la Bastille en 1789, symbole de la chute de l'absolutisme royal et du début de la Révolution française, et la Fête de la Fédération du 14 juillet 1790, qui célébrait l'unité nationale et la Constitution. La loi du 6 juillet 1880 en a fait la fête nationale.",
+            "mauvais_choix": [
+                "Uniquement la prise de la Bastille du 14 juillet 1789, début symbolique de la Révolution française",
+                "La proclamation de la République française le 14 juillet 1792 à Paris",
+                "La victoire de Valmy contre la coalition européenne, symbole de la défense de la République"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "Que porte Marianne sur la tête ?",
+            "bonne_reponse": "Le bonnet phrygien, symbole de la liberté",
+            "description_bonne_reponse": "Marianne est représentée portant un bonnet phrygien, coiffe conique héritée de l'Antiquité et portée par les esclaves affranchis à Rome pour symboliser leur liberté retrouvée. Ce bonnet est devenu, dès la Révolution française, le symbole de la liberté et de la République. Marianne peut aussi être représentée avec une couronne de laurier.",
+            "mauvais_choix": [
+                "Une couronne royale dorée à fleurs de lys, rappelant les origines monarchiques de la France",
+                "Un casque militaire, symbolisant la protection de la nation et la défense de la République",
+                "Un voile blanc, symbole de l'impartialité et de la neutralité de la République"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+            "bonne_reponse": "Le coq gaulois",
+            "description_bonne_reponse": "Le coq gaulois, symbole traditionnel associé à la France depuis l'Antiquité (le mot latin \"Gallus\" désignait à la fois le Gaulois et le coq), figure sur les maillots de l'équipe de France de football et sur ceux d'autres équipes sportives nationales. Il est géré par la Fédération Française de Football (FFF).",
+            "mauvais_choix": [
+                "La fleur de lys, emblème historique du royaume de France",
+                "Le monogramme RF (République Française) en lettres dorées",
+                "Marianne portant son bonnet phrygien, symbole de la République"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "Quelle est la devise de la République française ?",
+            "bonne_reponse": "Liberté, Égalité, Fraternité",
+            "description_bonne_reponse": "\"Liberté, Égalité, Fraternité\" est la devise officielle de la République française, inscrite à l'article 2 de la Constitution de 1958. Elle est née de la Révolution française et a été définitivement adoptée sous la IIIe République. Elle incarne les valeurs fondamentales sur lesquelles repose la République.",
+            "mauvais_choix": [
+                "Unité, Indivisibilité, Démocratie",
+                "Liberté, Égalité, Laïcité",
+                "Patrie, Honneur, République"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "Qu'est-ce que la liberté d'association ?",
+            "bonne_reponse": "Le droit reconnu à toute personne de se regrouper librement avec d'autres pour poursuivre un objectif commun non lucratif, sans autorisation préalable de l'État",
+            "description_bonne_reponse": "Consacrée par la loi du 1er juillet 1901, la liberté d'association permet à toute personne, quelle que soit sa nationalité, de créer ou d'adhérer à une association sans avoir à obtenir une autorisation préalable. Il suffit d'effectuer une déclaration en préfecture. Le Conseil constitutionnel a élevé cette liberté au rang de principe fondamental reconnu par les lois de la République.",
+            "mauvais_choix": [
+                "Le droit exclusif des syndicats à s'organiser collectivement pour défendre les intérêts des travailleurs",
+                "Une autorisation accordée par le préfet aux groupes souhaitant se constituer en personne morale",
+                "Le droit limité aux citoyens français de créer des partis politiques déclarés au Conseil d'État"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "Qu'est-ce qu'une liberté ?",
+            "bonne_reponse": "Un droit fondamental permettant à chaque individu d'agir sans contrainte arbitraire, dans les limites fixées par la loi pour protéger les libertés d'autrui",
+            "description_bonne_reponse": "Une liberté est un droit fondamental reconnu à l'individu d'agir selon sa volonté sans être soumis à des contraintes arbitraires. Cependant, comme l'énonce l'article 4 de la Déclaration des droits de l'homme de 1789, la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. Les libertés sont donc encadrées par la loi pour garantir leur exercice par tous.",
+            "mauvais_choix": [
+                "Un privilège accordé par l'État aux citoyens en échange de leur obéissance aux lois de la République",
+                "Une autorisation exceptionnelle délivrée par les pouvoirs publics pour déroger à la règle commune",
+                "Un droit absolu et illimité permettant à tout individu d'agir sans aucune contrainte légale ou morale"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "Sur quel document peut-on voir Marianne ?",
+            "bonne_reponse": "Sur les timbres-poste français et sur les pièces d'identité officielles",
+            "description_bonne_reponse": "L'effigie de Marianne figure sur de nombreux documents et objets officiels : les timbres-poste, les pièces de monnaie françaises en euros (côté face), le sceau de la République, les papiers officiels de l'État. Son buste est également présent dans toutes les mairies de France.",
+            "mauvais_choix": [
+                "Uniquement sur le passeport biométrique français, en filigrane de sécurité",
+                "Sur les billets de banque en euros émis par la Banque de France",
+                "Exclusivement sur les documents délivrés par le Parlement et le Sénat français"
+            ]
+        },
+        {
+            "id": 20,
+            "question": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+            "bonne_reponse": "Tous les citoyens sont égaux en droits et en dignité devant la loi, sans distinction de naissance, de race, de religion ou d'opinion",
+            "description_bonne_reponse": "L'égalité, inscrite dans la devise républicaine et à l'article 1er de la Constitution, signifie que tous les êtres humains naissent libres et égaux en droits. L'État garantit l'égalité devant la loi pour tous ses citoyens. Cela implique notamment l'égalité d'accès aux services publics, l'égalité fiscale et l'interdiction de toute discrimination.",
+            "mauvais_choix": [
+                "Tous les citoyens doivent avoir les mêmes revenus et le même niveau de vie, l'État devant corriger toutes les inégalités économiques",
+                "L'État doit traiter identiquement toutes les personnes résidant sur le territoire, qu'elles soient citoyennes ou non",
+                "Tous les citoyens ont exactement les mêmes droits et les mêmes devoirs, sans aucune distinction possible, même positive"
+            ]
+        },
+        {
+            "id": 21,
+            "question": "Une personne peut-elle changer librement de religion en France ?",
+            "bonne_reponse": "Oui, la liberté de conscience et de religion inclut le droit de changer de religion ou de ne pas en avoir",
+            "description_bonne_reponse": "En France, la liberté de conscience, garantie par la loi de 1905 et l'article 1er de la Constitution, inclut le droit de choisir sa religion, de la pratiquer, de la changer ou de n'en avoir aucune. Nul ne peut être contraint à exercer ou à abandonner une croyance religieuse. Ce droit est également protégé par la Convention européenne des droits de l'homme.",
+            "mauvais_choix": [
+                "Oui, mais uniquement si le changement de religion est déclaré à la mairie dans les trois mois suivant la conversion",
+                "Non, la religion est liée à l'état civil et ne peut être modifiée qu'après une procédure judiciaire spécifique",
+                "Oui, sauf pour les fonctionnaires qui doivent maintenir une neutralité absolue, y compris dans leur vie privée"
+            ]
+        },
+        {
+            "id": 22,
+            "question": "Que peut faire un usager du service public dans une mairie ?",
+            "bonne_reponse": "Déclarer une naissance, se marier, obtenir des documents d'état civil, s'inscrire sur les listes électorales et accéder à de nombreux services administratifs",
+            "description_bonne_reponse": "La mairie est le premier guichet de service public pour les citoyens. On peut y effectuer de nombreuses démarches : déclarer une naissance ou un décès, se marier, obtenir un extrait d'acte de naissance, s'inscrire sur les listes électorales, demander un passeport ou une carte d'identité, accéder aux services sociaux municipaux, déposer des demandes de permis de construire.",
+            "mauvais_choix": [
+                "Uniquement consulter les délibérations du conseil municipal et demander des actes notariés",
+                "Saisir le tribunal administratif et déposer des requêtes judiciaires contre l'État",
+                "Obtenir uniquement les documents liés à l'état civil comme les actes de naissance et de mariage"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "En France, il est possible pour l'État de financer :",
+            "bonne_reponse": "Les services d'aumônerie dans les établissements publics fermés (prisons, hôpitaux, armées), conformément aux exceptions prévues par la loi de 1905",
+            "description_bonne_reponse": "Si la loi de 1905 interdit en principe le financement des cultes, elle prévoit des exceptions pour les aumôneries des établissements publics fermés (prisons, hôpitaux militaires, lycées avec internat). L'État ne peut en revanche pas subventionner directement les lieux de culte ni les associations cultuelles, sauf pour des travaux sur des édifices appartenant à des collectivités.",
+            "mauvais_choix": [
+                "La construction de mosquées, d'églises et de synagogues dans les communes rurales manquant de lieux de culte",
+                "Le salaire des imams, pasteurs et rabbins exerçant dans des quartiers défavorisés prioritaires",
+                "L'enseignement religieux obligatoire dans les écoles publiques pour favoriser la connaissance des religions"
+            ]
+        },
+        {
+            "id": 24,
+            "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+            "bonne_reponse": "1905",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État a été votée sous la IIIe République, portée notamment par Aristide Briand et Francis de Pressensé. Elle met fin au régime concordataire établi par Napoléon en 1801 et fonde la laïcité française en garantissant la liberté de conscience et organisant la séparation entre les institutions religieuses et l'État.",
+            "mauvais_choix": [
+                "1880, lors des lois Ferry instaurant l'école publique laïque et gratuite",
+                "1789, lors de la Révolution française et de la nationalisation des biens du clergé",
+                "1946, lors de la rédaction du préambule de la Constitution de la IVe République"
+            ]
+        },
+        {
+            "id": 25,
+            "question": "Que dit la loi de 1905 ?",
+            "bonne_reponse": "Elle garantit la liberté de conscience, organise la séparation des Églises et de l'État, et interdit à la République de reconnaître, salarier ou subventionner aucun culte",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 comporte deux articles fondateurs : l'article 1er garantit la liberté de conscience et le libre exercice des cultes. L'article 2 dispose que la République ne reconnaît, ne salarie ni ne subventionne aucun culte. Elle organise ainsi la séparation totale entre l'institution étatique et les institutions religieuses.",
+            "mauvais_choix": [
+                "Elle interdit toute pratique religieuse dans les espaces publics et oblige les croyants à pratiquer uniquement en privé",
+                "Elle accorde à l'État le droit de contrôler et réguler le contenu des sermons et des enseignements religieux",
+                "Elle établit que le catholicisme n'est plus religion d'État mais conserve un statut officiel de \"tradition nationale\""
+            ]
+        },
+        {
+            "id": 26,
+            "question": "Que garantit le principe de laïcité ?",
+            "bonne_reponse": "La neutralité de l'État vis-à-vis de toutes les religions, la liberté de conscience pour tous et l'égalité de traitement des citoyens quelles que soient leurs croyances",
+            "description_bonne_reponse": "Le principe de laïcité, consacré à l'article 1er de la Constitution, garantit trois choses essentielles : la neutralité de l'État et des services publics à l'égard de toutes les religions, la liberté de conscience (croire ou ne pas croire), et l'égalité de tous les citoyens devant la loi sans considération de leur appartenance religieuse. La laïcité protège les croyants comme les non-croyants.",
+            "mauvais_choix": [
+                "L'interdiction absolue de toute expression religieuse dans l'espace public pour tous les citoyens",
+                "La suprématie des valeurs républicaines sur les convictions religieuses dans tous les domaines de la vie publique et privée",
+                "L'obligation pour tout citoyen de déclarer son absence de religion lors de démarches administratives officielles"
+            ]
+        },
+        {
+            "id": 27,
+            "question": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
+            "bonne_reponse": "Le 9 décembre, anniversaire de la loi de 1905 de séparation des Églises et de l'État",
+            "description_bonne_reponse": "La journée de la laïcité est officiellement célébrée le 9 décembre depuis 2015, date anniversaire de la loi du 9 décembre 1905. Cette journée vise à promouvoir les valeurs de la laïcité, notamment dans les établissements scolaires. Elle a été instaurée après les attentats de janvier 2015 pour renforcer l'enseignement des valeurs républicaines.",
+            "mauvais_choix": [
+                "Le 14 juillet, lors de la fête nationale, qui célèbre l'ensemble des valeurs républicaines",
+                "Le 1er novembre, date symbolique de la Toussaint choisie pour marquer la séparation avec le calendrier religieux",
+                "Le 21 mars, équinoxe de printemps, choisi pour son caractère universel et non religieux"
+            ]
+        },
+        {
+            "id": 28,
+            "question": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+            "bonne_reponse": "Aucun signe ou tenue manifestant ostensiblement une appartenance religieuse n'est autorisé pour les élèves dans les écoles publiques",
+            "description_bonne_reponse": "La loi du 15 mars 2004 interdit aux élèves des écoles, collèges et lycées publics de porter des signes ou tenues qui manifestent ostensiblement une appartenance religieuse (voile islamique, kippa, grande croix). Cette interdiction s'applique aux élèves et non aux parents ou aux personnels enseignants qui, eux, sont soumis au devoir de stricte neutralité.",
+            "mauvais_choix": [
+                "Les petites croix chrétiennes discrètes car elles font partie de la tradition culturelle française",
+                "Tous les symboles religieux à condition qu'ils soient portés de manière discrète et non ostentatoire",
+                "Le voile islamique léger, à condition qu'il ne couvre pas entièrement le visage et laisse le visage visible"
+            ]
+        },
+        {
+            "id": 29,
+            "question": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+            "bonne_reponse": "L'antisémitisme",
+            "description_bonne_reponse": "L'antisémitisme désigne les préjugés, discriminations, hostilité ou haines envers les personnes juives en tant que groupe religieux ou ethnique. En France, l'antisémitisme est un délit puni par la loi, notamment par la loi Pleven de 1972 sur la lutte contre le racisme. La France a connu des épisodes dramatiques d'antisémitisme d'État, notamment sous le régime de Vichy.",
+            "mauvais_choix": [
+                "La xénophobie",
+                "L'islamophobie",
+                "L'ostracisme"
+            ]
+        },
+        {
+            "id": 30,
+            "question": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+            "bonne_reponse": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité française. Elle abroge le Concordat de 1801 et établit la séparation entre l'État et les institutions religieuses. Ses deux premiers articles posent les principes essentiels : liberté de conscience et interdiction pour l'État de financer les cultes. Elle est complétée par l'article 1er de la Constitution de 1958.",
+            "mauvais_choix": [
+                "La Déclaration des droits de l'homme et du citoyen de 1789, qui proclame la liberté religieuse",
+                "Les lois Ferry de 1881-1882 instaurant l'école publique, gratuite et laïque",
+                "Le préambule de la Constitution de 1946 qui reconnaît la laïcité comme principe constitutionnel"
+            ]
+        },
+        {
+            "id": 31,
+            "question": "Quelle institution française doit rester neutre en matière de religion ?",
+            "bonne_reponse": "L'ensemble des services publics et des agents qui les représentent, y compris l'école, la justice, les hôpitaux et les administrations",
+            "description_bonne_reponse": "En vertu du principe de laïcité et de la loi de 1905, tous les services publics et leurs agents sont tenus à une stricte neutralité religieuse. Les fonctionnaires ne peuvent pas manifester leurs croyances religieuses dans l'exercice de leurs fonctions. Cette obligation de neutralité s'applique à l'État dans son ensemble : écoles, hôpitaux, tribunaux, administrations.",
+            "mauvais_choix": [
+                "Uniquement l'Éducation nationale, car c'est le seul service public en contact direct avec des mineurs",
+                "Seulement les institutions directement dépendantes du gouvernement central et non les collectivités territoriales",
+                "Exclusivement les institutions judiciaires, car la justice doit être rendue au nom du peuple français et non d'aucun dieu"
+            ]
+        },
+        {
+            "id": 32,
+            "question": "Qu'est-ce que la laïcité ?",
+            "bonne_reponse": "Un principe constitutionnel qui assure la neutralité de l'État face aux religions, garantit la liberté de conscience et sépare les institutions publiques des organisations religieuses",
+            "description_bonne_reponse": "La laïcité est inscrite à l'article 1er de la Constitution : \"La France est une République indivisible, laïque, démocratique et sociale.\" Elle repose sur trois piliers : la séparation de l'État et des religions, la neutralité des pouvoirs publics, et la liberté de conscience. La laïcité ne s'oppose pas aux religions mais les cantonne à la sphère privée et protège chacun dans ses convictions.",
+            "mauvais_choix": [
+                "Une idéologie athée imposée par l'État qui interdit toute pratique religieuse dans l'espace public français",
+                "Un régime de tolérance religieuse qui accorde à chaque religion un statut officiel proportionnel à son nombre de fidèles",
+                "Un principe uniquement applicable dans les écoles publiques, les autres institutions pouvant faire des exceptions"
+            ]
+        },
+        {
+            "id": 33,
+            "question": "À l'école, la charte de la laïcité permet de :",
+            "bonne_reponse": "Rappeler les règles et valeurs de la laïcité à toute la communauté éducative et garantir un espace neutre d'apprentissage pour tous les élèves",
+            "description_bonne_reponse": "La charte de la laïcité à l'École, affichée dans tous les établissements scolaires publics depuis 2013, rappelle les règles applicables en matière de laïcité et les droits et devoirs de chaque membre de la communauté éducative. Elle vise à faire comprendre et respecter le principe de laïcité, à assurer à chaque élève les conditions d'un enseignement serein et à développer le vivre-ensemble.",
+            "mauvais_choix": [
+                "Interdire aux parents d'élèves de manifester toute croyance religieuse lors des sorties scolaires et événements parascolaires",
+                "Évaluer chaque année le niveau de respect de la laïcité dans les familles des élèves et signaler les manquements",
+                "Obliger les élèves à déclarer officiellement leur appartenance ou leur absence de croyance religieuse en début d'année"
+            ]
+        },
+        {
+            "id": 34,
+            "question": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+            "bonne_reponse": "Tous les agents et fonctionnaires du service public dans l'exercice de leurs fonctions, quelle que soit leur religion personnelle",
+            "description_bonne_reponse": "L'obligation de neutralité religieuse s'applique à tous les agents de la fonction publique (État, collectivités territoriales, hôpitaux) pendant l'exercice de leurs fonctions. Ils ne peuvent pas manifester leurs croyances religieuses par des signes, tenues ou comportements. Cette obligation découle de la loi de 1905 et a été précisée par la loi du 20 avril 2016 relative à la déontologie des fonctionnaires.",
+            "mauvais_choix": [
+                "Uniquement les directeurs et chefs de service, responsables de l'image de leur administration",
+                "Seulement les fonctionnaires en contact direct avec le public, les agents administratifs internes n'étant pas concernés",
+                "Tous les citoyens sur le territoire français, y compris dans leur vie privée et leurs pratiques personnelles"
+            ]
+        },
+        {
+            "id": 35,
+            "question": "Une personne déclare ne croire en aucun dieu. On peut dire :",
+            "bonne_reponse": "Qu'elle est athée, ce qui est une position philosophique tout à fait légale et protégée par la liberté de conscience en France",
+            "description_bonne_reponse": "L'athéisme est l'absence de croyance en l'existence d'un ou plusieurs dieux. En France, la liberté de conscience garantie par la loi de 1905 et la Constitution protège le droit de ne pas croire autant que le droit de croire. Une personne athée jouit des mêmes droits que toute autre personne. L'athéisme ne doit pas être confondu avec l'agnosticisme (qui est le doute sur l'existence de dieux).",
+            "mauvais_choix": [
+                "Qu'elle est agnostique, terme désignant toute personne n'ayant pas de pratique religieuse régulière",
+                "Qu'elle est anticléricale, c'est-à-dire opposée à toute forme d'organisation religieuse institutionnelle",
+                "Qu'elle est hérétique, terme juridique français désignant les personnes rejetant les religions monothéistes"
+            ]
+        },
+        {
+            "id": 36,
+            "question": "Que signifie le mot \"fraternité\" dans la devise française ?",
+            "bonne_reponse": "Un lien de solidarité et d'entraide entre tous les citoyens, dépassant les différences individuelles pour former une communauté nationale unie",
+            "description_bonne_reponse": "La fraternité, troisième terme de la devise républicaine, exprime l'idée que tous les citoyens forment une même communauté humaine et se doivent solidarité et entraide. Elle fonde l'État-providence, la protection sociale et les politiques de solidarité nationale. Le Conseil constitutionnel a reconnu en 2018 que la fraternité est un principe constitutionnel pouvant fonder le droit d'aider autrui sans être poursuivi.",
+            "mauvais_choix": [
+                "L'obligation légale pour tout citoyen de porter assistance à une personne en danger sous peine de sanctions pénales",
+                "Un sentiment d'amour familial étendu à tous les Français de souche partageant la même culture et histoire nationale",
+                "Le devoir pour l'État de traiter de manière identique et sans aucune distinction tous les individus résidant sur son territoire"
+            ]
+        },
+        {
+            "id": 37,
+            "question": "Selon la Constitution, la France est une République :",
+            "bonne_reponse": "Indivisible, laïque, démocratique et sociale",
+            "description_bonne_reponse": "L'article 1er de la Constitution du 4 octobre 1958 dispose : \"La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.\" Ces quatre qualificatifs définissent le modèle républicain français dans sa globalité.",
+            "mauvais_choix": [
+                "Souveraine, indépendante, laïque et fédérale",
+                "Une et indivisible, fraternelle, laïque et libérale",
+                "Démocratique, sociale, fédérale et laïque"
+            ]
+        },
+        {
+            "id": 38,
+            "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+            "bonne_reponse": "L'État ne prend parti pour aucune religion ni contre aucune, ne finance pas les cultes et traite tous les citoyens de manière égale quelle que soit leur croyance",
+            "description_bonne_reponse": "La neutralité de l'État en matière religieuse signifie que les pouvoirs publics ne privilégient aucune religion et n'en combattent aucune. L'État ne reconnaît, ne salarie ni ne subventionne aucun culte (article 2 de la loi de 1905). Il garantit à chacun, croyant ou non, le libre exercice de ses convictions. Cette neutralité s'applique à l'ensemble des services et agents publics dans l'exercice de leurs missions.",
+            "mauvais_choix": [
+                "L'État interdit toute manifestation religieuse sur le territoire français afin de préserver la paix civile",
+                "L'État impose à tous les citoyens de laisser leurs convictions religieuses dans leur vie privée, y compris hors du service public",
+                "L'État soutient financièrement de manière équitable toutes les religions représentées sur le territoire national"
+            ]
+        }
+    ]
+}
