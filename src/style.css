@@ -10,28 +10,48 @@
   font-size: 15px;
 }
 
+/* ---- Themed scrollbar ---- */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-primary) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--color-border-primary);
+  border-radius: 3px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-tertiary);
+}
+
 body {
   font-family: var(--font-family-base, system-ui, -apple-system, sans-serif);
   background: var(--color-background-primary, #f8fafc);
   color: var(--color-text-primary, #0f172a);
   line-height: var(--line-height-normal, 1.5);
-  min-height: 100vh;
 }
 
 .app {
   max-width: var(--size-3xl, 48rem);
   margin: 0 auto;
-  padding: var(--space-lg);
-  min-height: 100vh;
+  padding: 0 var(--space-lg) var(--space-lg);
   position: relative;
 }
 
 /* ---- France tricolor bar ---- */
 .france-bar {
-  position: fixed;
+  position: sticky;
   top: 0;
-  left: 0;
-  right: 0;
   height: 3px;
   z-index: var(--z-index-50, 50);
   background: linear-gradient(to right, #002395 33.33%, #ffffff 33.33%, #ffffff 66.66%, #ed2939 66.66%);
@@ -352,7 +372,7 @@ body {
 
 /* ---- Livret popup ---- */
 .livret-overlay {
-  position: fixed;
+  position: absolute;
   inset: 0;
   z-index: var(--z-index-50, 50);
   background: rgba(0, 0, 0, 0.4);
