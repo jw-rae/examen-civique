@@ -10,7 +10,8 @@
                 "La victoire en chantant nous ouvre la barrière !",
                 "Liberté, liberté chérie !",
                 "Contre nous de la tyrannie, l'étendard sanglant est levé !"
-            ]
+            ],
+            "topics": ["marseillaise", "symboles"]
         },
         {
             "id": 2,
@@ -21,7 +22,8 @@
                 "Sa religion et ses pratiques religieuses pour évaluer les absences futures",
                 "Son état de santé complet et ses antécédents médicaux",
                 "Sa situation familiale et son intention d'avoir des enfants"
-            ]
+            ],
+            "topics": ["discrimination"]
         },
         {
             "id": 3,
@@ -32,7 +34,8 @@
                 "Un acte volontaire laissé à la discrétion de chaque citoyen",
                 "Une obligation uniquement pour les personnes gagnant plus de 30 000 euros par an",
                 "Une démarche facultative remplacée automatiquement par le prélèvement à la source"
-            ]
+            ],
+            "topics": ["devoirs-citoyens"]
         },
         {
             "id": 4,
@@ -43,7 +46,8 @@
                 "Les impôts servent uniquement à rembourser la dette de l'État",
                 "Seule une partie minoritaire des services publics est financée par les impôts, le reste l'étant par des cotisations privées",
                 "Les impôts sont reversés directement aux citoyens les plus démunis sans passer par l'État"
-            ]
+            ],
+            "topics": ["devoirs-citoyens"]
         },
         {
             "id": 5,
@@ -65,7 +69,8 @@
                 "Totalement libre et non soumise à aucune législation particulière car Internet est un espace de liberté",
                 "Strictement réglementée et soumise à une autorisation préalable de l'ARCOM pour chaque publication",
                 "Limitée aux seuls discours approuvés par les autorités publiques pour préserver l'ordre républicain"
-            ]
+            ],
+            "topics": ["liberte-expression"]
         },
         {
             "id": 7,
@@ -76,7 +81,8 @@
                 "Jeanne",
                 "Françoise",
                 "Liberté"
-            ]
+            ],
+            "topics": ["symboles"]
         },
         {
             "id": 8,
@@ -98,7 +104,8 @@
                 "Uniquement sur le drapeau tricolore lors des cérémonies officielles",
                 "Exclusivement dans les textes de loi et les actes administratifs",
                 "Seulement dans les écoles publiques, conformément au principe de laïcité"
-            ]
+            ],
+            "topics": ["symboles", "devise"]
         },
         {
             "id": 10,
@@ -109,7 +116,8 @@
                 "La fleur de lys, le sceptre royal, La Marseillaise et le drapeau blanc",
                 "L'aigle napoléonien, la devise républicaine, le bonnet phrygien rouge et La Marseillaise",
                 "Le drapeau tricolore, le coq gaulois, la croix de Lorraine et la Marseillaise"
-            ]
+            ],
+            "topics": ["symboles"]
         },
         {
             "id": 11,
@@ -131,7 +139,8 @@
                 "En 1936, lors du Front Populaire avec les premiers congés payés",
                 "En 1958, lors de la fondation de la Ve République par le général de Gaulle",
                 "En 1905, en même temps que la loi de séparation des Églises et de l'État"
-            ]
+            ],
+            "topics": ["resistance"]
         },
         {
             "id": 13,
@@ -142,7 +151,8 @@
                 "Uniquement la prise de la Bastille du 14 juillet 1789, début symbolique de la Révolution française",
                 "La proclamation de la République française le 14 juillet 1792 à Paris",
                 "La victoire de Valmy contre la coalition européenne, symbole de la défense de la République"
-            ]
+            ],
+            "topics": ["symboles", "histoire-revolution"]
         },
         {
             "id": 14,
@@ -153,7 +163,8 @@
                 "Une couronne royale dorée à fleurs de lys, rappelant les origines monarchiques de la France",
                 "Un casque militaire, symbolisant la protection de la nation et la défense de la République",
                 "Un voile blanc, symbole de l'impartialité et de la neutralité de la République"
-            ]
+            ],
+            "topics": ["symboles"]
         },
         {
             "id": 15,
@@ -175,13 +186,14 @@
                 "Unité, Indivisibilité, Démocratie",
                 "Liberté, Égalité, Laïcité",
                 "Patrie, Honneur, République"
-            ]
+            ],
+            "topics": ["devise"]
         },
         {
             "id": 17,
             "question": "Qu'est-ce que la liberté d'association ?",
             "bonne_reponse": "Le droit reconnu à toute personne de se regrouper librement avec d'autres pour poursuivre un objectif commun non lucratif, sans autorisation préalable de l'État",
-            "description_bonne_reponse": "Consacrée par la loi du 1er juillet 1901, la liberté d'association permet à toute personne, quelle que soit sa nationalité, de créer ou d'adhérer à une association sans avoir à obtenir une autorisation préalable. Il suffit d'effectuer une déclaration en préfecture. Le Conseil constitutionnel a élevé cette liberté au rang de principe fondamental reconnu par les lois de la République.",
+            "description_bonne_reponse": "Consacrée par la loi du 1er juillet 1901, la liberté d'association permet à toute personne, quelle que soit sa nationalité, de créer ou d'adhérer à une association sans avoir à obtenir une autorisation préalable. Il suffit d'effectuer une déclaration en préfecture.",
             "mauvais_choix": [
                 "Le droit exclusif des syndicats à s'organiser collectivement pour défendre les intérêts des travailleurs",
                 "Une autorisation accordée par le préfet aux groupes souhaitant se constituer en personne morale",
@@ -197,7 +209,8 @@
                 "Un privilège accordé par l'État aux citoyens en échange de leur obéissance aux lois de la République",
                 "Une autorisation exceptionnelle délivrée par les pouvoirs publics pour déroger à la règle commune",
                 "Un droit absolu et illimité permettant à tout individu d'agir sans aucune contrainte légale ou morale"
-            ]
+            ],
+            "topics": ["declaration-1789"]
         },
         {
             "id": 19,
@@ -208,216 +221,236 @@
                 "Uniquement sur le passeport biométrique français, en filigrane de sécurité",
                 "Sur les billets de banque en euros émis par la Banque de France",
                 "Exclusivement sur les documents délivrés par le Parlement et le Sénat français"
-            ]
+            ],
+            "topics": ["symboles"]
         },
         {
             "id": 20,
             "question": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
             "bonne_reponse": "Tous les citoyens sont égaux en droits et en dignité devant la loi, sans distinction de naissance, de race, de religion ou d'opinion",
-            "description_bonne_reponse": "L'égalité, inscrite dans la devise républicaine et à l'article 1er de la Constitution, signifie que tous les êtres humains naissent libres et égaux en droits. L'État garantit l'égalité devant la loi pour tous ses citoyens. Cela implique notamment l'égalité d'accès aux services publics, l'égalité fiscale et l'interdiction de toute discrimination.",
+            "description_bonne_reponse": "L'égalité, inscrite dans la devise républicaine et à l'article 1er de la Constitution, signifie que tous les êtres humains naissent libres et égaux en droits. L'État garantit l'égalité devant la loi pour tous ses citoyens.",
             "mauvais_choix": [
-                "Tous les citoyens doivent avoir les mêmes revenus et le même niveau de vie, l'État devant corriger toutes les inégalités économiques",
-                "L'État doit traiter identiquement toutes les personnes résidant sur le territoire, qu'elles soient citoyennes ou non",
-                "Tous les citoyens ont exactement les mêmes droits et les mêmes devoirs, sans aucune distinction possible, même positive"
-            ]
+                "Tous les citoyens doivent avoir les mêmes revenus et le même niveau de vie",
+                "L'État doit traiter identiquement toutes les personnes résidant sur le territoire",
+                "Tous les citoyens ont exactement les mêmes droits et les mêmes devoirs sans aucune distinction possible"
+            ],
+            "topics": ["devise"]
         },
         {
             "id": 21,
             "question": "Une personne peut-elle changer librement de religion en France ?",
             "bonne_reponse": "Oui, la liberté de conscience et de religion inclut le droit de changer de religion ou de ne pas en avoir",
-            "description_bonne_reponse": "En France, la liberté de conscience, garantie par la loi de 1905 et l'article 1er de la Constitution, inclut le droit de choisir sa religion, de la pratiquer, de la changer ou de n'en avoir aucune. Nul ne peut être contraint à exercer ou à abandonner une croyance religieuse. Ce droit est également protégé par la Convention européenne des droits de l'homme.",
+            "description_bonne_reponse": "En France, la liberté de conscience, garantie par la loi de 1905 et l'article 1er de la Constitution, inclut le droit de choisir sa religion, de la pratiquer, de la changer ou de n'en avoir aucune.",
             "mauvais_choix": [
-                "Oui, mais uniquement si le changement de religion est déclaré à la mairie dans les trois mois suivant la conversion",
-                "Non, la religion est liée à l'état civil et ne peut être modifiée qu'après une procédure judiciaire spécifique",
-                "Oui, sauf pour les fonctionnaires qui doivent maintenir une neutralité absolue, y compris dans leur vie privée"
-            ]
+                "Oui, mais uniquement si le changement de religion est déclaré à la mairie",
+                "Non, la religion est liée à l'état civil et ne peut être modifiée",
+                "Oui, sauf pour les fonctionnaires qui doivent maintenir une neutralité absolue"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 22,
             "question": "Que peut faire un usager du service public dans une mairie ?",
             "bonne_reponse": "Déclarer une naissance, se marier, obtenir des documents d'état civil, s'inscrire sur les listes électorales et accéder à de nombreux services administratifs",
-            "description_bonne_reponse": "La mairie est le premier guichet de service public pour les citoyens. On peut y effectuer de nombreuses démarches : déclarer une naissance ou un décès, se marier, obtenir un extrait d'acte de naissance, s'inscrire sur les listes électorales, demander un passeport ou une carte d'identité, accéder aux services sociaux municipaux, déposer des demandes de permis de construire.",
+            "description_bonne_reponse": "La mairie est le premier guichet de service public pour les citoyens. On peut y effectuer de nombreuses démarches : déclarer une naissance ou un décès, se marier, obtenir un extrait d'acte de naissance, s'inscrire sur les listes électorales, demander un passeport ou une carte d'identité.",
             "mauvais_choix": [
-                "Uniquement consulter les délibérations du conseil municipal et demander des actes notariés",
-                "Saisir le tribunal administratif et déposer des requêtes judiciaires contre l'État",
-                "Obtenir uniquement les documents liés à l'état civil comme les actes de naissance et de mariage"
-            ]
+                "Uniquement consulter les délibérations du conseil municipal",
+                "Saisir le tribunal administratif contre l'État",
+                "Obtenir uniquement les documents liés à l'état civil"
+            ],
+            "topics": ["commune"]
         },
         {
             "id": 23,
             "question": "En France, il est possible pour l'État de financer :",
             "bonne_reponse": "Les services d'aumônerie dans les établissements publics fermés (prisons, hôpitaux, armées), conformément aux exceptions prévues par la loi de 1905",
-            "description_bonne_reponse": "Si la loi de 1905 interdit en principe le financement des cultes, elle prévoit des exceptions pour les aumôneries des établissements publics fermés (prisons, hôpitaux militaires, lycées avec internat). L'État ne peut en revanche pas subventionner directement les lieux de culte ni les associations cultuelles, sauf pour des travaux sur des édifices appartenant à des collectivités.",
+            "description_bonne_reponse": "Si la loi de 1905 interdit en principe le financement des cultes, elle prévoit des exceptions pour les aumôneries des établissements publics fermés (prisons, hôpitaux militaires, lycées avec internat).",
             "mauvais_choix": [
-                "La construction de mosquées, d'églises et de synagogues dans les communes rurales manquant de lieux de culte",
-                "Le salaire des imams, pasteurs et rabbins exerçant dans des quartiers défavorisés prioritaires",
-                "L'enseignement religieux obligatoire dans les écoles publiques pour favoriser la connaissance des religions"
-            ]
+                "La construction de mosquées, d'églises et de synagogues",
+                "Le salaire des imams, pasteurs et rabbins",
+                "L'enseignement religieux obligatoire dans les écoles publiques"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 24,
             "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
             "bonne_reponse": "1905",
-            "description_bonne_reponse": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État a été votée sous la IIIe République, portée notamment par Aristide Briand et Francis de Pressensé. Elle met fin au régime concordataire établi par Napoléon en 1801 et fonde la laïcité française en garantissant la liberté de conscience et organisant la séparation entre les institutions religieuses et l'État.",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État a été votée sous la IIIe République. Elle met fin au régime concordataire établi par Napoléon en 1801 et fonde la laïcité française.",
             "mauvais_choix": [
                 "1880, lors des lois Ferry instaurant l'école publique laïque et gratuite",
-                "1789, lors de la Révolution française et de la nationalisation des biens du clergé",
+                "1789, lors de la Révolution française",
                 "1946, lors de la rédaction du préambule de la Constitution de la IVe République"
-            ]
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 25,
             "question": "Que dit la loi de 1905 ?",
             "bonne_reponse": "Elle garantit la liberté de conscience, organise la séparation des Églises et de l'État, et interdit à la République de reconnaître, salarier ou subventionner aucun culte",
-            "description_bonne_reponse": "La loi du 9 décembre 1905 comporte deux articles fondateurs : l'article 1er garantit la liberté de conscience et le libre exercice des cultes. L'article 2 dispose que la République ne reconnaît, ne salarie ni ne subventionne aucun culte. Elle organise ainsi la séparation totale entre l'institution étatique et les institutions religieuses.",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 comporte deux articles fondateurs : l'article 1er garantit la liberté de conscience et le libre exercice des cultes. L'article 2 dispose que la République ne reconnaît, ne salarie ni ne subventionne aucun culte.",
             "mauvais_choix": [
-                "Elle interdit toute pratique religieuse dans les espaces publics et oblige les croyants à pratiquer uniquement en privé",
-                "Elle accorde à l'État le droit de contrôler et réguler le contenu des sermons et des enseignements religieux",
-                "Elle établit que le catholicisme n'est plus religion d'État mais conserve un statut officiel de \"tradition nationale\""
-            ]
+                "Elle interdit toute pratique religieuse dans les espaces publics",
+                "Elle accorde à l'État le droit de contrôler les sermons religieux",
+                "Elle établit que le catholicisme n'est plus religion d'État mais conserve un statut officiel"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 26,
             "question": "Que garantit le principe de laïcité ?",
             "bonne_reponse": "La neutralité de l'État vis-à-vis de toutes les religions, la liberté de conscience pour tous et l'égalité de traitement des citoyens quelles que soient leurs croyances",
-            "description_bonne_reponse": "Le principe de laïcité, consacré à l'article 1er de la Constitution, garantit trois choses essentielles : la neutralité de l'État et des services publics à l'égard de toutes les religions, la liberté de conscience (croire ou ne pas croire), et l'égalité de tous les citoyens devant la loi sans considération de leur appartenance religieuse. La laïcité protège les croyants comme les non-croyants.",
+            "description_bonne_reponse": "Le principe de laïcité, consacré à l'article 1er de la Constitution, garantit trois choses : la neutralité de l'État et des services publics à l'égard de toutes les religions, la liberté de conscience (croire ou ne pas croire), et l'égalité de tous les citoyens devant la loi.",
             "mauvais_choix": [
-                "L'interdiction absolue de toute expression religieuse dans l'espace public pour tous les citoyens",
-                "La suprématie des valeurs républicaines sur les convictions religieuses dans tous les domaines de la vie publique et privée",
-                "L'obligation pour tout citoyen de déclarer son absence de religion lors de démarches administratives officielles"
-            ]
+                "L'interdiction absolue de toute expression religieuse dans l'espace public",
+                "La suprématie des valeurs républicaines sur les convictions religieuses",
+                "L'obligation pour tout citoyen de déclarer son absence de religion"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 27,
             "question": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
             "bonne_reponse": "Le 9 décembre, anniversaire de la loi de 1905 de séparation des Églises et de l'État",
-            "description_bonne_reponse": "La journée de la laïcité est officiellement célébrée le 9 décembre depuis 2015, date anniversaire de la loi du 9 décembre 1905. Cette journée vise à promouvoir les valeurs de la laïcité, notamment dans les établissements scolaires. Elle a été instaurée après les attentats de janvier 2015 pour renforcer l'enseignement des valeurs républicaines.",
+            "description_bonne_reponse": "La journée de la laïcité est officiellement célébrée le 9 décembre depuis 2015, date anniversaire de la loi du 9 décembre 1905.",
             "mauvais_choix": [
-                "Le 14 juillet, lors de la fête nationale, qui célèbre l'ensemble des valeurs républicaines",
-                "Le 1er novembre, date symbolique de la Toussaint choisie pour marquer la séparation avec le calendrier religieux",
-                "Le 21 mars, équinoxe de printemps, choisi pour son caractère universel et non religieux"
-            ]
+                "Le 14 juillet, lors de la fête nationale",
+                "Le 1er novembre, date symbolique de la Toussaint",
+                "Le 21 mars, équinoxe de printemps"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 28,
             "question": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
             "bonne_reponse": "Aucun signe ou tenue manifestant ostensiblement une appartenance religieuse n'est autorisé pour les élèves dans les écoles publiques",
-            "description_bonne_reponse": "La loi du 15 mars 2004 interdit aux élèves des écoles, collèges et lycées publics de porter des signes ou tenues qui manifestent ostensiblement une appartenance religieuse (voile islamique, kippa, grande croix). Cette interdiction s'applique aux élèves et non aux parents ou aux personnels enseignants qui, eux, sont soumis au devoir de stricte neutralité.",
+            "description_bonne_reponse": "La loi du 15 mars 2004 interdit aux élèves des écoles, collèges et lycées publics de porter des signes ou tenues qui manifestent ostensiblement une appartenance religieuse (voile islamique, kippa, grande croix).",
             "mauvais_choix": [
-                "Les petites croix chrétiennes discrètes car elles font partie de la tradition culturelle française",
-                "Tous les symboles religieux à condition qu'ils soient portés de manière discrète et non ostentatoire",
-                "Le voile islamique léger, à condition qu'il ne couvre pas entièrement le visage et laisse le visage visible"
-            ]
+                "Les petites croix chrétiennes discrètes car elles font partie de la tradition culturelle",
+                "Tous les symboles religieux à condition qu'ils soient portés de manière discrète",
+                "Le voile islamique léger, à condition qu'il ne couvre pas entièrement le visage"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 29,
             "question": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
             "bonne_reponse": "L'antisémitisme",
-            "description_bonne_reponse": "L'antisémitisme désigne les préjugés, discriminations, hostilité ou haines envers les personnes juives en tant que groupe religieux ou ethnique. En France, l'antisémitisme est un délit puni par la loi, notamment par la loi Pleven de 1972 sur la lutte contre le racisme. La France a connu des épisodes dramatiques d'antisémitisme d'État, notamment sous le régime de Vichy.",
+            "description_bonne_reponse": "L'antisémitisme désigne les préjugés, discriminations, hostilité ou haines envers les personnes juives. En France, l'antisémitisme est un délit puni par la loi.",
             "mauvais_choix": [
                 "La xénophobie",
                 "L'islamophobie",
                 "L'ostracisme"
-            ]
+            ],
+            "topics": ["discrimination", "deportation"]
         },
         {
             "id": 30,
             "question": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
             "bonne_reponse": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État",
-            "description_bonne_reponse": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité française. Elle abroge le Concordat de 1801 et établit la séparation entre l'État et les institutions religieuses. Ses deux premiers articles posent les principes essentiels : liberté de conscience et interdiction pour l'État de financer les cultes. Elle est complétée par l'article 1er de la Constitution de 1958.",
+            "description_bonne_reponse": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité française. Elle abroge le Concordat de 1801 et établit la séparation entre l'État et les institutions religieuses.",
             "mauvais_choix": [
-                "La Déclaration des droits de l'homme et du citoyen de 1789, qui proclame la liberté religieuse",
+                "La Déclaration des droits de l'homme et du citoyen de 1789",
                 "Les lois Ferry de 1881-1882 instaurant l'école publique, gratuite et laïque",
-                "Le préambule de la Constitution de 1946 qui reconnaît la laïcité comme principe constitutionnel"
-            ]
+                "Le préambule de la Constitution de 1946"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 31,
             "question": "Quelle institution française doit rester neutre en matière de religion ?",
             "bonne_reponse": "L'ensemble des services publics et des agents qui les représentent, y compris l'école, la justice, les hôpitaux et les administrations",
-            "description_bonne_reponse": "En vertu du principe de laïcité et de la loi de 1905, tous les services publics et leurs agents sont tenus à une stricte neutralité religieuse. Les fonctionnaires ne peuvent pas manifester leurs croyances religieuses dans l'exercice de leurs fonctions. Cette obligation de neutralité s'applique à l'État dans son ensemble : écoles, hôpitaux, tribunaux, administrations.",
+            "description_bonne_reponse": "En vertu du principe de laïcité et de la loi de 1905, tous les services publics et leurs agents sont tenus à une stricte neutralité religieuse.",
             "mauvais_choix": [
-                "Uniquement l'Éducation nationale, car c'est le seul service public en contact direct avec des mineurs",
-                "Seulement les institutions directement dépendantes du gouvernement central et non les collectivités territoriales",
-                "Exclusivement les institutions judiciaires, car la justice doit être rendue au nom du peuple français et non d'aucun dieu"
-            ]
+                "Uniquement l'Éducation nationale",
+                "Seulement les institutions directement dépendantes du gouvernement central",
+                "Exclusivement les institutions judiciaires"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 32,
             "question": "Qu'est-ce que la laïcité ?",
             "bonne_reponse": "Un principe constitutionnel qui assure la neutralité de l'État face aux religions, garantit la liberté de conscience et sépare les institutions publiques des organisations religieuses",
-            "description_bonne_reponse": "La laïcité est inscrite à l'article 1er de la Constitution : \"La France est une République indivisible, laïque, démocratique et sociale.\" Elle repose sur trois piliers : la séparation de l'État et des religions, la neutralité des pouvoirs publics, et la liberté de conscience. La laïcité ne s'oppose pas aux religions mais les cantonne à la sphère privée et protège chacun dans ses convictions.",
+            "description_bonne_reponse": "La laïcité est inscrite à l'article 1er de la Constitution. Elle repose sur trois piliers : la séparation de l'État et des religions, la neutralité des pouvoirs publics, et la liberté de conscience.",
             "mauvais_choix": [
-                "Une idéologie athée imposée par l'État qui interdit toute pratique religieuse dans l'espace public français",
-                "Un régime de tolérance religieuse qui accorde à chaque religion un statut officiel proportionnel à son nombre de fidèles",
-                "Un principe uniquement applicable dans les écoles publiques, les autres institutions pouvant faire des exceptions"
-            ]
+                "Une idéologie athée imposée par l'État",
+                "Un régime de tolérance religieuse qui accorde à chaque religion un statut officiel",
+                "Un principe uniquement applicable dans les écoles publiques"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 33,
             "question": "À l'école, la charte de la laïcité permet de :",
             "bonne_reponse": "Rappeler les règles et valeurs de la laïcité à toute la communauté éducative et garantir un espace neutre d'apprentissage pour tous les élèves",
-            "description_bonne_reponse": "La charte de la laïcité à l'École, affichée dans tous les établissements scolaires publics depuis 2013, rappelle les règles applicables en matière de laïcité et les droits et devoirs de chaque membre de la communauté éducative. Elle vise à faire comprendre et respecter le principe de laïcité, à assurer à chaque élève les conditions d'un enseignement serein et à développer le vivre-ensemble.",
+            "description_bonne_reponse": "La charte de la laïcité à l'École, affichée dans tous les établissements scolaires publics depuis 2013, rappelle les règles applicables en matière de laïcité.",
             "mauvais_choix": [
-                "Interdire aux parents d'élèves de manifester toute croyance religieuse lors des sorties scolaires et événements parascolaires",
-                "Évaluer chaque année le niveau de respect de la laïcité dans les familles des élèves et signaler les manquements",
-                "Obliger les élèves à déclarer officiellement leur appartenance ou leur absence de croyance religieuse en début d'année"
-            ]
+                "Interdire aux parents d'élèves de manifester toute croyance religieuse",
+                "Évaluer chaque année le niveau de respect de la laïcité dans les familles",
+                "Obliger les élèves à déclarer officiellement leur appartenance religieuse"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 34,
             "question": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
             "bonne_reponse": "Tous les agents et fonctionnaires du service public dans l'exercice de leurs fonctions, quelle que soit leur religion personnelle",
-            "description_bonne_reponse": "L'obligation de neutralité religieuse s'applique à tous les agents de la fonction publique (État, collectivités territoriales, hôpitaux) pendant l'exercice de leurs fonctions. Ils ne peuvent pas manifester leurs croyances religieuses par des signes, tenues ou comportements. Cette obligation découle de la loi de 1905 et a été précisée par la loi du 20 avril 2016 relative à la déontologie des fonctionnaires.",
+            "description_bonne_reponse": "L'obligation de neutralité religieuse s'applique à tous les agents de la fonction publique pendant l'exercice de leurs fonctions.",
             "mauvais_choix": [
-                "Uniquement les directeurs et chefs de service, responsables de l'image de leur administration",
-                "Seulement les fonctionnaires en contact direct avec le public, les agents administratifs internes n'étant pas concernés",
-                "Tous les citoyens sur le territoire français, y compris dans leur vie privée et leurs pratiques personnelles"
-            ]
+                "Uniquement les directeurs et chefs de service",
+                "Seulement les fonctionnaires en contact direct avec le public",
+                "Tous les citoyens sur le territoire français, y compris dans leur vie privée"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 35,
             "question": "Une personne déclare ne croire en aucun dieu. On peut dire :",
             "bonne_reponse": "Qu'elle est athée, ce qui est une position philosophique tout à fait légale et protégée par la liberté de conscience en France",
-            "description_bonne_reponse": "L'athéisme est l'absence de croyance en l'existence d'un ou plusieurs dieux. En France, la liberté de conscience garantie par la loi de 1905 et la Constitution protège le droit de ne pas croire autant que le droit de croire. Une personne athée jouit des mêmes droits que toute autre personne. L'athéisme ne doit pas être confondu avec l'agnosticisme (qui est le doute sur l'existence de dieux).",
+            "description_bonne_reponse": "L'athéisme est l'absence de croyance en l'existence d'un ou plusieurs dieux. La liberté de conscience garantie par la loi de 1905 protège le droit de ne pas croire autant que le droit de croire.",
             "mauvais_choix": [
-                "Qu'elle est agnostique, terme désignant toute personne n'ayant pas de pratique religieuse régulière",
-                "Qu'elle est anticléricale, c'est-à-dire opposée à toute forme d'organisation religieuse institutionnelle",
-                "Qu'elle est hérétique, terme juridique français désignant les personnes rejetant les religions monothéistes"
-            ]
+                "Qu'elle est agnostique",
+                "Qu'elle est anticléricale",
+                "Qu'elle est hérétique"
+            ],
+            "topics": ["laicite"]
         },
         {
             "id": 36,
             "question": "Que signifie le mot \"fraternité\" dans la devise française ?",
             "bonne_reponse": "Un lien de solidarité et d'entraide entre tous les citoyens, dépassant les différences individuelles pour former une communauté nationale unie",
-            "description_bonne_reponse": "La fraternité, troisième terme de la devise républicaine, exprime l'idée que tous les citoyens forment une même communauté humaine et se doivent solidarité et entraide. Elle fonde l'État-providence, la protection sociale et les politiques de solidarité nationale. Le Conseil constitutionnel a reconnu en 2018 que la fraternité est un principe constitutionnel pouvant fonder le droit d'aider autrui sans être poursuivi.",
+            "description_bonne_reponse": "La fraternité, troisième terme de la devise républicaine, exprime l'idée que tous les citoyens forment une même communauté humaine et se doivent solidarité et entraide.",
             "mauvais_choix": [
-                "L'obligation légale pour tout citoyen de porter assistance à une personne en danger sous peine de sanctions pénales",
-                "Un sentiment d'amour familial étendu à tous les Français de souche partageant la même culture et histoire nationale",
-                "Le devoir pour l'État de traiter de manière identique et sans aucune distinction tous les individus résidant sur son territoire"
-            ]
+                "L'obligation légale de porter assistance à une personne en danger",
+                "Un sentiment d'amour familial étendu à tous les Français",
+                "Le devoir pour l'État de traiter de manière identique tous les individus"
+            ],
+            "topics": ["devise"]
         },
         {
             "id": 37,
             "question": "Selon la Constitution, la France est une République :",
             "bonne_reponse": "Indivisible, laïque, démocratique et sociale",
-            "description_bonne_reponse": "L'article 1er de la Constitution du 4 octobre 1958 dispose : \"La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.\" Ces quatre qualificatifs définissent le modèle républicain français dans sa globalité.",
+            "description_bonne_reponse": "L'article 1er de la Constitution du 4 octobre 1958 dispose : \"La France est une République indivisible, laïque, démocratique et sociale.\"",
             "mauvais_choix": [
                 "Souveraine, indépendante, laïque et fédérale",
                 "Une et indivisible, fraternelle, laïque et libérale",
                 "Démocratique, sociale, fédérale et laïque"
-            ]
+            ],
+            "topics": ["constitution", "laicite"]
         },
         {
             "id": 38,
             "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
             "bonne_reponse": "L'État ne prend parti pour aucune religion ni contre aucune, ne finance pas les cultes et traite tous les citoyens de manière égale quelle que soit leur croyance",
-            "description_bonne_reponse": "La neutralité de l'État en matière religieuse signifie que les pouvoirs publics ne privilégient aucune religion et n'en combattent aucune. L'État ne reconnaît, ne salarie ni ne subventionne aucun culte (article 2 de la loi de 1905). Il garantit à chacun, croyant ou non, le libre exercice de ses convictions. Cette neutralité s'applique à l'ensemble des services et agents publics dans l'exercice de leurs missions.",
+            "description_bonne_reponse": "La neutralité de l'État en matière religieuse signifie que les pouvoirs publics ne privilégient aucune religion et n'en combattent aucune.",
             "mauvais_choix": [
-                "L'État interdit toute manifestation religieuse sur le territoire français afin de préserver la paix civile",
-                "L'État impose à tous les citoyens de laisser leurs convictions religieuses dans leur vie privée, y compris hors du service public",
-                "L'État soutient financièrement de manière équitable toutes les religions représentées sur le territoire national"
-            ]
+                "L'État interdit toute manifestation religieuse sur le territoire français",
+                "L'État impose aux citoyens de laisser leurs convictions religieuses dans leur vie privée",
+                "L'État soutient financièrement de manière équitable toutes les religions"
+            ],
+            "topics": ["laicite"]
         }
     ]
 }

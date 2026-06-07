@@ -2,6 +2,9 @@
 import { ref, computed, watch, onUnmounted, nextTick } from 'vue'
 import type { Question, AnswerRecord } from '../data/types'
 import { shuffleArray } from '../data/questions'
+import { livretSections } from '../data/livretSections'
+import type { LivretSection } from '../data/livretSections'
+import LivretPopup from './LivretPopup.vue'
 
 const props = defineProps<{ questions: Question[] }>()
 const emit = defineEmits<{ finish: [answers: AnswerRecord[]] }>()
@@ -116,6 +119,18 @@ watch(index, () => {
   if (speedMode.value && !confirmed.value) startTimer()
 })
 
+const popupSection = ref<LivretSection | null>(null)
+
+function getLivretSection(): LivretSection | null {
+  if (!current.value?.topics?.length) return null
+  const firstTopic = current.value.topics[0]
+  return livretSections.find(s => s.id === firstTopic) ?? null
+}
+
+function openLivret() {
+  popupSection.value = getLivretSection()
+}
+
 onUnmounted(() => stopTimer())
 </script>
 
@@ -201,7 +216,19 @@ onUnmounted(() => stopTimer())
         <div v-else class="explanation-header timeout">Temps écoulé</div>
         <p v-if="selected">{{ current.description_bonne_reponse }}</p>
         <p v-else>La bonne réponse était : <strong>{{ current.bonne_reponse }}</strong></p>
+        <button
+          v-if="current.topics?.length"
+          class="livret-btn"
+          @click="openLivret"
+        >
+          En savoir plus dans le livret
+        </button>
       </div>
+      <LivretPopup
+        v-if="popupSection"
+        :section="popupSection"
+        @close="popupSection = null"
+      />
     </div>
 
     <div class="game-actions">

@@ -1,0 +1,953 @@
+{
+    "categorie": "Histoire, géographie et culture",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+            "bonne_reponse": "Le Code civil, également appelé Code Napoléon (1804)",
+            "description_bonne_reponse": "Le Code civil des Français, promulgué le 21 mars 1804, est l'œuvre juridique majeure de Napoléon Ier. Il unifie le droit français en un seul texte et garantit notamment l'égalité des citoyens devant la loi, la liberté individuelle et le droit de propriété. Toujours en vigueur aujourd'hui, il a inspiré de nombreux codes civils à travers le monde. Napoléon a participé personnellement aux discussions préparatoires.",
+            "mauvais_choix": [
+                "La Déclaration des droits de l'homme et du citoyen (1789)",
+                "La loi de séparation des Églises et de l'État (1905)",
+                "La loi sur la liberté de la presse (1881)"
+            ],
+            "topics": ["napoleon", "histoire-revolution"]
+        },
+        {
+            "id": 2,
+            "question": "Qui a été président de la Ve République ?",
+            "bonne_reponse": "Charles de Gaulle, premier président de la Ve République, élu en 1958",
+            "description_bonne_reponse": "Charles de Gaulle a été le premier président de la Ve République, élu au suffrage universel indirect en 1958 puis réélu au suffrage universel direct en 1965. Les présidents de la Ve République sont : Charles de Gaulle (1958-1969), Georges Pompidou (1969-1974), Valéry Giscard d'Estaing (1974-1981), François Mitterrand (1981-1995), Jacques Chirac (1995-2007), Nicolas Sarkozy (2007-2012), François Hollande (2012-2017) et Emmanuel Macron (2017-).",
+            "mauvais_choix": [
+                "Adolphe Thiers, premier président de la IIIe République",
+                "Vincent Auriol, premier président de la IVe République",
+                "Louis-Napoléon Bonaparte, président de la IIe République puis empereur"
+            ],
+            "topics": ["president", "institutions"]
+        },
+        {
+            "id": 3,
+            "question": "Que signifie la date du 14 juillet pour les Français ?",
+            "bonne_reponse": "La fête nationale française, qui commémore la prise de la Bastille en 1789 et la Fête de la Fédération de 1790",
+            "description_bonne_reponse": "Le 14 juillet est la fête nationale de la France depuis la loi du 6 juillet 1880. Elle commémore la prise de la Bastille le 14 juillet 1789, événement symbolique du début de la Révolution française, et la Fête de la Fédération du 14 juillet 1790, célébrant l'unité nationale. Ce jour est marqué par un défilé militaire sur les Champs-Élysées, des feux d'artifice et des bals populaires.",
+            "mauvais_choix": [
+                "La fin de la monarchie absolue en France",
+                "La proclamation de la première République",
+                "La signature de la Déclaration des droits de l'homme"
+            ],
+            "topics": ["symboles", "histoire-revolution"]
+        },
+        {
+            "id": 4,
+            "question": "Lequel de ces pays est un pays fondateur de l'Union européenne ?",
+            "bonne_reponse": "La France, avec l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg en 1957",
+            "description_bonne_reponse": "La France fait partie des six pays fondateurs de la Communauté économique européenne (CEE), créée par le traité de Rome du 25 mars 1957. Les six membres fondateurs sont : la France, l'Allemagne de l'Ouest, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Ces six pays ont également fondé la Communauté européenne du charbon et de l'acier (CECA) en 1951.",
+            "mauvais_choix": [
+                "Le Royaume-Uni",
+                "L'Espagne",
+                "La Grèce"
+            ],
+            "topics": ["construction-europeenne", "union-europeenne"]
+        },
+        {
+            "id": 5,
+            "question": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+            "bonne_reponse": "En Normandie",
+            "description_bonne_reponse": "Le débarquement allié du 6 juin 1944 (D-Day) a eu lieu sur les plages de Normandie : Utah Beach, Omaha Beach, Gold Beach, Juno Beach et Sword Beach. Cette opération militaire, la plus grande de l'histoire, a permis la libération de la France et de l'Europe de l'occupation nazie. Le 6 juin 1944 est une date majeure de la Seconde Guerre mondiale.",
+            "mauvais_choix": [
+                "En Provence",
+                "En Bretagne",
+                "En Aquitaine"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 6,
+            "question": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+            "bonne_reponse": "À Reims, en la cathédrale Notre-Dame de Reims",
+            "description_bonne_reponse": "Depuis le baptême de Clovis en 496, la cathédrale Notre-Dame de Reims était le lieu traditionnel du sacre des rois de France. Presque tous les rois de France, de Louis le Pieux (816) à Charles X (1825), y ont été couronnés. Reims est surnommée la « cité des sacres ». La cathédrale, joyau de l'art gothique, a été gravement endommagée pendant la Première Guerre mondiale puis restaurée.",
+            "mauvais_choix": [
+                "À Paris, en la cathédrale Notre-Dame de Paris",
+                "À Versailles, en la chapelle royale du château",
+                "À Saint-Denis, en la basilique royale"
+            ],
+            "topics": ["histoire-revolution"]
+        },
+        {
+            "id": 7,
+            "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+            "bonne_reponse": "Louis XVI, exécuté le 21 janvier 1793 sur la place de la Révolution",
+            "description_bonne_reponse": "Louis XVI, roi de France de 1774 à 1792, a été jugé par la Convention nationale et condamné à mort pour trahison. Il a été guillotiné le 21 janvier 1793 sur la place de la Révolution (actuelle place de la Concorde). Son exécution marque un tournant de la Révolution française et conduit à la radicalisation du mouvement révolutionnaire.",
+            "mauvais_choix": [
+                "Louis XIV, exécuté pendant la Révolution pour son absolutisme",
+                "Henri IV, assassiné avant la Révolution sur ordre des révolutionnaires",
+                "Louis XVIII, exécuté après son retour d'exil en 1815"
+            ],
+            "topics": ["histoire-revolution"]
+        },
+        {
+            "id": 8,
+            "question": "En quelle année a débuté la Révolution française ?",
+            "bonne_reponse": "1789",
+            "description_bonne_reponse": "La Révolution française commence en 1789, année marquée par trois événements majeurs : la réunion des États généraux (mai), le Serment du Jeu de Paume (20 juin), la prise de la Bastille (14 juillet) et la Déclaration des droits de l'homme et du citoyen (26 août). La Révolution a mis fin à la monarchie absolue et à l'Ancien Régime.",
+            "mauvais_choix": [
+                "1776",
+                "1799",
+                "1804"
+            ],
+            "topics": ["histoire-revolution"]
+        },
+        {
+            "id": 9,
+            "question": "En quelle année Napoléon Ier est-il devenu empereur ?",
+            "bonne_reponse": "1804",
+            "description_bonne_reponse": "Napoléon Bonaparte a été proclamé empereur des Français sous le nom de Napoléon Ier le 18 mai 1804 par un sénatus-consulte, puis sacré par le pape Pie VII le 2 décembre 1804 en la cathédrale Notre-Dame de Paris. Il a fondé le Premier Empire, qui a duré jusqu'en 1814, puis brièvement repris en 1815 (Cent-Jours).",
+            "mauvais_choix": [
+                "1789",
+                "1815",
+                "1799"
+            ],
+            "topics": ["napoleon", "histoire-revolution"]
+        },
+        {
+            "id": 10,
+            "question": "Lequel de ces personnages a un lien avec la République française ?",
+            "bonne_reponse": "Marianne, figure allégorique qui représente et symbolise la République française",
+            "description_bonne_reponse": "Marianne est le personnage allégorique de la République française. Née pendant la Révolution française, elle incarne la Liberté et la Raison. Son buste est présent dans toutes les mairies de France et son effigie figure sur les timbres, les pièces de monnaie et les documents officiels. Parmi les femmes ayant inspiré son visage : Brigitte Bardot, Catherine Deneuve et Laetitia Casta.",
+            "mauvais_choix": [
+                "Jeanne d'Arc, héroïne de la guerre de Cent Ans et figure royaliste",
+                "Louis XIV, monarque absolu de l'Ancien Régime",
+                "Napoléon Bonaparte, empereur fondateur du Premier Empire"
+            ],
+            "topics": ["symboles", "histoire-revolution"]
+        },
+        {
+            "id": 11,
+            "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+            "bonne_reponse": "Du 18 juin 1940, depuis Londres, sur les ondes de la BBC",
+            "description_bonne_reponse": "Le 18 juin 1940, le général de Gaulle, depuis les studios de la BBC à Londres, lance son appel à refuser la défaite face à l'Allemagne nazie et à continuer le combat. Cet appel, considéré comme l'acte fondateur de la Résistance française, n'a pas été enregistré ; seul un texte manuscrit nous est parvenu. La date du 18 juin est devenue une commémoration nationale.",
+            "mauvais_choix": [
+                "Du 6 juin 1944, jour du débarquement allié en Normandie",
+                "Du 8 mai 1945, jour de la capitulation allemande",
+                "Du 25 août 1944, jour de la libération de Paris"
+            ],
+            "topics": ["resistance", "histoire-guerres"]
+        },
+        {
+            "id": 12,
+            "question": "Qu'est-ce que la Shoah ?",
+            "bonne_reponse": "L'extermination systématique d'environ 6 millions de Juifs par l'Allemagne nazie pendant la Seconde Guerre mondiale",
+            "description_bonne_reponse": "La Shoah (terme hébreu signifiant « catastrophe ») désigne la persécution et l'extermination des Juifs d'Europe par le régime nazi et ses collaborateurs entre 1941 et 1945. Environ 6 millions de Juifs, dont 1,5 million d'enfants, ont été assassinés dans des camps d'extermination, des ghettos et par des unités mobiles de tuerie. La France de Vichy a collaboré à cette politique en déportant 76 000 Juifs de France.",
+            "mauvais_choix": [
+                "Le bombardement atomique d'Hiroshima et Nagasaki en 1945",
+                "La déportation politique des opposants au régime nazi vers les camps de concentration",
+                "L'ensemble des crimes de guerre commis pendant la Seconde Guerre mondiale"
+            ],
+            "topics": ["deportation", "histoire-guerres"]
+        },
+        {
+            "id": 13,
+            "question": "Quel pays a été une colonie française ?",
+            "bonne_reponse": "L'Algérie, colonisée à partir de 1830 jusqu'à son indépendance en 1962",
+            "description_bonne_reponse": "L'Algérie a été une colonie française de 1830 à 1962. Sa conquête a débuté en 1830 sous Charles X et s'est achevée en 1847. L'Algérie a été divisée en trois départements français en 1848. La guerre d'indépendance algérienne (1954-1962) s'est conclue par les accords d'Évian et l'indépendance de l'Algérie le 5 juillet 1962. La colonisation française a aussi concerné de nombreux pays en Afrique, en Asie, aux Antilles et dans l'océan Indien.",
+            "mauvais_choix": [
+                "Le Brésil, colonie portugaise au moment de la colonisation de l'Amérique",
+                "L'Inde, colonie britannique ayant obtenu son indépendance en 1947",
+                "L'Indonésie, colonie néerlandaise ayant obtenu son indépendance en 1945"
+            ],
+            "topics": ["empire-colonial", "decolonisation"]
+        },
+        {
+            "id": 14,
+            "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+            "bonne_reponse": "Depuis 1962, à la suite du référendum du 28 octobre 1962 décidé par le général de Gaulle",
+            "description_bonne_reponse": "La première élection présidentielle au suffrage universel direct a eu lieu en 1965. Auparavant, le président était élu par un collège de grands électeurs (suffrage indirect). La révision constitutionnelle de 1962, approuvée par référendum, a fait du président de la République l'unique représentant élu directement par l'ensemble des Français, renforçant ainsi son rôle.",
+            "mauvais_choix": [
+                "Depuis 1848, date de la première élection présidentielle de l'histoire française",
+                "Depuis 1958, date de la fondation de la Ve République",
+                "Depuis 2000, date du passage au quinquennat"
+            ],
+            "topics": ["president", "suffrage-universel"]
+        },
+        {
+            "id": 15,
+            "question": "En quelle année l'Union européenne a-t-elle été fondée ?",
+            "bonne_reponse": "1992, par le traité de Maastricht entré en vigueur le 1er novembre 1993",
+            "description_bonne_reponse": "L'Union européenne a été créée par le traité de Maastricht, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993. Ce traité a transformé la Communauté économique européenne en Union européenne, instaurant la citoyenneté européenne, une politique étrangère commune et préparant la monnaie unique. L'UE comptait alors 12 États membres, contre 27 aujourd'hui.",
+            "mauvais_choix": [
+                "1957, par le traité de Rome créant la CEE",
+                "1951, par le traité de Paris créant la CECA",
+                "1986, par l'Acte unique européen"
+            ],
+            "topics": ["construction-europeenne", "union-europeenne"]
+        },
+        {
+            "id": 16,
+            "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+            "bonne_reponse": "De 1939 à 1945",
+            "description_bonne_reponse": "La Seconde Guerre mondiale a débuté le 1er septembre 1939 avec l'invasion de la Pologne par l'Allemagne nazie et s'est achevée le 2 septembre 1945 avec la capitulation du Japon. Ce conflit mondial a opposé les Alliés (France, Royaume-Uni, États-Unis, URSS) à l'Axe (Allemagne, Italie, Japon). Il a fait plus de 50 millions de morts et s'est achevé par la libération des camps d'extermination et les bombardements atomiques d'Hiroshima et Nagasaki.",
+            "mauvais_choix": [
+                "De 1914 à 1918",
+                "De 1940 à 1944",
+                "De 1939 à 1944"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 17,
+            "question": "Quand a eu lieu la Première Guerre mondiale ?",
+            "bonne_reponse": "De 1914 à 1918",
+            "description_bonne_reponse": "La Première Guerre mondiale a débuté le 28 juillet 1914 et s'est achevée le 11 novembre 1918 par la signature de l'armistice. Ce conflit a opposé la Triple-Entente (France, Royaume-Uni, Russie) aux Empires centraux (Allemagne, Autriche-Hongrie). Elle a causé plus de 9 millions de morts et environ 6 millions d'invalides. Elle est marquée par la guerre des tranchées et l'utilisation massive de l'artillerie.",
+            "mauvais_choix": [
+                "De 1870 à 1871",
+                "De 1939 à 1945",
+                "De 1900 à 1914"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 18,
+            "question": "Sous quel président a été abolie la peine de mort en France ?",
+            "bonne_reponse": "Sous François Mitterrand, par la loi du 9 octobre 1981 portée par le ministre de la Justice Robert Badinter",
+            "description_bonne_reponse": "La peine de mort a été abolie en France par la loi du 9 octobre 1981, promulguée sous la présidence de François Mitterrand. Le projet de loi a été défendu par le garde des Sceaux Robert Badinter, qui avait déjà plaidé contre la peine de mort comme avocat. La France a été le dernier pays d'Europe de l'Ouest à abolir la peine capitale. L'abolition est inscrite à l'article 66-1 de la Constitution depuis 2007.",
+            "mauvais_choix": [
+                "Sous Valéry Giscard d'Estaing, qui avait supprimé la guillotine en 1974",
+                "Sous Charles de Gaulle, qui avait gracié tous les condamnés à mort en 1969",
+                "Sous Jacques Chirac, par la loi du 9 mars 2004"
+            ],
+            "topics": ["lois-societe", "histoire-revolution"]
+        },
+        {
+            "id": 19,
+            "question": "Que célèbre-t-on le 8 mai ?",
+            "bonne_reponse": "La victoire des Alliés sur l'Allemagne nazie et la fin de la Seconde Guerre mondiale en Europe (1945)",
+            "description_bonne_reponse": "Le 8 mai 1945 marque la capitulation sans condition de l'Allemagne nazie, mettant fin à la Seconde Guerre mondiale en Europe. Cette date est un jour férié national en France depuis 1953 (confirmé en 1981). Elle donne lieu à des cérémonies commémoratives avec le Président de la République et les anciens combattants. Les cloches des églises sonnent à la volée en souvenir de l'armistice.",
+            "mauvais_choix": [
+                "L'armistice de la Première Guerre mondiale signé en 1918",
+                "La libération de Paris intervenue le 25 août 1944",
+                "Le débarquement allié en Normandie du 6 juin 1944"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 20,
+            "question": "Quelle est la première étape de la construction européenne en 1951 ?",
+            "bonne_reponse": "La création de la Communauté européenne du charbon et de l'acier (CECA) par le traité de Paris",
+            "description_bonne_reponse": "Le 18 avril 1951, six pays ( France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg) signent le traité de Paris instituant la CECA. Cette première organisation supranationale européenne met en commun la production de charbon et d'acier pour garantir la paix entre les nations européennes. La CECA a été le point de départ du processus d'intégration européenne qui a mené à l'Union européenne actuelle.",
+            "mauvais_choix": [
+                "La création du Marché commun par le traité de Rome en 1957",
+                "La création de l'Euro comme monnaie unique en 1999",
+                "La création de l'Union européenne par le traité de Maastricht en 1992"
+            ],
+            "topics": ["construction-europeenne"]
+        },
+        {
+            "id": 21,
+            "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+            "bonne_reponse": "Jean Moulin, préfet et chef de la Résistance, mort sous la torture en 1943",
+            "description_bonne_reponse": "Jean Moulin (1899-1943) est l'une des principales figures de la Résistance française. Préfet d'Eure-et-Loir, refusant d'obéir au régime de Vichy, il rejoint de Gaulle à Londres en 1941. Il est chargé d'unifier les mouvements de résistance et crée le Conseil national de la Résistance (CNR) en mai 1943. Arrêté à Caluire le 21 juin 1943, il meurt des suites de la torture dans un train pour l'Allemagne. Ses cendres reposent au Panthéon.",
+            "mauvais_choix": [
+                "Philippe Pétain, vainqueur de Verdun et chef de l'État français",
+                "Pierre Laval, président du Conseil du régime de Vichy",
+                "François Darlan, amiral et chef du gouvernement de Vichy"
+            ],
+            "topics": ["resistance", "histoire-guerres"]
+        },
+        {
+            "id": 22,
+            "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+            "bonne_reponse": "À l'armistice de la Première Guerre mondiale, signé le 11 novembre 1918",
+            "description_bonne_reponse": "Le 11 novembre 1918, à 5 h 15, l'armistice est signé dans un wagon-restaurant à Rethondes (forêt de Compiègne) entre les Alliés et l'Allemagne. Les combats cessent à 11 heures. Cette date est devenue un jour férié national par la loi du 24 octobre 1922. Elle est commémorée par des cérémonies aux monuments aux morts de chaque commune de France. Le 11 novembre est inscrit au patrimoine immatériel de l'UNESCO.",
+            "mauvais_choix": [
+                "À l'armistice de la Seconde Guerre mondiale signé en 1945",
+                "À la libération de Paris intervenue le 25 août 1944",
+                "À la proclamation de l'armistice de 1940 signé avec l'Allemagne"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 23,
+            "question": "Depuis quand l'esclavage a-t-il été aboli en France ?",
+            "bonne_reponse": "Depuis le 27 avril 1848, par décret de la Seconde République",
+            "description_bonne_reponse": "L'esclavage a été aboli définitivement en France par le décret du 27 avril 1848, pris sous le gouvernement provisoire de la Seconde République. Cette abolition concerne toutes les colonies françaises. Elle avait été précédée d'une première abolition en 1794 (pendant la Révolution) avant d'être rétablie par Napoléon en 1802. La France commémore l'abolition de l'esclavage le 10 mai, date de la loi reconnaissant la traite et l'esclavage comme crime contre l'humanité.",
+            "mauvais_choix": [
+                "Depuis le 4 juillet 1776, par la déclaration d'indépendance américaine",
+                "Depuis le 4 février 1794, par la première abolition par la Convention (rétablie ensuite)",
+                "Depuis le 1er janvier 1863, par la proclamation d'émancipation d'Abraham Lincoln"
+            ],
+            "topics": ["abolition-esclavage", "histoire-revolution"]
+        },
+        {
+            "id": 24,
+            "question": "Qui a aboli l'esclavage en France en 1848 ?",
+            "bonne_reponse": "Victor Schœlcher, sous-secrétaire d'État à la Marine et aux Colonies",
+            "description_bonne_reponse": "Victor Schœlcher (1804-1893) est l'homme politique français qui a préparé et fait adopter le décret d'abolition de l'esclavage du 27 avril 1848. Fervent républicain, il avait consacré sa vie à la lutte contre l'esclavage après un voyage aux Antilles. Son nom est associé à l'abolition définitive de l'esclavage dans les colonies françaises. Il est enterré au Panthéon. De nombreuses rues et places portent son nom en France.",
+            "mauvais_choix": [
+                "Napoléon Bonaparte, qui avait rétabli l'esclavage en 1802",
+                "Louis XIV, qui avait réglementé l'esclavage par le Code noir en 1685",
+                "Jules Ferry, ministre de l'Instruction publique sous la IIIe République"
+            ],
+            "topics": ["abolition-esclavage", "histoire-revolution"]
+        },
+        {
+            "id": 25,
+            "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+            "bonne_reponse": "Depuis 1881, par la loi Jules Ferry du 16 juin 1881",
+            "description_bonne_reponse": "La loi du 16 juin 1881, portée par Jules Ferry alors ministre de l'Instruction publique, instaure la gratuité absolue de l'enseignement primaire dans les écoles publiques. Cette mesure s'accompagne l'année suivante (loi du 28 mars 1882) de l'obligation scolaire de 6 à 13 ans et de la laïcité de l'enseignement. Les lois Ferry sont considérées comme les piliers de l'école républicaine française.",
+            "mauvais_choix": [
+                "Depuis 1958, par la Constitution de la Ve République",
+                "Depuis 1905, par la loi de séparation des Églises et de l'État",
+                "Depuis 1945, par les ordonnances de la Libération"
+            ],
+            "topics": ["troisieme-republique", "republique"]
+        },
+        {
+            "id": 26,
+            "question": "En 1944, qu'est-ce qui a changé pour les femmes en France ?",
+            "bonne_reponse": "Elles ont obtenu le droit de vote par l'ordonnance du 21 avril 1944",
+            "description_bonne_reponse": "L'ordonnance du 21 avril 1944, prise par le Gouvernement provisoire de la République française dirigé par le général de Gaulle à Alger, accorde le droit de vote et d'éligibilité aux femmes françaises. Les femmes ont voté pour la première fois aux élections municipales du 29 avril 1945. La France a été l'un des derniers pays d'Europe à accorder le droit de vote aux femmes, après des décennies de lutte des suffragettes.",
+            "mauvais_choix": [
+                "Elles ont obtenu le droit de travailler sans autorisation du mari",
+                "Elles ont obtenu le droit d'ouvrir un compte bancaire",
+                "Elles ont obtenu l'égalité salariale avec les hommes"
+            ],
+            "topics": ["egalite-femmes-hommes", "histoire-guerres"]
+        },
+        {
+            "id": 27,
+            "question": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale ?",
+            "bonne_reponse": "L'Organisation des Nations Unies (ONU), fondée le 26 juin 1945 à San Francisco",
+            "description_bonne_reponse": "L'ONU a été créée le 26 juin 1945 par la signature de la Charte des Nations Unies à San Francisco par 51 pays, dont la France. Elle succède à la Société des Nations (SDN). Son objectif principal est le maintien de la paix et de la sécurité internationale, le développement des relations amicales entre les nations et la promotion des droits de l'homme. La France est membre permanent du Conseil de sécurité de l'ONU depuis sa création.",
+            "mauvais_choix": [
+                "L'Union européenne, fondée par le traité de Maastricht en 1992",
+                "La Société des Nations (SDN), fondée après la Première Guerre mondiale",
+                "L'Organisation du traité de l'Atlantique nord (OTAN), fondée en 1949"
+            ],
+            "topics": ["histoire-guerres"]
+        },
+        {
+            "id": 28,
+            "question": "En quelle année l'euro est-il devenu la monnaie officielle de la France ?",
+            "bonne_reponse": "2002, avec la mise en circulation des pièces et billets le 1er janvier 2002",
+            "description_bonne_reponse": "L'euro est devenu la monnaie officielle de la France le 1er janvier 2002, date de mise en circulation des pièces et billets. La monnaie unique existait sous forme scripturale depuis le 1er janvier 1999. L'euro a remplacé le franc français, qui avait cours depuis 1795. La période de double circulation franc-euro a duré jusqu'au 17 février 2002. La France partage l'euro avec 19 autres pays membres de la zone euro.",
+            "mauvais_choix": [
+                "1999, date de son adoption comme monnaie scripturale uniquement",
+                "2000, date à laquelle le franc a cessé d'avoir cours légal",
+                "1992, date du traité de Maastricht prévoyant la création de l'euro"
+            ],
+            "topics": ["union-europeenne"]
+        },
+        {
+            "id": 29,
+            "question": "À quelle date la ville de Paris a-t-elle été libérée pendant la Seconde Guerre mondiale ?",
+            "bonne_reponse": "Le 25 août 1944",
+            "description_bonne_reponse": "Paris a été libérée le 25 août 1944, après l'insurrection des forces de la Résistance intérieure française (FFI) et l'intervention de la 2e division blindée du général Leclerc. Le général von Choltitz, gouverneur militaire allemand de Paris, a signé la reddition à l'hôtel Meurice. Le général de Gaulle a défilé sur les Champs-Élysées le 26 août 1944, scellant la libération de la capitale.",
+            "mauvais_choix": [
+                "Le 6 juin 1944, jour du débarquement allié en Normandie",
+                "Le 8 mai 1945, jour de la capitulation allemande",
+                "Le 18 juin 1940, jour de l'appel du général de Gaulle"
+            ],
+            "topics": ["histoire-guerres", "resistance"]
+        },
+        {
+            "id": 30,
+            "question": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+            "bonne_reponse": "Nantes, d'où sont partis plus de 40 % des navires négriers français",
+            "description_bonne_reponse": "Nantes a été le premier port négrier français au XVIIIe siècle, à l'origine de près de la moitié du commerce triangulaire français. Environ 1 800 expéditions négrières sont parties de Nantes entre le XVIIe et le XIXe siècle, déportant plus de 500 000 Africains vers les Antilles. Bordeaux, Le Havre et La Rochelle étaient également des ports négriers importants. La France a reconnu la traite négrière et l'esclavage comme crime contre l'humanité en 2001.",
+            "mauvais_choix": [
+                "Marseille, principal port de la Méditerranée et porte de l'Orient",
+                "Saint-Malo, port corsaire de la Manche tourné vers l'Amérique du Nord",
+                "Calais, port de la Manche spécialisé dans le commerce avec l'Angleterre"
+            ],
+            "topics": ["abolition-esclavage", "empire-colonial"]
+        },
+        {
+            "id": 31,
+            "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+            "bonne_reponse": "Montesquieu, qui a critiqué l'esclavage dans son œuvre De l'esprit des lois (1748)",
+            "description_bonne_reponse": "Montesquieu (1689-1755) est l'un des premiers philosophes des Lumières à avoir dénoncé l'esclavage dans De l'esprit des lois, notamment dans le célèbre chapitre « De l'esclavage des nègres » où il utilise l'ironie pour en montrer l'absurdité. Voltaire, Diderot et Rousseau ont également critiqué l'esclavage. Les idées des Lumières ont contribué à la prise de conscience qui a mené à la première abolition en 1794.",
+            "mauvais_choix": [
+                "René Descartes, philosophe du XVIIe siècle connu pour son rationalisme",
+                "Jean Bodin, théoricien de la souveraineté royale du XVIe siècle",
+                "Blaise Pascal, mathématicien et philosophe du XVIIe siècle"
+            ],
+            "topics": ["lumieres", "abolition-esclavage"]
+        },
+        {
+            "id": 32,
+            "question": "Quel peintre français est un représentant majeur du mouvement impressionniste ?",
+            "bonne_reponse": "Claude Monet, peintre des Nymphéas et de la cathédrale de Rouen",
+            "description_bonne_reponse": "Claude Monet (1840-1926) est l'un des fondateurs du mouvement impressionniste, nommé d'après son tableau Impression, soleil levant (1872). Ses œuvres majeures incluent la série des Nymphéas (au musée de l'Orangerie), les Meules, la Cathédrale de Rouen et le Pont japonais. Il a passé les 40 dernières années de sa vie à Giverny, où il a créé son jardin et son bassin aux nymphéas.",
+            "mauvais_choix": [
+                "Vincent van Gogh, peintre post-impressionniste néerlandais",
+                "Pablo Picasso, peintre cubiste espagnol ayant vécu en France",
+                "Salvador Dalí, peintre surréaliste espagnol"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 33,
+            "question": "Quel plat est une spécialité de la cuisine française ?",
+            "bonne_reponse": "Le bœuf bourguignon, plat mijoté à base de bœuf et de vin rouge de Bourgogne",
+            "description_bonne_reponse": "Le bœuf bourguignon est un plat traditionnel français originaire de Bourgogne, préparé avec du bœuf braisé dans du vin rouge, accompagné de champignons, d'oignons et de lardons. La cuisine française compte de nombreuses spécialités régionales : la ratatouille (Provence), le cassoulet (Toulouse), la choucroute (Alsace), la bouillabaisse (Marseille), les crêpes (Bretagne) et la quiche lorraine. La gastronomie française est inscrite au patrimoine immatériel de l'UNESCO depuis 2010.",
+            "mauvais_choix": [
+                "La paella, plat traditionnel espagnol à base de riz et de fruits de mer",
+                "Le curry de poulet, plat d'origine indienne répandu au Royaume-Uni",
+                "Les sushis, spécialité japonaise à base de poisson cru et de riz vinaigré"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 34,
+            "question": "Qui était Marie Curie ?",
+            "bonne_reponse": "Une physicienne et chimiste française d'origine polonaise, double prix Nobel (physique 1903, chimie 1911)",
+            "description_bonne_reponse": "Marie Curie (1867-1934) est une scientifique française née à Varsovie. Elle a découvert la radioactivité avec son mari Pierre Curie, puis isolé le radium et le polonium. Elle est la seule femme à avoir reçu deux prix Nobel dans deux disciplines scientifiques différentes. Pendant la Première Guerre mondiale, elle a organisé des unités mobiles de radiologie. Elle est la première femme à avoir enseigné à la Sorbonne et repose au Panthéon.",
+            "mauvais_choix": [
+                "Une écrivaine française, auteure de la série des Rougon-Macquart",
+                "Une actrice française célèbre du cinéma du XXe siècle",
+                "Une chanteuse française, figure de la chanson réaliste"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 35,
+            "question": "Qui a peint « La liberté guidant le peuple » ?",
+            "bonne_reponse": "Eugène Delacroix, en 1830, pour commémorer les Trois Glorieuses",
+            "description_bonne_reponse": "Eugène Delacroix (1798-1863) a peint La liberté guidant le peuple en 1830 pour célébrer la révolution des Trois Glorieuses (27, 28, 29 juillet 1830) qui a renversé Charles X. Le tableau représente Marianne, allégorie de la Liberté, guidant le peuple par-dessus les barricades, drapeau tricolore à la main. Cette œuvre est exposée au musée du Louvre à Paris.",
+            "mauvais_choix": [
+                "Jacques-Louis David, peintre néoclassique auteur du Sacre de Napoléon",
+                "Gustave Courbet, peintre réaliste auteur de L'Origine du monde",
+                "Jean-Auguste-Dominique Ingres, peintre néoclassique auteur de La Grande Odalisque"
+            ],
+            "topics": ["personnalites", "histoire-revolution"]
+        },
+        {
+            "id": 36,
+            "question": "Dans quel grand musée parisien la Joconde est-elle exposée ?",
+            "bonne_reponse": "Au musée du Louvre",
+            "description_bonne_reponse": "La Joconde (ou Portrait de Mona Lisa), peinte par Léonard de Vinci entre 1503 et 1519, est exposée au musée du Louvre à Paris depuis 1797. Le tableau a été acquis par François Ier. Il s'agit du tableau le plus célèbre et le plus visité au monde, avec environ 20 000 visiteurs par jour. Le Louvre est le plus grand musée du monde et l'un des plus fréquentés, avec près de 10 millions de visiteurs par an.",
+            "mauvais_choix": [
+                "Au musée d'Orsay, musée des beaux-arts dédié à la période 1848-1914",
+                "Au Centre Pompidou, musée d'art moderne et contemporain",
+                "Au musée de l'Orangerie, musée des Nymphéas de Monet"
+            ],
+            "topics": ["monuments"]
+        },
+        {
+            "id": 37,
+            "question": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+            "bonne_reponse": "Le château de Versailles",
+            "description_bonne_reponse": "Le château de Versailles est un chef-d'œuvre de l'architecture française du XVIIe siècle, construit par Louis XIV. Symbole de la monarchie absolue, il a été la résidence des rois de France de 1682 à 1789. Il compte 2 300 pièces, dont la célèbre galerie des Glaces, et est entouré de 800 hectares de jardins. Inscrit au patrimoine mondial de l'UNESCO, Versailles est l'un des monuments les plus visités de France.",
+            "mauvais_choix": [
+                "Le château de Chambord, château de la Loire construit par François Ier",
+                "Le Palais-Royal, résidence parisienne du cardinal de Richelieu",
+                "Le château de Fontainebleau, résidence de chasse des rois de France"
+            ],
+            "topics": ["louis-xiv", "monuments"]
+        },
+        {
+            "id": 38,
+            "question": "Où peut-on voir des peintures préhistoriques en France ?",
+            "bonne_reponse": "Dans la grotte de Lascaux, située en Dordogne, surnommée la « chapelle Sixtine de la Préhistoire »",
+            "description_bonne_reponse": "La grotte de Lascaux, découverte en 1940 en Dordogne, est l'un des plus importants sites d'art préhistorique au monde. Ses parois sont ornées de centaines de peintures représentant des animaux (chevaux, aurochs, cerfs, bisons) datant d'environ 18 000 ans av. J.-C. La grotte originale est fermée au public pour sa conservation, mais une réplique intégrale (Lascaux IV) est ouverte aux visiteurs depuis 2016.",
+            "mauvais_choix": [
+                "Dans les catacombes de Paris, sous terre au cœur de la capitale",
+                "Dans les arènes romaines de Nîmes, amphithéâtre antique",
+                "Dans les grottes de l'île de Bréhat, en Bretagne"
+            ],
+            "topics": ["prehistoire"]
+        },
+        {
+            "id": 39,
+            "question": "Quel peintre français célèbre a peint la série des Nymphéas ?",
+            "bonne_reponse": "Claude Monet, maître de l'impressionnisme",
+            "description_bonne_reponse": "Claude Monet (1840-1926) a peint la série des Nymphéas, composée d'environ 250 tableaux représentant son jardin d'eau à Giverny. Les plus grandes toiles (panneaux de 2 mètres de haut sur 12 mètres de long) sont exposées au musée de l'Orangerie à Paris, dans deux salles ovales spécialement conçues par Monet lui-même. Cette série est considérée comme l'un des chefs-d'œuvre de l'art du XXe siècle.",
+            "mauvais_choix": [
+                "Édouard Manet, précurseur de l'impressionnisme auteur du Déjeuner sur l'herbe",
+                "Edgar Degas, peintre impressionniste spécialiste des danseuses",
+                "Pierre-Auguste Renoir, peintre impressionniste du Bal du moulin de la Galette"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 40,
+            "question": "Pendant quelles journées peut-on visiter gratuitement des lieux culturels en France ?",
+            "bonne_reponse": "Les Journées européennes du patrimoine, chaque année le 3e week-end de septembre",
+            "description_bonne_reponse": "Les Journées européennes du patrimoine ont lieu chaque année le troisième week-end de septembre. Créées en 1984 par le ministère de la Culture, elles permettent au public de visiter gratuitement des milliers de monuments, musées, sites culturels et bâtiments publics habituellement fermés (Élysée, Matignon, Assemblée nationale, etc.). Cette manifestation est l'un des événements culturels les plus populaires en France.",
+            "mauvais_choix": [
+                "Le 1er mai, jour de la fête du Travail",
+                "Le 14 juillet, jour de la fête nationale",
+                "Le 1er janvier, jour de l'an"
+            ],
+            "topics": ["monuments"]
+        },
+        {
+            "id": 41,
+            "question": "Que symbolise le 1er mai ?",
+            "bonne_reponse": "La fête du Travail et la fête du Muguet, journée de manifestation des travailleurs",
+            "description_bonne_reponse": "Le 1er mai est la fête du Travail et un jour férié en France depuis 1947. Cette date commémore la journée de grève du 1er mai 1886 à Chicago pour la journée de travail de 8 heures. Traditionnellement, on offre du muguet, symbole du printemps et du bonheur. Le 1er mai est marqué par des défilés et manifestations des syndicats dans toute la France pour défendre les droits des travailleurs.",
+            "mauvais_choix": [
+                "La fin de la Seconde Guerre mondiale",
+                "L'armistice de la Première Guerre mondiale",
+                "La fête de la République française"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 42,
+            "question": "Qui était Rouget de Lisle ?",
+            "bonne_reponse": "Le compositeur de La Marseillaise, l'hymne national français, en 1792",
+            "description_bonne_reponse": "Claude Joseph Rouget de Lisle (1760-1836) était un officier du génie et compositeur français. Dans la nuit du 25 au 26 avril 1792, à Strasbourg, il compose le Chant de guerre pour l'armée du Rhin, qui deviendra La Marseillaise, l'hymne national français. Le chant a été adopté comme hymne national en 1795. Rouget de Lisle est inhumé aux Invalides, sous la coupole de l'église Saint-Louis.",
+            "mauvais_choix": [
+                "Le général qui a commandé l'armée révolutionnaire à Valmy",
+                "Le peintre de La liberté guidant le peuple",
+                "Le président de la Convention nationale pendant la Révolution"
+            ],
+            "topics": ["marseillaise", "symboles"]
+        },
+        {
+            "id": 43,
+            "question": "À quelle occasion a été construite la Tour Eiffel ?",
+            "bonne_reponse": "Pour l'Exposition universelle de 1889 à Paris, célébrant le centenaire de la Révolution française",
+            "description_bonne_reponse": "La Tour Eiffel a été construite par l'ingénieur Gustave Eiffel pour l'Exposition universelle de 1889, qui célébrait le centenaire de la Révolution française. Haute de 312 mètres à l'origine (330 mètres aujourd'hui avec les antennes), elle était la plus haute tour du monde jusqu'en 1930. Contestée à sa construction par des artistes et intellectuels, elle est devenue le symbole de Paris et de la France, attirant plus de 7 millions de visiteurs par an.",
+            "mauvais_choix": [
+                "Pour les Jeux olympiques de Paris de 1900",
+                "Pour l'Exposition universelle de 1900 qui célébrait le nouveau siècle",
+                "Pour le centenaire de la naissance de Napoléon Ier en 1869"
+            ],
+            "topics": ["monuments"]
+        },
+        {
+            "id": 44,
+            "question": "Quelle mer se situe entre la France et l'Angleterre ?",
+            "bonne_reponse": "La Manche",
+            "description_bonne_reponse": "La Manche est une mer de l'océan Atlantique située entre la France et l'Angleterre. Elle relie la mer du Nord à l'océan Atlantique. Le tunnel sous la Manche, inauguré en 1994, relie les deux pays sur 50 km entre Calais et Folkestone. La Manche est l'une des voies maritimes les plus fréquentées du monde. Ses côtes françaises font partie de la région Normandie et des Hauts-de-France.",
+            "mauvais_choix": [
+                "La mer du Nord",
+                "La mer Méditerranée",
+                "L'océan Atlantique"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 45,
+            "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+            "bonne_reponse": "Les Alpes",
+            "description_bonne_reponse": "Les Alpes forment une chaîne de montagnes qui s'étend sur 1 200 km à travers huit pays, dont la France et l'Italie qu'elles séparent en partie. Le point culminant des Alpes et de l'Europe est le Mont-Blanc (4 810 m). Les Alpes françaises offrent de nombreuses stations de ski (Chamonix, Val Thorens, Les Trois Vallées) et des cols mythiques (Galibier, Tourmalet, Izoard) empruntés par le Tour de France cycliste.",
+            "mauvais_choix": [
+                "Les Pyrénées",
+                "Le Massif central",
+                "Le Jura"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 46,
+            "question": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?",
+            "bonne_reponse": "Les Pyrénées",
+            "description_bonne_reponse": "Les Pyrénées sont une chaîne de montagnes qui s'étend sur 430 km entre la France et l'Espagne, de l'océan Atlantique à la mer Méditerranée. Le point culminant est le pic d'Aneto (3 404 m) côté espagnol, et le Vignemale (3 298 m) côté français. Les Pyrénées sont marquées par des cultures spécifiques (basque, catalane, occitane) et des stations de ski comme Saint-Lary, Font-Romeu et Cauterets.",
+            "mauvais_choix": [
+                "Les Alpes",
+                "Le Massif central",
+                "Les Vosges"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 47,
+            "question": "Quel fleuve traverse Paris ?",
+            "bonne_reponse": "La Seine",
+            "description_bonne_reponse": "La Seine est un fleuve de 777 km qui prend sa source en Bourgogne et se jette dans la Manche au Havre. Elle traverse Paris en formant un large coude, divisant la ville en rive droite (nord) et rive gauche (sud). Les principaux monuments parisiens bordent la Seine : tour Eiffel, Louvre, Notre-Dame, Musée d'Orsay. Les berges de la Seine sont inscrites au patrimoine mondial de l'UNESCO.",
+            "mauvais_choix": [
+                "La Loire",
+                "Le Rhône",
+                "La Garonne"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 48,
+            "question": "Qui était Molière ?",
+            "bonne_reponse": "Un dramaturge et comédien français du XVIIe siècle, auteur de comédies classiques",
+            "description_bonne_reponse": "Molière (1622-1673), de son vrai nom Jean-Baptiste Poquelin, est le plus célèbre auteur de théâtre français. Il a créé des comédies devenues des classiques : Le Tartuffe, Dom Juan, Le Misanthrope, L'Avare, Les Femmes savantes et Le Malade imaginaire. Homme de théâtre complet, il était à la fois auteur, acteur et directeur de troupe. Il est mort sur scène en jouant Le Malade imaginaire. La langue française est parfois appelée « la langue de Molière ».",
+            "mauvais_choix": [
+                "Un philosophe du XVIIIe siècle, figure majeure des Lumières",
+                "Un poète du XIXe siècle, chef de file du romantisme",
+                "Un compositeur de musique classique du XVIIIe siècle"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 49,
+            "question": "Qui était Victor Hugo ?",
+            "bonne_reponse": "Un écrivain, poète et dramaturge français du XIXe siècle, figure majeure du romantisme",
+            "description_bonne_reponse": "Victor Hugo (1802-1885) est l'un des plus grands écrivains français. Il a écrit des chefs-d'œuvre comme Les Misérables (1862), Notre-Dame de Paris (1831) et Les Contemplations. Engagé politiquement, il a lutté contre la peine de mort (Le Dernier Jour d'un condamné) et pour la République. Exilé sous Napoléon III, il est devenu un symbole de la République. Il repose au Panthéon. La langue française est parfois appelée « la langue de Victor Hugo ».",
+            "mauvais_choix": [
+                "Un peintre impressionniste du XIXe siècle",
+                "Un compositeur de musique baroque du XVIIe siècle",
+                "Un philosophe des Lumières du XVIIIe siècle"
+            ],
+            "topics": ["victor-hugo", "personnalites"]
+        },
+        {
+            "id": 50,
+            "question": "Quelle œuvre célèbre a été écrite par Victor Hugo ?",
+            "bonne_reponse": "Les Misérables, roman publié en 1862",
+            "description_bonne_reponse": "Les Misérables est l'un des romans les plus célèbres de la littérature française. Victor Hugo y raconte le destin de Jean Valjean, un ancien forçat en quête de rédemption, et dénonce les injustices sociales de son époque. Le roman a été adapté de nombreuses fois au cinéma, au théâtre et en comédie musicale. Les autres œuvres majeures de Victor Hugo incluent Notre-Dame de Paris, Les Contemplations et La Légende des siècles.",
+            "mauvais_choix": [
+                "Le Rouge et le Noir, roman de Stendhal publié en 1830",
+                "Madame Bovary, roman de Gustave Flaubert publié en 1857",
+                "La Comédie humaine, série de romans d'Honoré de Balzac"
+            ],
+            "topics": ["victor-hugo", "personnalites"]
+        },
+        {
+            "id": 51,
+            "question": "Qui était Charles Baudelaire ?",
+            "bonne_reponse": "Un poète français du XIXe siècle, auteur des Fleurs du mal (1857)",
+            "description_bonne_reponse": "Charles Baudelaire (1821-1867) est l'un des plus grands poètes français, considéré comme le précurseur du symbolisme et de la modernité poétique. Son œuvre majeure, Les Fleurs du mal, a fait l'objet d'un procès pour immoralité en 1857. Il est également connu pour ses Petits poèmes en prose (Le Spleen de Paris) et ses écrits sur l'art. Sa poésie explore les thèmes de la beauté, de la mort, de l'amour et de la mélancolie.",
+            "mauvais_choix": [
+                "Un romancier du XIXe siècle, auteur de Germinal",
+                "Un dramaturge du XVIIIe siècle, auteur du Barbier de Séville",
+                "Un poète du XVIe siècle, membre de la Pléiade"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 52,
+            "question": "Qui était George Sand ?",
+            "bonne_reponse": "Une femme de lettres française du XIXe siècle, auteure de romans et d'essais",
+            "description_bonne_reponse": "George Sand (1804-1876), pseudonyme d'Amantine Aurore Lucile Dupin, est une romancière et femme de lettres française majeure du XIXe siècle. Elle a écrit des romans comme La Mare au diable, La Petite Fadette et Elle et lui. Républicaine engagée, elle a défendu les droits des femmes et l'égalité. Elle a entretenu des relations célèbres avec Musset et Chopin. Figure émancipée, elle portait des vêtements masculins et fumait le cigare.",
+            "mauvais_choix": [
+                "Une peintre impressionniste spécialiste des natures mortes",
+                "Une compositrice de musique classique du XXe siècle",
+                "Une actrice de théâtre du XVIIe siècle, muse de Molière"
+            ],
+            "topics": ["personnalites", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 53,
+            "question": "Qui était Simone de Beauvoir ?",
+            "bonne_reponse": "Une philosophe, écrivaine et féministe française du XXe siècle, auteure du Deuxième Sexe (1949)",
+            "description_bonne_reponse": "Simone de Beauvoir (1908-1986) est une figure majeure de la pensée féministe et existentialiste. Son essai Le Deuxième Sexe (1949) est considéré comme l'un des textes fondateurs du féminisme moderne : « On ne naît pas femme, on le devient. » Compagne de Jean-Paul Sartre, elle a également écrit des romans (Les Mandarins, prix Goncourt 1954) et ses Mémoires. Elle a milité pour le droit à la contraception et à l'avortement.",
+            "mauvais_choix": [
+                "Une physicienne française, pionnière de l'étude de la radioactivité",
+                "Une actrice française du XXe siècle, égérie de la Nouvelle Vague",
+                "Une chanteuse française des années 1960, figure de la chanson rive gauche"
+            ],
+            "topics": ["personnalites", "egalite-femmes-hommes", "lois-societe"]
+        },
+        {
+            "id": 54,
+            "question": "Qui était Albert Camus ?",
+            "bonne_reponse": "Un écrivain, philosophe et journaliste français, prix Nobel de littérature en 1957",
+            "description_bonne_reponse": "Albert Camus (1913-1960) est un écrivain et philosophe français né en Algérie. Figure de l'existentialisme et de la pensée de l'absurde, il a écrit des œuvres majeures : L'Étranger (1942), La Peste (1947), Le Mythe de Sisyphe (1942) et La Chute (1956). Lauréat du prix Nobel de littérature à 44 ans, il est l'un des plus jeunes lauréats de l'histoire. Il est mort accidentellement en 1960.",
+            "mauvais_choix": [
+                "Un poète surréaliste du XXe siècle, ami d'André Breton",
+                "Un dramaturge du XXe siècle, auteur de théâtre de l'absurde",
+                "Un cinéaste de la Nouvelle Vague des années 1960"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 55,
+            "question": "Qui était Marguerite Yourcenar ?",
+            "bonne_reponse": "Une femme de lettres française, première femme élue à l'Académie française en 1980",
+            "description_bonne_reponse": "Marguerite Yourcenar (1903-1987) est une écrivaine française de renom, auteure des Mémoires d'Hadrien (1951) et de L'Œuvre au noir (1968). Elle fut la première femme élue à l'Académie française en 1980, après une campagne pour ouvrir l'institution aux femmes. Son œuvre mêle érudition historique et réflexion philosophique. Elle a passé une grande partie de sa vie aux États-Unis, sur une île du Maine.",
+            "mauvais_choix": [
+                "Une artiste peintre du XXe siècle, figure du surréalisme",
+                "Une actrice de théâtre de la Comédie-Française",
+                "Une chanteuse d'opéra du XXe siècle"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 56,
+            "question": "Qui était Paul Cézanne ?",
+            "bonne_reponse": "Un peintre français du XIXe siècle, précurseur du cubisme et de l'art moderne",
+            "description_bonne_reponse": "Paul Cézanne (1839-1906) est un peintre français majeur dont l'œuvre a fait le lien entre l'impressionnisme du XIXe siècle et le cubisme du XXe siècle. Il a peint de nombreuses toiles de la montagne Sainte-Victoire, des natures mortes et des baigneurs. Considéré comme le « père de l'art moderne » par Picasso et Matisse, il a profondément influencé l'art du XXe siècle.",
+            "mauvais_choix": [
+                "Un sculpteur français du XIXe siècle, auteur du Penseur",
+                "Un écrivain français du XIXe siècle, auteur de À la recherche du temps perdu",
+                "Un compositeur français du XIXe siècle, auteur de Carmen"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 57,
+            "question": "Qui était Auguste Rodin ?",
+            "bonne_reponse": "Un sculpteur français du XIXe siècle, auteur du Penseur et des Bourgeois de Calais",
+            "description_bonne_reponse": "Auguste Rodin (1840-1917) est le plus célèbre sculpteur français de la fin du XIXe siècle. Ses œuvres les plus connues sont Le Penseur, Le Baiser, Les Bourgeois de Calais et La Porte de l'Enfer. Il a révolutionné la sculpture en rompant avec les conventions académiques de son époque. Le musée Rodin à Paris, installé dans l'hôtel Biron, abrite la plus grande collection de ses œuvres.",
+            "mauvais_choix": [
+                "Un peintre impressionniste, auteur du Bal du moulin de la Galette",
+                "Un architecte français, concepteur de l'Opéra Garnier",
+                "Un graveur et illustrateur, célèbre pour ses caricatures politiques"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 58,
+            "question": "Qui était un célèbre compositeur français ?",
+            "bonne_reponse": "Claude Debussy, compositeur français de la fin du XIXe et début du XXe siècle",
+            "description_bonne_reponse": "Claude Debussy (1862-1918) est l'un des compositeurs français les plus célèbres, considéré comme le fondateur de la musique impressionniste. Ses œuvres majeures incluent Prélude à l'après-midi d'un faune, Clair de lune, La Mer et Pelléas et Mélisande. Il a révolutionné la musique classique en s'affranchissant des règles traditionnelles de l'harmonie. D'autres grands compositeurs français : Berlioz, Ravel, Bizet (Carmen), Saint-Saëns et Lully.",
+            "mauvais_choix": [
+                "Wolfgang Amadeus Mozart, compositeur autrichien du XVIIIe siècle",
+                "Ludwig van Beethoven, compositeur allemand du XIXe siècle",
+                "Pyotr Ilitch Tchaïkovski, compositeur russe du XIXe siècle"
+            ],
+            "topics": ["personnalites"]
+        },
+        {
+            "id": 59,
+            "question": "Quel monument historique se trouve sur une île en Normandie ?",
+            "bonne_reponse": "Le Mont-Saint-Michel, îlot rocheux surmonté d'une abbaye bénédictine",
+            "description_bonne_reponse": "Le Mont-Saint-Michel est un îlot granitique situé en Normandie, dans le département de la Manche. Surmonté d'une abbaye bénédictine dédiée à l'archange saint Michel, il est l'un des sites touristiques les plus visités de France. Classé au patrimoine mondial de l'UNESCO, il est entouré d'une baie aux marées parmi les plus fortes d'Europe. Sa construction a débuté au VIIIe siècle.",
+            "mauvais_choix": [
+                "Le château d'If, île fortifiée au large de Marseille",
+                "L'île de Bréhat, dans les Côtes-d'Armor",
+                "Le fort Boyard, au large de La Rochelle"
+            ],
+            "topics": ["monuments"]
+        },
+        {
+            "id": 60,
+            "question": "Quelle est la plus haute montagne de France ?",
+            "bonne_reponse": "Le Mont-Blanc, culminant à 4 810 mètres dans les Alpes",
+            "description_bonne_reponse": "Le Mont-Blanc est le point culminant de la France et de l'Europe occidentale, avec une altitude de 4 810 mètres. Situé dans le massif du Mont-Blanc, à la frontière entre la France et l'Italie, il attire chaque année des milliers d'alpinistes et de touristes. Le tunnel du Mont-Blanc (11,6 km) relie la Haute-Savoie à la Vallée d'Aoste italienne. Le Mont-Blanc a été gravi pour la première fois en 1786 par Jacques Balmat et Michel-Gabriel Paccard.",
+            "mauvais_choix": [
+                "Le pic d'Aneto, point culminant des Pyrénées",
+                "Le Puy de Sancy, point culminant du Massif central",
+                "Le Grand Ballon, point culminant des Vosges"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 61,
+            "question": "Quel département français d'outre-mer a une frontière terrestre avec le Brésil ?",
+            "bonne_reponse": "La Guyane, département et région d'outre-mer situé en Amérique du Sud",
+            "description_bonne_reponse": "La Guyane est un département et région d'outre-mer (DROM) français situé en Amérique du Sud. Elle partage une frontière de 730 km avec le Brésil au sud et à l'est, et 520 km avec le Suriname à l'ouest. La Guyane est le plus grand département français (83 846 km²) mais l'un des moins peuplés. Elle abrite le Centre spatial guyanais à Kourou, d'où décolle la fusée Ariane. La France est le seul pays de l'UE présent en Amérique du Sud.",
+            "mauvais_choix": [
+                "La Martinique, île des Antilles située dans la mer des Caraïbes",
+                "La Guadeloupe, archipel des Antilles françaises",
+                "La Réunion, île de l'océan Indien"
+            ],
+            "topics": ["outre-mer", "geographie-france"]
+        },
+        {
+            "id": 62,
+            "question": "De quelle ville française décolle la fusée Ariane ?",
+            "bonne_reponse": "De Kourou, en Guyane française, depuis le Centre spatial guyanais",
+            "description_bonne_reponse": "Le Centre spatial guyanais (CSG) est situé à Kourou, en Guyane française. C'est le port spatial de l'Europe, d'où sont lancées les fusées Ariane, Soyouz et Vega. Sa position proche de l'équateur (5° de latitude nord) est idéale pour les lancements, car la rotation de la Terre y est maximale, ce qui permet d'économiser du carburant. Le premier lancement d'Ariane a eu lieu en 1979.",
+            "mauvais_choix": [
+                "De Toulouse, depuis le site du CNES",
+                "De Bordeaux, depuis la base aérienne de Mérignac",
+                "De Marseille, depuis le port spatial méditerranéen"
+            ],
+            "topics": ["geographie-france", "outre-mer"]
+        },
+        {
+            "id": 63,
+            "question": "Quelle île française est située dans l'océan Indien ?",
+            "bonne_reponse": "La Réunion, département et région d'outre-mer à l'est de Madagascar",
+            "description_bonne_reponse": "La Réunion est une île française de l'océan Indien, située à environ 700 km à l'est de Madagascar. C'est un département et région d'outre-mer (DROM) depuis 1946. Son point culminant est le Piton des Neiges (3 070 m) et son volcan actif, le Piton de la Fournaise, est l'un des plus actifs au monde. La Réunion compte environ 870 000 habitants. Mayotte est également une île française de l'océan Indien.",
+            "mauvais_choix": [
+                "La Nouvelle-Calédonie, île française du Pacifique",
+                "La Martinique, île française des Antilles",
+                "La Corse, île française de la Méditerranée"
+            ],
+            "topics": ["outre-mer", "geographie-france"]
+        },
+        {
+            "id": 64,
+            "question": "Quelle mer ou océan borde la France au sud ?",
+            "bonne_reponse": "La mer Méditerranée",
+            "description_bonne_reponse": "La mer Méditerranée borde la France au sud, formant le littoral de la région Provence-Alpes-Côte d'Azur et de l'Occitanie. La France métropolitaine est également bordée par l'océan Atlantique à l'ouest, la Manche au nord-ouest et la mer du Nord au nord. Le littoral français métropolitain s'étend sur environ 5 500 km. La France possède la deuxième plus vaste zone économique exclusive au monde grâce à ses outre-mer.",
+            "mauvais_choix": [
+                "La mer Noire",
+                "La mer Baltique",
+                "La mer Rouge"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 65,
+            "question": "Qu'est-ce que la France d'outre-mer ?",
+            "bonne_reponse": "L'ensemble des territoires français situés en dehors du continent européen",
+            "description_bonne_reponse": "La France d'outre-mer (ou Outre-mer français) regroupe l'ensemble des territoires sous souveraineté française situés hors du continent européen. Elle comprend 12 territoires : 5 DROM (Guadeloupe, Guyane, Martinique, Mayotte, La Réunion) et 7 COM (Nouvelle-Calédonie, Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Terres australes et antarctiques françaises, Wallis-et-Futuna). Environ 2,8 millions de Français y vivent.",
+            "mauvais_choix": [
+                "Les anciennes colonies françaises ayant accédé à l'indépendance",
+                "Les pays francophones d'Afrique membres de la Francophonie",
+                "Les régions frontalières de la France métropolitaine"
+            ],
+            "topics": ["outre-mer"]
+        },
+        {
+            "id": 66,
+            "question": "Quelle est la population approximative de la France en 2025 ?",
+            "bonne_reponse": "Environ 68 millions d'habitants, dont 66 millions en métropole et 2,8 millions dans les outre-mer",
+            "description_bonne_reponse": "La France compte environ 68 millions d'habitants en 2025 (INSEE). La population française augmente principalement grâce au solde naturel (naissances - décès) et à l'immigration. La France est le deuxième pays le plus peuplé de l'Union européenne derrière l'Allemagne. La densité moyenne est d'environ 105 habitants/km². L'Île-de-France est la région la plus peuplée avec environ 12 millions d'habitants.",
+            "mauvais_choix": [
+                "Environ 55 millions d'habitants, population stable depuis 2010",
+                "Environ 80 millions d'habitants, France étant le pays le plus peuplé d'Europe",
+                "Environ 45 millions d'habitants, avec une baisse régulière de la natalité"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 67,
+            "question": "Quel est le principal port maritime de France ?",
+            "bonne_reponse": "Le Grand port maritime de Marseille, premier port français et méditerranéen",
+            "description_bonne_reponse": "Marseille-Fos est le premier port maritime de France et l'un des principaux ports de la Méditerranée. Il traite environ 80 millions de tonnes de marchandises par an. Il est suivi des ports du Havre (premier port pour les conteneurs), de Dunkerque, de Nantes-Saint-Nazaire et de Rouen. Le port de Marseille est un carrefour stratégique pour les échanges entre l'Europe, l'Afrique et l'Asie.",
+            "mauvais_choix": [
+                "Le port de Brest, premier port de pêche français en Atlantique",
+                "Le port de Calais, premier port de voyageurs français",
+                "Le port de Nice, principal port de croisière français"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 68,
+            "question": "Combien y a-t-il de régions en France métropolitaine ?",
+            "bonne_reponse": "13 régions métropolitaines, auxquelles s'ajoutent 5 DROM",
+            "description_bonne_reponse": "Depuis la réforme territoriale de 2014 (loi NOTRe) entrée en vigueur en 2016, la France métropolitaine compte 13 régions (au lieu de 22 auparavant). Les 5 DROM (Guadeloupe, Guyane, Martinique, Mayotte, La Réunion) sont également des régions d'outre-mer. Au total, la France compte donc 18 régions. Les nouvelles régions sont issues du regroupement d'anciennes régions, comme la fusion de la Bourgogne et de la Franche-Comté.",
+            "mauvais_choix": [
+                "22 régions, nombre maintenu depuis le découpage de 1972",
+                "18 régions, dont 5 outre-mer incluses dans ce total",
+                "10 régions métropolitaines, après la fusion de 2016"
+            ],
+            "topics": ["region", "geographie-france"]
+        },
+        {
+            "id": 69,
+            "question": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+            "bonne_reponse": "Lyon",
+            "description_bonne_reponse": "Lyon est le chef-lieu de la région Auvergne-Rhône-Alpes, la deuxième région la plus peuplée de France après l'Île-de-France. Située au confluent du Rhône et de la Saône, Lyon est la troisième ville de France. La région Auvergne-Rhône-Alpes est réputée pour sa gastronomie (bouchons lyonnais), ses stations de ski (Val Thorens, Chamonix, Les Deux Alpes) et sa capitale des Gaules historique.",
+            "mauvais_choix": [
+                "Clermont-Ferrand",
+                "Saint-Étienne",
+                "Grenoble"
+            ],
+            "topics": ["region", "geographie-france"]
+        },
+        {
+            "id": 70,
+            "question": "Quel est le chef-lieu de la région Bretagne ?",
+            "bonne_reponse": "Rennes",
+            "description_bonne_reponse": "Rennes est le chef-lieu de la région Bretagne, située dans l'ouest de la France. La Bretagne compte 4 départements : Ille-et-Vilaine (Rennes), Côtes-d'Armor (Saint-Brieuc), Finistère (Quimper) et Morbihan (Vannes). La région est connue pour sa culture celte, ses crêpes et galettes, ses côtes sauvages et ses festivals. Rennes est une ville universitaire importante.",
+            "mauvais_choix": [
+                "Brest",
+                "Nantes",
+                "Lorient"
+            ],
+            "topics": ["region", "geographie-france"]
+        },
+        {
+            "id": 71,
+            "question": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?",
+            "bonne_reponse": "Marseille",
+            "description_bonne_reponse": "Marseille est le chef-lieu de la région Provence-Alpes-Côte d'Azur (PACA). Deuxième ville de France, Marseille est un grand port méditerranéen fondé par les Grecs vers 600 av. J.-C. La région PACA comprend 6 départements : Bouches-du-Rhône, Var, Alpes-Maritimes, Vaucluse, Alpes-de-Haute-Provence et Hautes-Alpes. Elle est réputée pour son climat méditerranéen, ses plages, ses stations de ski et sa cuisine.",
+            "mauvais_choix": [
+                "Nice",
+                "Toulon",
+                "Aix-en-Provence"
+            ],
+            "topics": ["region", "geographie-france"]
+        },
+        {
+            "id": 72,
+            "question": "Quel est le 101e département français, créé en 2011 ?",
+            "bonne_reponse": "Mayotte, devenu le 101e département français le 31 mars 2011",
+            "description_bonne_reponse": "Mayotte est devenue le 101e département français et le 5e département d'outre-mer (DROM) le 31 mars 2011, à la suite d'une consultation locale. Située dans l'océan Indien, entre Madagascar et le Mozambique, Mayotte est composée de deux îles principales, Grande-Terre et Petite-Terre. Sa population est d'environ 300 000 habitants. Mayotte est le département français le plus jeune et le plus pauvre.",
+            "mauvais_choix": [
+                "La Guyane, département français d'Amérique du Sud",
+                "La Corse-du-Sud, département français depuis 1976",
+                "Saint-Pierre-et-Miquelon, collectivité d'outre-mer depuis 2003"
+            ],
+            "topics": ["outre-mer", "departement"]
+        },
+        {
+            "id": 73,
+            "question": "Quelle région française est réputée pour ses stations de ski ?",
+            "bonne_reponse": "Auvergne-Rhône-Alpes, qui abrite les plus grands domaines skiables des Alpes",
+            "description_bonne_reponse": "Auvergne-Rhône-Alpes est la première région française pour les sports d'hiver, avec des stations de renommée mondiale : Val Thorens, Les Trois Vallées, Chamonix, Courchevel, Méribel, Tignes, Val d'Isère. Les Alpes françaises offrent l'un des plus grands domaines skiables du monde. La région Provence-Alpes-Côte d'Azur et les Pyrénées (Occitanie) offrent également d'importantes stations de ski.",
+            "mauvais_choix": [
+                "La région Normandie, réputée pour ses plages et son climat océanique",
+                "La région Pays de la Loire, réputée pour ses châteaux et son vignoble",
+                "La région Bretagne, réputée pour son littoral et sa culture celte"
+            ],
+            "topics": ["region", "geographie-france"]
+        },
+        {
+            "id": 74,
+            "question": "Quel est l'objectif des lois scolaires de la IIIe République ?",
+            "bonne_reponse": "Rendre l'école gratuite, laïque et obligatoire pour tous les enfants, filles et garçons",
+            "description_bonne_reponse": "Les lois Jules Ferry de 1881-1882 sont les piliers de l'école républicaine : la loi du 16 juin 1881 instaure la gratuité absolue de l'enseignement primaire ; la loi du 28 mars 1882 rend l'instruction obligatoire de 6 à 13 ans et laïcise l'enseignement. L'objectif était de former des citoyens éclairés, de diffuser les valeurs républicaines et d'assurer l'unité nationale. Les lois Ferry marquent la naissance de l'école républicaine.",
+            "mauvais_choix": [
+                "Créer des écoles privées confessionnelles subventionnées par l'État",
+                "Préparer les enfants au travail manuel et à l'apprentissage dès 6 ans",
+                "Sélectionner les meilleurs élèves pour l'enseignement supérieur"
+            ],
+            "topics": ["troisieme-republique", "republique"]
+        },
+        {
+            "id": 75,
+            "question": "Pourquoi l'année 1958 est-elle importante pour la France ?",
+            "bonne_reponse": "C'est l'année de la fondation de la Ve République avec l'adoption de la Constitution du 4 octobre 1958",
+            "description_bonne_reponse": "Le 4 octobre 1958 est promulguée la Constitution de la Ve République, rédigée sous l'impulsion du général de Gaulle et approuvée par référendum le 28 septembre 1958. Cette nouvelle Constitution instaure un régime présidentiel renforcé avec un exécutif bicéphale (Président + Premier ministre). Elle remplace la IVe République, marquée par l'instabilité ministérielle. La Ve République est le régime politique français actuel, qui dure depuis plus de 65 ans.",
+            "mauvais_choix": [
+                "L'année de la création de l'Union européenne par le traité de Rome",
+                "L'année de la fin de la guerre d'Algérie et de l'indépendance algérienne",
+                "L'année de la construction du Marché commun européen"
+            ],
+            "topics": ["constitution", "institutions"]
+        },
+        {
+            "id": 76,
+            "question": "Simone Veil est une figure importante de l'histoire française. Elle a notamment :",
+            "bonne_reponse": "Porté la loi dépénalisant l'interruption volontaire de grossesse (IVG) en 1975",
+            "description_bonne_reponse": "Simone Veil (1927-2017) est une femme d'État française, rescapée d'Auschwitz. En tant que ministre de la Santé sous Valéry Giscard d'Estaing, elle a défendu et fait adopter la loi du 17 janvier 1975 dépénalisant l'avortement, malgré une opposition virulente. Elle a été la première présidente du Parlement européen élue au suffrage universel (1979-1982). Elle est entrée au Panthéon en 2018, aux côtés de son mari. La liberté de recourir à l'IVG a été inscrite dans la Constitution en 2024.",
+            "mauvais_choix": [
+                "Abrogé la peine de mort en France en 1981",
+                "Instauré les congés payés en France en 1936",
+                "Créé la Sécurité sociale en 1945"
+            ],
+            "topics": ["personnalites", "lois-societe", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 77,
+            "question": "Qui a rendu l'école gratuite, laïque et obligatoire ?",
+            "bonne_reponse": "Jules Ferry, ministre de l'Instruction publique sous la IIIe République (lois de 1881-1882)",
+            "description_bonne_reponse": "Jules Ferry (1832-1893) est l'homme politique à l'origine des lois fondatrices de l'école républicaine : gratuité (1881), obligation et laïcité (1882). Il a également contribué à l'expansion coloniale française. Les lois Ferry ont permis l'alphabétisation de masse et la formation des citoyens de la République. L'école publique gratuite, laïque et obligatoire est un pilier de l'identité républicaine française.",
+            "mauvais_choix": [
+                "Louis Pasteur, scientifique qui a révolutionné la médecine",
+                "Victor Hugo, écrivain et homme politique républicain",
+                "Jean Jaurès, leader socialiste et fondateur de L'Humanité"
+            ],
+            "topics": ["troisieme-republique", "republique"]
+        },
+        {
+            "id": 78,
+            "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+            "bonne_reponse": "Lyon, troisième ville de France derrière Paris et Marseille",
+            "description_bonne_reponse": "Lyon est la troisième ville la plus peuplée de France et fait partie des 10 plus grandes métropoles françaises avec Paris, Marseille, Toulouse, Bordeaux, Lille, Nice, Nantes, Strasbourg et Rennes (selon l'INSEE). Ces métropoles concentrent la majorité de la population et de l'activité économique française. Lyon est la capitale de la région Auvergne-Rhône-Alpes et un pôle économique majeur.",
+            "mauvais_choix": [
+                "Avignon, préfecture du Vaucluse et cité des papes",
+                "Pau, préfecture des Pyrénées-Atlantiques",
+                "Dijon, préfecture de la Côte-d'Or"
+            ],
+            "topics": ["geographie-france"]
+        },
+        {
+            "id": 79,
+            "question": "Quelle île française est située dans l'océan Pacifique ?",
+            "bonne_reponse": "La Nouvelle-Calédonie, collectivité d'outre-mer française dans le Pacifique",
+            "description_bonne_reponse": "La Nouvelle-Calédonie est une collectivité d'outre-mer française (statut particulier depuis 1998) située dans l'océan Pacifique, à environ 1 500 km à l'est de l'Australie. Sa capitale est Nouméa. La Polynésie française, Wallis-et-Futuna et Clipperton sont également des territoires français du Pacifique. La Nouvelle-Calédonie possède l'une des plus grandes lagunes du monde et abrite des ressources minières importantes (nickel).",
+            "mauvais_choix": [
+                "La Guadeloupe, île des Antilles dans la mer des Caraïbes",
+                "Mayotte, île de l'océan Indien",
+                "La Réunion, île de l'océan Indien"
+            ],
+            "topics": ["outre-mer", "geographie-france"]
+        }
+    ]
+}

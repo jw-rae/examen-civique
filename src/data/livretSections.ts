@@ -162,4 +162,137 @@ Depuis 2000, la France partage avec 18 autres pays membres de l'Union européenn
 • IIIe République : 1875 — forme républicaine stable. Jules Ferry instaure l'enseignement public, gratuit et laïc dans les années 1880.
 • Ve République : 1958 — nos institutions actuelles.`,
   },
+  {
+    id: 'prehistoire',
+    title: 'La Préhistoire',
+    content: `La grotte de Lascaux est l'une des plus importantes grottes préhistoriques en France. Elle est connue pour la qualité de ses peintures murales représentant des animaux (aurochs, chevaux, cerfs). Datée d'environ 18 000 à 15 000 av. J.-C., elle témoigne de la présence humaine sur le territoire français depuis des millénaires.`,
+  },
+  {
+    id: 'antiquite-romaine',
+    title: 'L\'Antiquité et la Gaule romaine',
+    content: `À partir des années 50 av. J.-C., l'installation des Romains a eu une influence durable car les populations locales adoptent leur mode de vie et la culture latine. De nombreux vestiges témoignent de cette période, comme le théâtre romain d'Orange, dans la vallée du Rhône, qui est l'un des mieux conservés au monde.`,
+  },
+  {
+    id: 'moyen-age',
+    title: 'Le Moyen-Âge',
+    content: `• Clovis (466-511) unifie les royaumes de différents peuples francs. C'est une étape importante dans la construction de l'unité du territoire français. Il adopte la religion chrétienne.
+• Jeanne d'Arc (1412-1431) : pendant la guerre de Cent-Ans contre l'Angleterre, cette jeune paysanne conduit les troupes françaises à la libération d'une partie du territoire français. Cette héroïne nationale incarne le courage au service de la France.`,
+  },
+  {
+    id: 'henri-iv',
+    title: 'Henri IV et l\'édit de Nantes',
+    content: `Henri IV (1553-1610), par l'édit de Nantes de 1598, accorde aux protestants la liberté d'exercer leur religion et rétablit la paix religieuse après des décennies de guerres de religion entre catholiques et protestants.`,
+  },
+  {
+    id: 'louis-xiv',
+    title: 'Louis XIV et la monarchie absolue',
+    content: `Le règne de Louis XIV (1643-1715) est marqué par la monarchie absolue : le roi concentre tous les pouvoirs. À cette époque, se met en place un État puissant et centralisé. Le château de Versailles, avec sa célèbre galerie des Glaces, symbolise cette puissance.
+
+Molière (1622-1673), le plus célèbre auteur de théâtre français, a vécu au temps de Louis XIV. On lui doit des comédies comme L'Avare, Le Misanthrope ou Le Tartuffe.`,
+  },
+  {
+    id: 'lumieres',
+    title: 'Les philosophes des Lumières',
+    content: `Au 18e siècle, les philosophes des Lumières — Rousseau, Voltaire, Diderot — combattent à travers leurs œuvres pour la tolérance et la liberté de pensée. Leurs idées ont profondément influencé la Révolution française et les principes républicains. Diderot a dirigé l'Encyclopédie, vaste ouvrage visant à rassembler toutes les connaissances de l'époque.`,
+  },
+  {
+    id: 'napoleon',
+    title: 'Napoléon Ier et le Premier Empire',
+    content: `Napoléon Ier (1769-1821) dirige la France pendant près de 15 ans. Il mène de nombreuses guerres en Europe à la tête de la Grande Armée. On lui doit notamment le Code civil, ensemble de lois qui constitue encore aujourd'hui le fondement du droit civil français.`,
+  },
+  {
+    id: 'troisieme-republique',
+    title: 'La IIIe République et Jules Ferry',
+    content: `La IIIe République (1875) établit de façon stable la forme républicaine du Gouvernement. Jules Ferry, ministre de l'Instruction publique au début des années 1880, est à l'origine de l'enseignement public, gratuit et laïc. Les lois Ferry de 1881-1882 rendent l'école primaire obligatoire et l'école publique gratuite et laïque.`,
+  },
+  {
+    id: 'victor-hugo',
+    title: 'Victor Hugo',
+    content: `Victor Hugo (1802-1885) est l'un des plus grands écrivains français. Il s'est engagé contre les inégalités sociales et la peine de mort. Il a écrit des chefs-d'œuvre comme Les Misérables et Notre-Dame de Paris. Figure majeure de la vie littéraire et politique du 19e siècle, il est inhumé au Panthéon.`,
+  },
+  {
+    id: 'abolition-esclavage',
+    title: 'L\'abolition de l\'esclavage (1848)',
+    content: `L'esclavage avait été rétabli par Napoléon en 1802 dans les colonies françaises. La Seconde République proclame son abolition définitive le 27 avril 1848, sous l'impulsion de Victor Schœlcher. Cette décision libère des milliers d'esclaves dans les colonies françaises des Antilles, de l'océan Indien et d'ailleurs.`,
+  },
+  {
+    id: 'empire-colonial',
+    title: 'L\'empire colonial français',
+    content: `À partir des années 1830, la France constitue un vaste empire colonial, souvent par des guerres de conquêtes, principalement aux Antilles, en Afrique et en Asie. La colonisation a profondément marqué l'histoire de ces territoires et celle de la France.`,
+  },
+  {
+    id: 'decolonisation',
+    title: 'La décolonisation française (1950-1962)',
+    content: `Dans les empires coloniaux européens, les peuples revendiquent leur indépendance. La décolonisation française débute en Asie et s'étend à l'Afrique. Ce processus a donné lieu à des guerres comme celles d'Indochine (1946-1954) et d'Algérie (1954-1962).`,
+  },
+  {
+    id: 'construction-europeenne',
+    title: 'La construction européenne',
+    content: `Le traité de Rome (1957) instaure la Communauté économique européenne entre six pays d'Europe, dont la France. Son objectif est d'établir une union étroite entre les peuples européens. La construction européenne a fortement contribué à installer la paix en Europe après les deux guerres mondiales.`,
+  },
+  {
+    id: 'mai-68',
+    title: 'Mai 68',
+    content: `Le mouvement social de Mai 68 est initié par des étudiants. Il s'étend aux salariés et au monde ouvrier. Ces grèves et ces manifestations sont parmi les plus importantes du 20e siècle. Mai 68 a marqué un tournant dans la société française, notamment sur les plans social et culturel.`,
+  },
+  {
+    id: 'lois-societe',
+    title: 'Les grandes lois sociétales (1974-1981)',
+    content: `• 1974 : L'âge de la majorité est fixé à 18 ans (auparavant 21 ans).
+• 1975 : Loi sur l'interruption volontaire de grossesse (IVG), préparée par Simone Veil. Elle autorise l'avortement.
+• 1981 : Abolition de la peine de mort en France, portée par Robert Badinter, ministre de la Justice.`,
+  },
+  {
+    id: 'personnalites',
+    title: 'Des personnalités naturalisées qui ont fait rayonner la France',
+    content: `Au fil de son histoire, de nombreuses personnes sont venues s'installer et vivre en France. Beaucoup ont fait le choix de la nationalité française. En voici quelques-unes :
+• Marie Curie (1867-1934) : physicienne née en Pologne, découvre la radioactivité, prix Nobel, inhumée au Panthéon.
+• Josephine Baker (1906-1975) : artiste américaine, première chanteuse noire reconnue, résistante, inhumée au Panthéon.
+• Marc Chagall (1887-1985) : peintre d'origine russe, a décoré le plafond de l'Opéra Garnier.
+• Romain Gary (1914-1980) : écrivain d'origine russe, seul double lauréat du prix Goncourt.
+• Dalida (1933-1987) : chanteuse d'origine égyptienne, immenses succès populaires.
+• Georges Moustaki (1934-2013) : chanteur d'origine italo-grecque, grand nom de la chanson française.
+• Léon Zitrone (1914-1995) : journaliste né en Russie, célèbre commentateur d'événements.`,
+  },
+  {
+    id: 'economie-francaise',
+    title: 'La puissance économique française',
+    content: `La France est la sixième puissance économique mondiale. Elle compte une centaine de grands groupes de plus de 10 000 salariés, présents dans de nombreux pays. L'économie française a des secteurs d'excellence comme l'aéronautique ou le luxe, dont certaines marques sont connues dans le monde entier.
+
+La France est également un leader mondial du transport maritime et ferroviaire. C'est la première destination touristique au monde, grâce à ses monuments et sa culture.
+
+La France est membre permanent du Conseil de sécurité de l'Organisation des Nations Unies (ONU).`,
+  },
+  {
+    id: 'langue-francaise',
+    title: 'La langue française dans le monde',
+    content: `Le français est parlé couramment par 200 millions de personnes dans le monde. Les Français ne représentent que 1% de la population mondiale mais les personnes qui parlent français sont réparties dans 70 pays.`,
+  },
+  {
+    id: 'geographie-france',
+    title: 'La géographie de la France',
+    content: `La France compte 67,4 millions d'habitants (INSEE 2021). Son territoire s'étend sur 675 000 km², en métropole et outre-mer.
+
+La France est parcourue par des fleuves importants : la Loire (le plus long), la Seine, la Garonne, le Rhône, le Rhin.
+
+Le Mont-Blanc, sommet de la chaîne des Alpes, est la plus haute montagne d'Europe (4 810 m).
+
+La France compte 17 agglomérations de plus de 500 000 habitants. Les dix métropoles les plus importantes sont : Paris, Lyon, Marseille, Toulouse, Lille, Bordeaux, Nice, Nantes, Strasbourg et Rennes.`,
+  },
+  {
+    id: 'monuments',
+    title: 'Quelques sites remarquables français',
+    content: `• La tour Eiffel : construite par l'ingénieur Gustave Eiffel pour l'Exposition universelle de 1889. C'est un monument très fréquenté, avec plus de 7 millions de visiteurs par an. Symbole de Paris et de la France dans le monde.
+• Le Mont-Saint-Michel : îlot rocheux situé en Normandie dans une baie, sur lequel s'élève une abbaye. Classé au patrimoine mondial de l'humanité par l'UNESCO.
+• Les châteaux de la Loire : témoignages de la Renaissance française (Chambord, Chenonceau, Amboise…).`,
+  },
+  {
+    id: 'outre-mer',
+    title: 'Les territoires d\'outre-mer',
+    content: `La France compte 12 territoires d'outre-mer :
+• 5 DROM (départements et régions d'outre-mer) : Guadeloupe, Guyane, Martinique, Mayotte et La Réunion.
+• 7 COM (collectivités d'outre-mer) : Nouvelle-Calédonie, Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Terres australes et antarctiques françaises, Wallis-et-Futuna.
+
+Dans les départements et les régions de métropole et d'outre-mer, l'État est représenté par les préfets.`,
+  },
 ]

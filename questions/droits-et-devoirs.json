@@ -10,153 +10,167 @@
         "Le droit de pétition, qui permet aux citoyens de demander directement au Parlement l'adoption d'une loi",
         "Le droit de référendum, qui permet aux citoyens de voter directement une loi sans passer par le Parlement",
         "Le droit d'éligibilité, qui permet à tout citoyen de se porter candidat sans condition d'âge ou de nationalité"
-      ]
-    },
-    {
-      "id": 2,
+            ],
+            "topics": ["droits-citoyens", "suffrage-universel"]
+        },
+        {
+            "id": 2,
       "question": "Qu'est-ce que le droit de grève ?",
       "bonne_reponse": "Le droit pour les travailleurs de cesser collectivement le travail pour défendre leurs intérêts professionnels, reconnu par le préambule de la Constitution de 1946",
       "description_bonne_reponse": "Le droit de grève est un droit constitutionnel reconnu par le préambule de la Constitution de 1946. Il permet aux salariés de cesser collectivement le travail pour faire valoir leurs revendications professionnelles. Ce droit est encadré par la loi : préavis pour les services publics, interdiction dans certaines professions (militaires, police), et obligation de négociation.",
       "mauvais_choix": [
         "Un droit absolu permettant à tout salarié d'arrêter de travailler à tout moment, sans préavis ni restriction, quels que soient son secteur ou sa profession",
         "Un privilège accordé uniquement aux fonctionnaires et agents de l'État, les salariés du privé ne pouvant pas faire grève sans accord préalable de l'employeur",
-        "Une autorisation délivrée par le ministère du Travail aux syndicats représentatifs pour organiser un arrêt de travail d'une durée maximale de 24 heures"
-      ]
-    },
-    {
-      "id": 3,
+            "Une autorisation délivrée par le ministère du Travail aux syndicats représentatifs pour organiser un arrêt de travail d'une durée maximale de 24 heures"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 3,
       "question": "Quel est le devoir fiscal du citoyen français ?",
       "bonne_reponse": "Déclarer ses revenus et payer ses impôts conformément à la loi, contribuant ainsi au financement des services publics",
       "description_bonne_reponse": "Tout citoyen français a le devoir de contribuer aux dépenses publiques selon ses capacités contributives. Concrètement, cela signifie déclarer ses revenus chaque année aux services fiscaux et payer les impôts dus (impôt sur le revenu, taxe foncière, TVA, etc.). Le principe de l'impôt est posé par l'article 13 de la Déclaration des droits de l'homme de 1789.",
       "mauvais_choix": [
         "Payer uniquement la TVA sur ses achats, les autres impôts étant facultatifs pour les citoyens de bonne foi",
         "Verser une contribution volontaire à l'État chaque année, selon ses moyens et sa générosité personnelle",
-        "S'acquitter uniquement de la taxe d'habitation, seul impôt obligatoire pour tous les résidents français majeurs"
-      ]
-    },
-    {
-      "id": 4,
+            "S'acquitter uniquement de la taxe d'habitation, seul impôt obligatoire pour tous les résidents français majeurs"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 4,
       "question": "Que garantit le droit à l'éducation en France ?",
       "bonne_reponse": "L'accès gratuit à l'enseignement public pour tous les enfants résidant en France, de 3 à 16 ans (instruction obligatoire)",
       "description_bonne_reponse": "L'éducation est un droit fondamental garanti par la Constitution et la loi. L'instruction est obligatoire de 3 à 16 ans. L'école publique est gratuite et laïque. Ce droit permet à chaque enfant d'accéder au savoir, à la culture et à la qualification professionnelle, sans discrimination liée à ses origines ou sa situation sociale.",
       "mauvais_choix": [
         "L'accès gratuit à l'université pour tous les citoyens français, sans condition de diplôme ni de dossier",
         "Le droit pour chaque enfant de choisir librement son établissement scolaire, public ou privé, aux frais de l'État",
-        "L'accès à l'enseignement supérieur uniquement pour les étudiants boursiers, les autres devant financer leurs études"
-      ]
-    },
-    {
-      "id": 5,
+            "L'accès à l'enseignement supérieur uniquement pour les étudiants boursiers, les autres devant financer leurs études"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 5,
       "question": "Les femmes et les hommes ont-ils les mêmes droits en France ?",
       "bonne_reponse": "Oui, l'égalité entre les femmes et les hommes est un principe constitutionnel garanti par la loi dans tous les domaines",
       "description_bonne_reponse": "Le principe d'égalité entre les femmes et les hommes est inscrit dans le préambule de la Constitution de 1946 et dans la Constitution de 1958. La loi garantit l'égalité professionnelle, l'égalité d'accès aux mandats électoraux (parité), l'égalité dans la vie politique et sociale. Des lois spécifiques luttent contre les discriminations et les violences faites aux femmes.",
       "mauvais_choix": [
         "Oui, mais uniquement depuis la loi de 2022 qui a accordé aux femmes le droit de travailler sans autorisation du mari",
         "Non, les femmes n'ont pas le droit de vote en France, contrairement aux hommes qui l'ont obtenu en 1848",
-        "Oui, mais uniquement dans le domaine professionnel, l'égalité politique n'étant pas garantie par la Constitution"
-      ]
-    },
-    {
-      "id": 6,
+            "Oui, mais uniquement dans le domaine professionnel, l'égalité politique n'étant pas garantie par la Constitution"
+            ],
+            "topics": ["egalite-femmes-hommes"]
+        },
+        {
+            "id": 6,
       "question": "Qu'est-ce que le devoir de défense ?",
       "bonne_reponse": "L'obligation pour tout citoyen de contribuer à la défense de la nation en cas de menace, notamment par la Journée défense et citoyenneté (JDC)",
       "description_bonne_reponse": "Le devoir de défense est inscrit dans la Constitution. La Journée défense et citoyenneté (JDC) est obligatoire pour tous les Français de 16 à 25 ans, quel que soit leur sexe. Elle permet d'informer les jeunes sur leurs droits et devoirs en matière de défense nationale et sur les métiers militaires. En cas de nécessité, la participation à la défense du pays peut être requise.",
       "mauvais_choix": [
         "L'obligation pour tout citoyen masculin d'effectuer un service militaire d'un an avant l'âge de 25 ans",
         "Une démarche facultative réservée aux volontaires souhaitant s'engager dans l'armée française",
-        "L'obligation de posséder une arme à domicile et de suivre un entraînement militaire annuel obligatoire"
-      ]
-    },
-    {
-      "id": 7,
+            "L'obligation de posséder une arme à domicile et de suivre un entraînement militaire annuel obligatoire"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 7,
       "question": "Qu'est-ce que l'obligation scolaire ?",
       "bonne_reponse": "L'instruction est obligatoire pour tous les enfants résidant en France, de 3 à 16 ans, qu'ils soient scolarisés dans un établissement public, privé ou instruits en famille",
       "description_bonne_reponse": "Depuis la loi de 2019, l'instruction est obligatoire de 3 à 16 ans. Les parents peuvent choisir entre l'école publique, l'école privée sous contrat, ou l'instruction en famille (sous régime d'autorisation depuis 2021). Au-delà de 16 ans, la formation reste obligatoire jusqu'à 18 ans (formation scolaire, apprentissage, emploi ou service civique).",
       "mauvais_choix": [
         "L'école est obligatoire de 6 à 18 ans dans un établissement public de l'Éducation nationale uniquement",
         "La scolarité est obligatoire uniquement jusqu'à 14 ans, conformément à la loi Ferry de 1882 qui a instauré l'école gratuite",
-        "L'instruction n'est obligatoire que pour les garçons, les filles pouvant être instruites à domicile sans déclaration"
-      ]
-    },
-    {
-      "id": 8,
+            "L'instruction n'est obligatoire que pour les garçons, les filles pouvant être instruites à domicile sans déclaration"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 8,
       "question": "Peut-on exprimer librement ses opinions en France ?",
       "bonne_reponse": "Oui, la liberté d'expression est garantie par la Déclaration des droits de l'homme, mais encadrée par la loi (diffamation, incitation à la haine, négationnisme)",
       "description_bonne_reponse": "La liberté d'expression est un droit fondamental proclamé par l'article 11 de la Déclaration des droits de l'homme de 1789. Cependant, elle n'est pas absolue. La loi fixe des limites pour protéger les droits d'autrui : interdiction de la diffamation, de l'injure publique, de l'incitation à la haine raciale ou religieuse, du négationnisme, et de l'apologie du terrorisme.",
       "mauvais_choix": [
         "Oui, sans aucune limite, la liberté d'expression étant un droit absolu et inconditionnel protégé par la Constitution",
         "Non, toute opinion doit être approuvée par l'État avant d'être exprimée publiquement, conformément à la législation",
-        "Oui, mais uniquement dans la sphère privée et familiale, toute expression publique nécessitant une autorisation préfectorale"
-      ]
-    },
-    {
-      "id": 9,
+            "Oui, mais uniquement dans la sphère privée et familiale, toute expression publique nécessitant une autorisation préfectorale"
+            ],
+            "topics": ["liberte-expression"]
+        },
+        {
+            "id": 9,
       "question": "Qu'est-ce que le droit de propriété ?",
       "bonne_reponse": "Le droit de posséder, d'utiliser et de disposer librement de ses biens, garanti par la Déclaration des droits de l'homme de 1789",
       "description_bonne_reponse": "Le droit de propriété est un droit fondamental proclamé par l'article 17 de la Déclaration des droits de l'homme de 1789. Il permet à toute personne de posséder des biens (immobiliers, mobiliers, intellectuels), de les utiliser et d'en disposer librement. Il n'est pas absolu : l'État peut limiter ce droit pour des motifs d'utilité publique, moyennant une juste indemnisation (expropriation).",
       "mauvais_choix": [
         "Un droit absolu qui permet de faire ce que l'on veut de ses biens, y compris les détruire, sans aucune restriction légale",
         "Un privilège accordé uniquement aux citoyens français propriétaires, les étrangers ne pouvant pas posséder de biens immobiliers",
-        "Un droit limité aux seuls biens immobiliers, les biens mobiliers et intellectuels n'étant pas protégés par la Constitution"
-      ]
-    },
-    {
-      "id": 10,
+            "Un droit limité aux seuls biens immobiliers, les biens mobiliers et intellectuels n'étant pas protégés par la Constitution"
+            ],
+            "topics": ["droits-citoyens", "declaration-1789"]
+        },
+        {
+            "id": 10,
       "question": "Un enfant peut-il travailler en France ?",
       "bonne_reponse": "Oui, à partir de 16 ans, ou à partir de 14 ans pour un apprentissage allégé, avec des restrictions strictes pour protéger sa santé et son éducation",
       "description_bonne_reponse": "En France, le travail des enfants est strictement réglementé. L'âge minimum pour travailler est 16 ans (sauf exceptions pour apprentissage dès 14 ans sous conditions). Les moins de 18 ans bénéficient d'une protection renforcée : interdiction du travail de nuit, limitation de la durée du travail, repos obligatoire. Le travail des enfants de moins de 14 ans est interdit, conformément aux conventions internationales.",
       "mauvais_choix": [
         "Non, le travail des mineurs est totalement interdit en France, même à partir de 16 ans, jusqu'à la majorité légale",
         "Oui, dès l'âge de 12 ans, à condition que l'emploi n'interfère pas avec la scolarité obligatoire jusqu'à 16 ans",
-        "Oui, à tout âge, les enfants peuvent travailler avec l'accord de leurs parents et une autorisation de l'inspection du travail"
-      ]
-    },
-    {
-      "id": 11,
+            "Oui, à tout âge, les enfants peuvent travailler avec l'accord de leurs parents et une autorisation de l'inspection du travail"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 11,
       "question": "Que signifie le principe d'égalité devant la loi ?",
       "bonne_reponse": "Tous les citoyens sont soumis aux mêmes règles juridiques et bénéficient des mêmes droits, sans discrimination d'aucune sorte",
       "description_bonne_reponse": "Le principe d'égalité devant la loi est inscrit à l'article 1er de la Constitution et dans la Déclaration des droits de l'homme de 1789. Il signifie que la loi s'applique de la même manière à tous, sans considération d'origine, de race, de religion, de sexe ou d'opinion. Il interdit les discriminations et garantit à chacun un traitement égal devant la justice et l'administration.",
       "mauvais_choix": [
         "Les citoyens n'ont pas les mêmes droits selon leur région de résidence, chaque collectivité fixant ses propres règles",
         "Les hommes et les femmes ont des droits différents, conformément aux traditions juridiques françaises",
-        "Les citoyens contribuables ont plus de droits que les non-contribuables, le paiement de l'impôt conditionnant l'accès aux droits"
-      ]
-    },
-    {
-      "id": 12,
+            "Les citoyens contribuables ont plus de droits que les non-contribuables, le paiement de l'impôt conditionnant l'accès aux droits"
+            ],
+            "topics": ["declaration-1789", "discrimination"]
+        },
+        {
+            "id": 12,
       "question": "Qu'est-ce que le droit à la santé en France ?",
       "bonne_reponse": "Le droit pour toute personne résidant en France d'accéder aux soins médicaux, concrétisé par la Sécurité sociale et la protection maladie universelle",
       "description_bonne_reponse": "Le droit à la protection de la santé est reconnu par le préambule de la Constitution de 1946. En France, il est concrétisé par la Sécurité sociale (créée en 1945) qui rembourse une partie des frais médicaux, et par la Protection universelle maladie (PUMA) qui garantit à toute personne résidant en France de façon stable un droit à l'assurance maladie. L'aide médicale d'État (AME) permet aussi aux étrangers en situation irrégulière d'accéder aux soins.",
       "mauvais_choix": [
         "Un privilège réservé aux citoyens français cotisant à la Sécurité sociale, les étrangers n'ayant pas accès au système de santé",
         "Le droit d'être soigné gratuitement dans tous les hôpitaux publics sans aucune avance de frais ni pièce d'identité",
-        "Un système d'assurance privée obligatoire où chaque citoyen doit souscrire une mutuelle pour financer ses soins médicaux"
-      ]
-    },
-    {
-      "id": 13,
+            "Un système d'assurance privée obligatoire où chaque citoyen doit souscrire une mutuelle pour financer ses soins médicaux"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 13,
       "question": "Qu'est-ce que le service civique ?",
       "bonne_reponse": "Un engagement volontaire de 6 à 12 mois dans une mission d'intérêt général, ouvert aux jeunes de 16 à 25 ans, indemnisé par l'État",
       "description_bonne_reponse": "Le service civique est un engagement volontaire créé en 2010, accessible aux jeunes de 16 à 25 ans (et jusqu'à 30 ans pour les personnes en situation de handicap). Il permet d'effectuer une mission d'intérêt général dans des domaines variés (solidarité, éducation, environnement, culture, sport) pendant 6 à 12 mois. Les volontaires perçoivent une indemnité versée par l'État.",
       "mauvais_choix": [
         "Une obligation pour tous les jeunes Français de 18 ans de servir pendant 3 mois dans l'armée ou une association humanitaire",
         "Un emploi rémunéré au SMIC dans la fonction publique territoriale, réservé aux jeunes sans diplôme ni expérience",
-        "Un stage non rémunéré obligatoire pour valider le baccalauréat, d'une durée de 3 mois dans une association"
-      ]
-    },
-    {
-      "id": 14,
+            "Un stage non rémunéré obligatoire pour valider le baccalauréat, d'une durée de 3 mois dans une association"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 14,
       "question": "Quel est le rôle des associations en France ?",
       "bonne_reponse": "Permettre aux citoyens de se regrouper librement autour d'un projet commun non lucratif, contribuant à la vie démocratique et à la solidarité",
       "description_bonne_reponse": "Encadrées par la loi du 1er juillet 1901, les associations permettent aux citoyens de s'unir librement autour d'un but commun non lucratif. Elles jouent un rôle essentiel dans la vie sociale et démocratique : animation locale, solidarité, défense des droits, activités culturelles et sportives. La France compte environ 1,5 million d'associations actives, et 13 millions de bénévoles y participent.",
       "mauvais_choix": [
         "Uniquement organiser des événements sportifs et culturels, les associations n'ayant pas le droit d'intervenir dans les domaines politiques ou sociaux",
         "Remplacer l'État dans ses missions régaliennes (police, justice, défense) lorsque les services publics sont défaillants",
-        "Permettre aux entreprises privées de financer des activités lucratives tout en bénéficiant d'exonérations fiscales"
-      ]
-    },
-    {
-      "id": 15,
+            "Permettre aux entreprises privées de financer des activités lucratives tout en bénéficiant d'exonérations fiscales"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 15,
       "question": "Quelles sont les conditions pour adopter un enfant en France ?",
       "bonne_reponse": "Être âgé d'au moins 28 ans (ou marié depuis 2 ans), avoir l'agrément délivré par le conseil départemental, et offrir des garanties d'accueil éducatif et affectif",
       "description_bonne_reponse": "L'adoption en France est strictement encadrée pour protéger l'intérêt de l'enfant. Les conditions incluent : avoir au moins 28 ans (ou être marié depuis au moins 2 ans sans condition d'âge), obtenir un agrément délivré par le conseil départemental après enquête sociale et psychologique, et justifier de capacités éducatives et affectives. L'adoption plénière confère à l'enfant la même filiation qu'un enfant biologique.",
@@ -174,11 +188,12 @@
       "mauvais_choix": [
         "Un droit absolu permettant aux journalistes de publier n'importe quelle information sans aucune conséquence juridique",
         "Un privilège exclusif accordé aux journalistes professionnels titulaires d'une carte de presse délivrée par l'État",
-        "Une autorisation préalable délivrée par le CSA (aujourd'hui ARCOM) pour chaque article publié dans la presse écrite"
-      ]
-    },
-    {
-      "id": 17,
+            "Une autorisation préalable délivrée par le CSA (aujourd'hui ARCOM) pour chaque article publié dans la presse écrite"
+            ],
+            "topics": ["liberte-expression"]
+        },
+        {
+            "id": 17,
       "question": "Un étranger peut-il être expulsé de France ?",
       "bonne_reponse": "Oui, dans certains cas prévus par la loi (séjour irrégulier, menace à l'ordre public), mais avec des protections pour les personnes vulnérables et les résidents de longue durée",
       "description_bonne_reponse": "L'expulsion d'un étranger est possible dans les cas prévus par le Code de l'entrée et du séjour des étrangers (CESEDA). Cependant, la loi protège certaines catégories : les mineurs, les parents d'enfants français, les résidents de longue durée (plus de 10 ans), et les personnes gravement malades. Une procédure administrative et un recours juridictionnel sont prévus. La décision d'expulsion doit respecter la Convention européenne des droits de l'homme.",
@@ -196,22 +211,24 @@
       "mauvais_choix": [
         "Un droit nécessitant une autorisation préfectorale pour toute réunion de plus de 5 personnes, même dans un lieu privé",
         "Un droit absolu permettant de se rassembler n'importe où, n'importe quand, sans aucune déclaration ni restriction",
-        "Un droit réservé aux seuls partis politiques et syndicats, les citoyens n'ayant pas le droit d'organiser de rassemblements"
-      ]
-    },
-    {
-      "id": 19,
+            "Un droit réservé aux seuls partis politiques et syndicats, les citoyens n'ayant pas le droit d'organiser de rassemblements"
+            ],
+            "topics": ["liberte-expression", "droits-citoyens"]
+        },
+        {
+            "id": 19,
       "question": "Qu'est-ce que le droit d'asile ?",
       "bonne_reponse": "Le droit pour toute personne persécutée dans son pays d'origine d'obtenir une protection sur le territoire français, conformément à la Constitution et aux conventions internationales",
       "description_bonne_reponse": "Le droit d'asile est un droit constitutionnel français, inscrit dans le préambule de la Constitution de 1946 et dans la Constitution de 1958. Il est également régi par la Convention de Genève de 1951. Toute personne persécutée en raison de sa race, sa religion, sa nationalité, ses opinions politiques ou son appartenance à un groupe social peut demander l'asile. L'Office français de protection des réfugiés et apatrides (OFPRA) instruit les demandes.",
       "mauvais_choix": [
         "Un droit accordé automatiquement à tout étranger entrant sur le territoire français, sans condition ni examen de sa situation",
         "Un permis de séjour temporaire accordé uniquement aux étrangers disposant de ressources financières suffisantes en France",
-        "Un droit exclusivement réservé aux citoyens des pays en guerre, les persécutions individuelles n'étant pas reconnues"
-      ]
-    },
-    {
-      "id": 20,
+            "Un droit exclusivement réservé aux citoyens des pays en guerre, les persécutions individuelles n'étant pas reconnues"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 20,
       "question": "Les parents ont-ils des devoirs envers leurs enfants ?",
       "bonne_reponse": "Oui, ils exercent l'autorité parentale qui inclut le devoir d'éduquer, de protéger, de nourrir, de loger et d'assurer la santé et la sécurité de leurs enfants",
       "description_bonne_reponse": "L'autorité parentale est définie par le Code civil comme un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant. Les parents doivent assurer la sécurité, la santé, la moralité, l'éducation et le développement de leur enfant. Ils doivent le nourrir, le loger, veiller à son éducation scolaire et à son épanouissement. L'autorité parentale est exercée conjointement par les deux parents.",
@@ -229,110 +246,120 @@
       "mauvais_choix": [
         "Un droit absolu qui ne peut faire l'objet d'aucune restriction, même en cas de menace grave pour l'ordre public ou la santé",
         "Un privilège réservé aux citoyens français, les étrangers n'ayant pas le droit de circuler librement sur le territoire",
-        "Un droit limité aux déplacements dans le département de résidence, tout déplacement hors département nécessitant une autorisation"
-      ]
-    },
-    {
-      "id": 22,
+            "Un droit limité aux déplacements dans le département de résidence, tout déplacement hors département nécessitant une autorisation"
+            ],
+            "topics": ["droits-citoyens", "liberte-expression"]
+        },
+        {
+            "id": 22,
       "question": "Qu'est-ce que la Cour d'assises ?",
       "bonne_reponse": "Une juridiction composée de juges professionnels et de jurés citoyens tirés au sort, chargée de juger les crimes les plus graves",
       "description_bonne_reponse": "La Cour d'assises est la juridiction compétente pour juger les crimes (infractions les plus graves : meurtre, viol, vol à main armée). Sa particularité est d'inclure des jurés populaires, citoyens tirés au sort sur les listes électorales, qui siègent aux côtés des magistrats professionnels. C'est l'expression concrète de la participation des citoyens à la justice. Depuis 2012, il n'y a plus de Cour d'assises pour les mineurs de plus de 16 ans.",
       "mauvais_choix": [
         "Un tribunal composé exclusivement de juges professionnels qui jugent les litiges civils entre particuliers et les entreprises",
         "Une commission administrative chargée d'examiner les recours des citoyens contre les décisions de l'administration",
-        "Un tribunal d'exception composé uniquement de militaires, chargé de juger les crimes commis par des personnels en service"
-      ]
-    },
-    {
-      "id": 23,
+            "Un tribunal d'exception composé uniquement de militaires, chargé de juger les crimes commis par des personnels en service"
+            ],
+            "topics": ["justice"]
+        },
+        {
+            "id": 23,
       "question": "Peut-on refuser de faire partie d'un jury d'assises ?",
       "bonne_reponse": "Non, c'est un devoir civique obligatoire, sauf motif légitime (âge, santé, charges familiales impérieuses) apprécié par la cour",
       "description_bonne_reponse": "La participation à un jury d'assises est un devoir civique prévu par le Code de procédure pénale. Tout citoyen français inscrit sur les listes électorales, âgé de plus de 23 ans et pouvant justifier d'un casier judiciaire vierge peut être appelé. Le refus de siéger sans motif légitime est passible d'une amende. Les motifs d'excuse sont limités : plus de 70 ans, motif grave de santé, ou charge familiale impérieuse.",
       "mauvais_choix": [
         "Oui, c'est une démarche facultative que le citoyen peut refuser sans justification, la participation étant libre",
         "Non, mais seuls les citoyens juristes ou ayant une formation juridique peuvent être appelés à siéger",
-        "Oui, en payant une contribution financière de 500 euros pour se dispenser de cette obligation civique"
-      ]
-    },
-    {
-      "id": 24,
+            "Oui, en payant une contribution financière de 500 euros pour se dispenser de cette obligation civique"
+            ],
+            "topics": ["devoirs-citoyens", "justice"]
+        },
+        {
+            "id": 24,
       "question": "Qu'est-ce que le droit au logement opposable (DALO) ?",
       "bonne_reponse": "Le droit pour toute personne mal logée ou sans logement de faire valoir son droit à un logement décent devant la justice, instauré par la loi de 2007",
       "description_bonne_reponse": "La loi DALO du 5 mars 2007 a créé un droit au logement opposable, c'est-à-dire juridiquement contraignant pour l'État. Toute personne sans logement ou menacée d'expulsion peut saisir une commission de médiation, puis, en cas d'absence de proposition adaptée, former un recours devant le tribunal administratif. Ce droit s'adresse prioritairement aux personnes en situation d'urgence (sans-abri, hébergées, logement insalubre).",
       "mauvais_choix": [
         "Un dispositif accordant un logement gratuit à tout citoyen français qui en fait la demande, sans condition de ressources",
         "Un prêt à taux zéro accordé par l'État aux jeunes de moins de 30 ans pour l'achat d'un premier logement",
-        "Un droit exclusif accordé aux familles nombreuses de plus de 3 enfants, leur garantissant un logement social prioritaire"
-      ]
-    },
-    {
-      "id": 25,
+            "Un droit exclusif accordé aux familles nombreuses de plus de 3 enfants, leur garantissant un logement social prioritaire"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 25,
       "question": "Un citoyen peut-il contester une décision de l'administration ?",
       "bonne_reponse": "Oui, devant le tribunal administratif, qui peut annuler la décision si elle est illégale ou disproportionnée",
       "description_bonne_reponse": "Tout citoyen peut contester une décision de l'administration (refus de permis de construire, rejet d'une demande de titre de séjour, décision fiscale) devant le juge administratif. Le recours peut être gracieux (auprès de l'administration elle-même) ou contentieux (devant le tribunal administratif). Le juge peut annuler la décision, enjoindre à l'administration de prendre une nouvelle décision, ou indemniser le préjudice subi.",
       "mauvais_choix": [
         "Non, les décisions de l'administration ne peuvent pas être contestées, l'État ayant toujours le dernier mot",
         "Oui, uniquement devant le tribunal judiciaire, par l'intermédiaire d'un avocat et après paiement d'une caution",
-        "Oui, mais uniquement par l'intermédiaire d'un député ou d'un sénateur qui saisit le Médiateur de la République"
-      ]
-    },
-    {
-      "id": 26,
+            "Oui, mais uniquement par l'intermédiaire d'un député ou d'un sénateur qui saisit le Médiateur de la République"
+            ],
+            "topics": ["justice"]
+        },
+        {
+            "id": 26,
       "question": "Qu'est-ce que le droit de vivre en famille ?",
       "bonne_reponse": "Le droit pour les membres d'une famille de vivre ensemble, protégé par le droit français et la Convention européenne des droits de l'homme",
       "description_bonne_reponse": "Le droit à une vie familiale normale est un droit fondamental protégé par la Convention européenne des droits de l'homme (article 8). En France, il est pris en compte dans le droit au regroupement familial, permettant à un étranger résidant régulièrement en France de faire venir son conjoint et ses enfants mineurs. Il protège également les parents d'enfants étrangers contre l'expulsion et garantit le maintien des liens familiaux.",
       "mauvais_choix": [
         "Un droit accordant un logement gratuit à toute famille de plus de 4 personnes, quelle que soit sa situation administrative",
         "Un droit exclusif aux citoyens français de nationalité, les familles étrangères n'étant pas protégées par cette disposition",
-        "Un droit limité aux seules familles nucléaires composées de deux parents mariés et de leurs enfants biologiques"
-      ]
-    },
-    {
-      "id": 27,
+            "Un droit limité aux seules familles nucléaires composées de deux parents mariés et de leurs enfants biologiques"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 27,
       "question": "Qu'est-ce que le droit à un procès équitable ?",
       "bonne_reponse": "Le droit pour toute personne d'être jugée par un tribunal indépendant et impartial, dans un délai raisonnable, avec des garanties de défense",
       "description_bonne_reponse": "Le droit à un procès équitable est garanti par l'article 6 de la Convention européenne des droits de l'homme et par le droit français. Il comprend : l'accès à un tribunal indépendant et impartial, la présomption d'innocence, le droit d'être informé des accusations, le droit de se défendre seul ou avec un avocat, le droit d'interroger les témoins, et le droit à un jugement public dans un délai raisonnable.",
       "mauvais_choix": [
         "Le droit d'être jugé par des amis ou des proches, selon les règles de l'équité et non selon le droit positif",
         "Le droit d'être jugé uniquement par des jurés populaires sans juge professionnel, pour garantir l'impartialité",
-        "Le droit d'obtenir systématiquement un non-lieu si l'accusé n'a pas les moyens de payer un avocat"
-      ]
-    },
-    {
-      "id": 28,
+            "Le droit d'obtenir systématiquement un non-lieu si l'accusé n'a pas les moyens de payer un avocat"
+            ],
+            "topics": ["justice"]
+        },
+        {
+            "id": 28,
       "question": "Qu'est-ce que le devoir de voter ?",
       "bonne_reponse": "Le vote est un droit civique, mais non une obligation légale en France. Le citoyen a le devoir moral de participer à la vie démocratique",
       "description_bonne_reponse": "En France, le vote est un droit fondamental mais n'est pas obligatoire légalement. L'abstention n'est pas sanctionnée. Cependant, voter est considéré comme un devoir civique essentiel dans une démocratie. Le citoyen est encouragé à participer aux élections pour exprimer ses choix politiques et contribuer à la vie de la nation. Des débats existent sur l'instauration du vote obligatoire, sans qu'une loi n'ait été adoptée.",
       "mauvais_choix": [
         "Le vote est obligatoire sous peine d'amende, tout citoyen inscrit sur les listes électorales doit voter à chaque scrutin",
         "Le vote est obligatoire uniquement pour les élections présidentielles, l'abstention aux autres scrutins étant libre",
-        "Le vote est un droit réservé aux citoyens payant l'impôt, les non-contribuables n'ayant pas le droit de s'exprimer"
-      ]
-    },
-    {
-      "id": 29,
+            "Le vote est un droit réservé aux citoyens payant l'impôt, les non-contribuables n'ayant pas le droit de s'exprimer"
+            ],
+            "topics": ["devoirs-citoyens", "suffrage-universel"]
+        },
+        {
+            "id": 29,
       "question": "Qu'est-ce que la protection diplomatique ?",
       "bonne_reponse": "Le droit pour un Français à l'étranger d'être protégé par les autorités consulaires et diplomatiques françaises en cas de difficulté",
       "description_bonne_reponse": "La protection diplomatique est un droit attaché à la nationalité française. Tout Français résidant ou voyageant à l'étranger peut bénéficier de l'assistance des ambassades et consulats français en cas de problème grave (arrestation, accident, catastrophe naturelle, décès). Les consulats délivrent des laissez-passer, aident à contacter les familles, et peuvent assurer une protection juridique minimale. Ce droit est encadré par la Convention de Vienne.",
       "mauvais_choix": [
         "Un service payant réservé aux citoyens français ayant souscrit une assurance voyage auprès de l'État français",
         "Le droit pour les Français expatriés de voter aux élections depuis leur consulat ou ambassade de rattachement",
-        "Un privilège accordé uniquement aux diplomates et hauts fonctionnaires en mission officielle à l'étranger"
-      ]
-    },
-    {
-      "id": 30,
+            "Un privilège accordé uniquement aux diplomates et hauts fonctionnaires en mission officielle à l'étranger"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 30,
       "question": "Qu'est-ce que la liberté syndicale ?",
       "bonne_reponse": "Le droit pour tout travailleur d'adhérer librement à un syndicat et de défendre ses droits professionnels par l'action collective",
       "description_bonne_reponse": "La liberté syndicale est reconnue par le préambule de la Constitution de 1946 et par le Code du travail. Tout salarié peut librement adhérer au syndicat de son choix ou refuser d'en rejoindre un. Les syndicats ont pour mission de défendre les droits et intérêts des travailleurs. Ils peuvent négocier des accords collectifs, représenter les salariés, et déclencher des grèves. Aucune discrimination liée à l'appartenance syndicale n'est permise.",
       "mauvais_choix": [
         "Un droit exclusif réservé aux fonctionnaires et agents de la fonction publique, les salariés du privé ne pouvant pas se syndiquer",
         "L'obligation pour tout travailleur d'adhérer au syndicat majoritaire de sa profession, sous peine de perdre ses droits sociaux",
-        "Un droit accordant aux syndicats le pouvoir de licencier les salariés et de fixer unilatéralement les salaires"
-      ]
-    },
-    {
-      "id": 31,
+            "Un droit accordant aux syndicats le pouvoir de licencier les salariés et de fixer unilatéralement les salaires"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 31,
       "question": "Un étranger en situation régulière peut-il travailler en France ?",
       "bonne_reponse": "Oui, s'il possède un titre de séjour l'autorisant à travailler (carte de séjour salarié, passeport talent, carte de résident, etc.)",
       "description_bonne_reponse": "Un étranger en situation régulière peut travailler en France s'il détient un titre de séjour l'autorisant à exercer une activité professionnelle. Les droits varient selon le type de titre : certains autorisent toute activité salariée, d'autres sont limités à une profession ou une zone géographique spécifique. Les ressortissants de l'UE n'ont pas besoin de titre de séjour pour travailler en France (libre circulation des travailleurs).",
@@ -350,33 +377,36 @@
       "mauvais_choix": [
         "Une obligation pour chaque citoyen de verser 1 % de ses revenus à une association caritative de son choix",
         "Un principe moral sans traduction juridique, chaque citoyen étant libre d'aider ou non les personnes dans le besoin",
-        "Un système d'assurance privée que chaque citoyen doit souscrire pour se protéger contre les aléas de la vie"
-      ]
-    },
-    {
-      "id": 33,
+            "Un système d'assurance privée que chaque citoyen doit souscrire pour se protéger contre les aléas de la vie"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 33,
       "question": "Qu'est-ce que la liberté de conscience ?",
       "bonne_reponse": "Le droit pour toute personne de croire ou de ne pas croire, de pratiquer une religion ou d'en changer, sans contrainte de l'État",
       "description_bonne_reponse": "La liberté de conscience est un droit fondamental garanti par la loi de 1905 et par la Constitution. Elle protège chacun dans ses croyances religieuses, philosophiques ou politiques. Nul ne peut être contraint à adhérer à une croyance ou à la renoncer. Elle inclut le droit de changer de religion, de pratiquer son culte (dans les limites de l'ordre public), ou de ne pas en avoir. C'est le fondement de la laïcité française.",
       "mauvais_choix": [
         "Le droit exclusif de pratiquer la religion catholique, seule religion reconnue par l'État français depuis le Concordat",
         "Un droit limité à la sphère privée, les manifestations religieuses étant interdites dans tout espace public en France",
-        "L'obligation pour chaque citoyen de déclarer officiellement sa religion ou son absence de croyance à l'État"
-      ]
-    },
-    {
-      "id": 34,
+            "L'obligation pour chaque citoyen de déclarer officiellement sa religion ou son absence de croyance à l'État"
+            ],
+            "topics": ["laicite", "liberte-expression"]
+        },
+        {
+            "id": 34,
       "question": "Qu'est-ce que le droit de pétition ?",
       "bonne_reponse": "Le droit pour les citoyens d'interpeller les pouvoirs publics (Parlement, gouvernement) pour leur soumettre une demande ou une proposition",
       "description_bonne_reponse": "Le droit de pétition permet à tout citoyen de s'adresser directement au Parlement ou au gouvernement pour exposer une demande, une proposition ou une réclamation. Il est reconnu par la Constitution et par les règlements de l'Assemblée nationale et du Sénat. Les pétitions peuvent être déposées par toute personne physique ou morale. Si elles recueillent un certain nombre de signatures, elles peuvent donner lieu à un débat parlementaire.",
       "mauvais_choix": [
         "Un droit permettant aux citoyens de voter directement une loi par référendum sans passer par le Parlement",
         "Un droit exclusif accordé aux associations agréées pour demander l'annulation d'une loi devant le Conseil constitutionnel",
-        "Un formulaire administratif permettant de demander un rendez-vous avec un ministre ou un député de sa circonscription"
-      ]
-    },
-    {
-      "id": 35,
+            "Un formulaire administratif permettant de demander un rendez-vous avec un ministre ou un député de sa circonscription"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 35,
       "question": "Peut-on se marier librement en France ?",
       "bonne_reponse": "Oui, toute personne peut se marier librement dès lors qu'elle remplit les conditions légales : âge minimum, consentement, absence de lien de parenté prohibé",
       "description_bonne_reponse": "Le mariage civil est un droit reconnu à tous les citoyens, depuis 2013 également pour les couples de même sexe (loi Taubira). Les conditions légales sont : avoir 18 ans révolus (dérogation possible pour motifs graves), être libre de tout lien matrimonial antérieur (monogamie), donner un consentement libre et éclairé, et ne pas être parent ou allié à un degré prohibé. Le mariage est célébré par l'officier d'état civil.",
@@ -405,41 +435,45 @@
       "mauvais_choix": [
         "Un droit permettant de poursuivre un journaliste en justice pour tout article jugé offensant, avec indemnisation automatique",
         "Un droit exclusif réservé aux personnalités politiques et aux élus, les citoyens ordinaires n'étant pas protégés",
-        "Un service payant proposé par les médias aux personnes souhaitant publier un communiqué de presse"
-      ]
-    },
-    {
-      "id": 38,
+            "Un service payant proposé par les médias aux personnes souhaitant publier un communiqué de presse"
+            ],
+            "topics": ["liberte-expression"]
+        },
+        {
+            "id": 38,
       "question": "Les violences conjugales sont-elles punies par la loi ?",
       "bonne_reponse": "Oui, les violences conjugales sont un délit pénal sévèrement puni, avec des circonstances aggravantes liées au lien de couple",
       "description_bonne_reponse": "Les violences conjugales sont réprimées par le Code pénal, avec des peines alourdies par rapport aux violences ordinaires (circonstance aggravante). Selon les séquelles, les peines peuvent aller de 3 ans d'emprisonnement et 45 000 € d'amende (incapacité inférieure à 8 jours) à 20 ans de réclusion criminelle (violences ayant entraîné la mort sans intention de la donner). Le harcèlement conjugal et les violences psychologiques sont également punis.",
       "mauvais_choix": [
         "Non, les violences entre conjoints relèvent de la sphère privée et ne sont pas sanctionnées par la loi française",
         "Oui, mais uniquement si les violences ont causé une incapacité de travail supérieure à 21 jours",
-        "Non, seules les violences ayant entraîné la mort sont punies, les autres formes de violence conjugale n'étant pas pénalisées"
-      ]
-    },
-    {
-      "id": 39,
+            "Non, seules les violences ayant entraîné la mort sont punies, les autres formes de violence conjugale n'étant pas pénalisées"
+            ],
+            "topics": ["egalite-femmes-hommes"]
+        },
+        {
+            "id": 39,
       "question": "Qu'est-ce que le droit à la vie privée ?",
       "bonne_reponse": "Le droit pour toute personne au respect de sa vie privée, de son image et de ses données personnelles, protégé par la loi et le RGPD",
       "description_bonne_reponse": "Le droit à la vie privée est protégé par l'article 9 du Code civil et par la Convention européenne des droits de l'homme. Chacun a droit au respect de sa vie privée, de son image, de son domicile, de ses correspondances et de ses données personnelles. La loi Informatique et Libertés de 1978 et le Règlement général sur la protection des données (RGPD) de 2018 encadrent la collecte et l'utilisation des données personnelles par les entreprises et les administrations.",
       "mauvais_choix": [
         "Un droit absolu permettant à toute personne d'empêcher toute publication d'information la concernant, même d'intérêt public",
         "Un droit réservé aux citoyens français, les données des étrangers n'étant pas protégées par la réglementation européenne",
-        "Un droit limité à la protection du domicile, les données personnelles et l'image n'étant pas couvertes par cette disposition"
-      ]
-    },
-    {
-      "id": 40,
+            "Un droit limité à la protection du domicile, les données personnelles et l'image n'étant pas couvertes par cette disposition"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 40,
       "question": "Qu'est-ce que la laïcité dans les services publics ?",
       "bonne_reponse": "Le principe de neutralité des agents publics vis-à-vis des religions, garantissant l'égalité de traitement de tous les usagers sans distinction",
       "description_bonne_reponse": "La laïcité impose aux agents du service public une stricte neutralité religieuse dans l'exercice de leurs fonctions. Ils ne peuvent manifester leurs croyances par des signes, tenues ou comportements. Les usagers, en revanche, peuvent exprimer leurs convictions religieuses dans le respect de l'ordre public et du bon fonctionnement du service. Ce principe garantit l'égalité de traitement de tous les citoyens face à l'administration.",
       "mauvais_choix": [
         "L'interdiction pour les usagers des services publics de manifester toute croyance religieuse devant un agent public",
         "Le droit pour chaque agent public de porter librement les signes religieux de son choix dans l'exercice de ses fonctions",
-        "L'interdiction totale de toute référence à la religion dans les bâtiments publics, y compris les hôpitaux et les prisons"
-      ]
-    }
-  ]
+            "L'interdiction totale de toute référence à la religion dans les bâtiments publics, y compris les hôpitaux et les prisons"
+            ],
+            "topics": ["laicite"]
+        }
+    ]
 }

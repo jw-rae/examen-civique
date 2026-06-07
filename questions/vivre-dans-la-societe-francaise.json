@@ -1,0 +1,521 @@
+{
+    "categorie": "Vivre dans la société française",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Où faut-il déclarer la naissance d'un enfant ?",
+            "bonne_reponse": "À la mairie du lieu de naissance",
+            "description_bonne_reponse": "La déclaration de naissance doit être faite à la mairie du lieu de naissance dans les 3 jours suivant l'accouchement (hors jours fériés). La mairie est l'officier d'état civil compétent pour enregistrer la naissance et établir l'acte de naissance, document essentiel pour la vie de l'enfant. Cette obligation légale est prévue par le Code civil.",
+            "mauvais_choix": [
+                "Au commissariat de police le plus proche du lieu de naissance",
+                "À la préfecture du département de résidence des parents",
+                "Au consulat français, quel que soit le pays de naissance"
+            ],
+            "topics": ["commune"]
+        },
+        {
+            "id": 2,
+            "question": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+            "bonne_reponse": "Peindre les murs de son logement",
+            "description_bonne_reponse": "Le locataire peut réaliser des petits travaux d'entretien et d'aménagement sans autorisation, comme peindre les murs, poser des étagères ou changer le revêtement de sol. En revanche, les travaux modifiant la structure du logement ou les installations fixes nécessitent l'accord écrit du propriétaire. Cette distinction est prévue par la loi du 6 juillet 1989 sur les rapports locatifs.",
+            "mauvais_choix": [
+                "Abattre un mur porteur pour agrandir le séjour",
+                "Changer le système de chauffage central",
+                "Sous-louer le logement à un tiers"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 3,
+            "question": "Quel mariage est reconnu légalement en France ?",
+            "bonne_reponse": "Le mariage civil célébré par l'officier d'état civil à la mairie",
+            "description_bonne_reponse": "En France, seul le mariage civil célébré à la mairie par l'officier d'état civil (le maire ou un adjoint) a une valeur légale. Le mariage religieux peut être célébré mais n'a aucune valeur juridique sans le passage préalable à la mairie. Depuis la loi du 17 mai 2013, le mariage civil est ouvert aux couples de personnes de même sexe. Le mariage civil est régi par les articles 144 à 228 du Code civil.",
+            "mauvais_choix": [
+                "Le mariage religieux célébré dans un lieu de culte, quelle que soit la religion",
+                "Le mariage célébré à l'ambassade par un consul sans condition de nationalité",
+                "Le mariage par correspondance par acte notarié"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 4,
+            "question": "Le stationnement sur une place réservée aux personnes handicapées :",
+            "bonne_reponse": "Est interdit aux personnes non titulaires de la carte mobilité inclusion et passible d'une amende",
+            "description_bonne_reponse": "Le stationnement non autorisé sur une place réservée aux personnes handicapées est une infraction grave passible d'une amende forfaitaire de 135 euros (contravention de 4e classe). Ces places sont réservées aux titulaires de la carte mobilité inclusion (CMI) mention stationnement. La loi prévoit également la possibilité d'une mise en fourrière du véhicule.",
+            "mauvais_choix": [
+                "Est autorisé pour tout conducteur en situation d'urgence",
+                "Est toléré s'il n'y a pas d'autre place disponible dans un rayon de 50 mètres",
+                "Est autorisé le week-end et les jours fériés"
+            ],
+            "topics": ["droits-citoyens", "discrimination"]
+        },
+        {
+            "id": 5,
+            "question": "Si une machine à laver est cassée, il est possible de :",
+            "bonne_reponse": "Faire appel à un réparateur professionnel ou contacter le service après-vente",
+            "description_bonne_reponse": "En cas de panne d'un appareil électroménager, le propriétaire de l'appareil peut le faire réparer par un professionnel. Si l'appareil a été acheté récemment, la garantie légale de conformité (2 ans) peut s'appliquer. Certains magasins proposent également une extension de garantie. Le locataire ne peut exiger du propriétaire qu'il remplace un appareil qui est sa propriété personnelle (sauf si l'appareil est fourni avec le logement meublé).",
+            "mauvais_choix": [
+                "Retenir le loyer jusqu'à ce que le propriétaire la remplace",
+                "Exiger du propriétaire qu'il la remplace gratuitement immédiatement",
+                "La déposer sur le trottoir sans déclaration le jour de la collecte des encombrants"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 6,
+            "question": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+            "bonne_reponse": "À la naissance de l'enfant, dans les 3 jours suivant l'accouchement",
+            "description_bonne_reponse": "Toute naissance survenue sur le territoire français doit être déclarée à l'officier d'état civil de la mairie du lieu de naissance. La déclaration doit être faite dans les 3 jours suivant l'accouchement (délai augmenté des jours fériés). Le père, la mère, le médecin ou la sage-femme peut effectuer cette déclaration. Passé ce délai, un jugement supplétif est nécessaire pour établir l'acte de naissance.",
+            "mauvais_choix": [
+                "Uniquement si les parents sont mariés ensemble",
+                "Uniquement si l'enfant naît dans un hôpital public",
+                "Uniquement lorsque l'enfant atteint l'âge d'un mois"
+            ],
+            "topics": ["commune"]
+        },
+        {
+            "id": 7,
+            "question": "Quand faut-il déclarer son enfant au service d'état civil ?",
+            "bonne_reponse": "Dans les 3 jours suivant l'accouchement",
+            "description_bonne_reponse": "Le délai légal pour déclarer une naissance est de 3 jours ouvrables suivant l'accouchement, conformément à l'article 55 du Code civil. Ce délai ne compte pas le jour de l'accouchement. Si le délai expire un jour férié, il est prolongé jusqu'au prochain jour ouvrable. Au-delà de ce délai, la déclaration ne peut être reçue que sur présentation d'un jugement supplétif du tribunal judiciaire.",
+            "mauvais_choix": [
+                "Dans le mois suivant la naissance",
+                "Avant la naissance, au cours du 7e mois de grossesse",
+                "Le jour de la déclaration de grossesse à la Sécurité sociale"
+            ],
+            "topics": ["commune"]
+        },
+        {
+            "id": 8,
+            "question": "Quel numéro d'urgence permet d'appeler la police ?",
+            "bonne_reponse": "Le 17",
+            "description_bonne_reponse": "Le 17 est le numéro d'urgence de la police et de la gendarmerie nationales. Il permet de joindre les forces de l'ordre en cas de danger immédit, d'agression, de vol en cours ou de toute situation nécessitant une intervention urgente. Le 112 est également accessible depuis tout téléphone pour joindre les services d'urgence européens. Il ne faut pas confondre avec le 18 (pompiers) et le 15 (SAMU).",
+            "mauvais_choix": [
+                "Le 18",
+                "Le 15",
+                "Le 112"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 9,
+            "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+            "bonne_reponse": "Le 15",
+            "description_bonne_reponse": "Le 15 est le numéro d'urgence du SAMU (Service d'Aide Médicale Urgente). Accessible 24h/24 et 7j/7, il permet de joindre un médecin régulateur qui évalue la situation et déclenche les moyens appropriés (ambulance, SMUR, pompiers). En cas de doute sur l'urgence, il est recommandé de composer le 15 plutôt que de se rendre directement aux urgences. Le 112 est également accessible depuis tout téléphone pour les urgences en Europe.",
+            "mauvais_choix": [
+                "Le 17",
+                "Le 18",
+                "Le 112"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 10,
+            "question": "Auprès de quelle institution les parents peuvent-ils inscrire leurs enfants à l'école publique ?",
+            "bonne_reponse": "La mairie de leur domicile",
+            "description_bonne_reponse": "Pour inscrire un enfant à l'école publique, les parents doivent d'abord se rendre à la mairie de leur domicile pour procéder à l'inscription administrative. La mairie est responsable des écoles maternelles et primaires publiques. Elle délivre un certificat d'inscription que les parents remettent ensuite à l'école. Pour le collège et le lycée, l'inscription se fait via le rectorat ou directement auprès de l'établissement.",
+            "mauvais_choix": [
+                "La préfecture du département de résidence",
+                "L'Académie via le rectorat",
+                "Le ministère de l'Éducation nationale à Paris"
+            ],
+            "topics": ["commune"]
+        },
+        {
+            "id": 11,
+            "question": "En cas de divorce, qui exerce l'autorité parentale ?",
+            "bonne_reponse": "Les deux parents conjointement, sauf décision contraire du juge aux affaires familiales",
+            "description_bonne_reponse": "Le divorce ne modifie pas l'exercice de l'autorité parentale. Les deux parents continuent d'exercer conjointement l'autorité parentale sur leurs enfants, sauf décision contraire du juge aux affaires familiales (JAF) pour l'intérêt de l'enfant. Les parents doivent prendre ensemble les décisions importantes concernant la santé, l'éducation et la religion de l'enfant. Le juge fixe la résidence de l'enfant et le droit de visite et d'hébergement.",
+            "mauvais_choix": [
+                "Uniquement le parent chez qui l'enfant réside habituellement",
+                "Le parent qui a obtenu la garde exclusive par décision judiciaire",
+                "Le juge des enfants, qui devient le représentant légal de l'enfant"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 12,
+            "question": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+            "bonne_reponse": "L'aide juridictionnelle",
+            "description_bonne_reponse": "L'aide juridictionnelle est un dispositif permettant aux personnes disposant de faibles revenus d'accéder à la justice en bénéficiant d'une prise en charge totale ou partielle des frais d'avocat et des frais de justice par l'État. Elle est accordée sous conditions de ressources par le bureau d'aide juridictionnelle du tribunal. Elle couvre notamment les honoraires d'avocat, les frais d'expertise et les frais de procédure.",
+            "mauvais_choix": [
+                "La protection universelle maladie (PUMA)",
+                "Le fonds de solidarité pour le logement (FSL)",
+                "L'allocation de soutien familial (ASF)"
+            ],
+            "topics": ["justice"]
+        },
+        {
+            "id": 13,
+            "question": "Qui peut demander le divorce de personnes mariées ?",
+            "bonne_reponse": "L'un des époux ou les deux conjointement",
+            "description_bonne_reponse": "Le divorce peut être demandé par l'un des époux (divorce pour faute, acceptation du principe de la rupture ou altération définitive du lien conjugal) ou par les deux époux conjointement (divorce par consentement mutuel). Depuis 2017, le divorce par consentement mutuel peut être réalisé sans juge, par acte sous signature privée contresigné par les avocats. Les enfants majeurs n'ont pas qualité pour demander le divorce de leurs parents.",
+            "mauvais_choix": [
+                "Uniquement l'époux, jamais l'épouse",
+                "Un avocat sans l'accord des époux",
+                "Les enfants majeurs du couple"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 14,
+            "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+            "bonne_reponse": "La Caisse primaire d'assurance maladie (CPAM)",
+            "description_bonne_reponse": "La CPAM (Caisse primaire d'assurance maladie) est l'organisme local de l'Assurance maladie chargé du remboursement des frais de santé. Après avoir présenté sa carte Vitale chez un professionnel de santé, les remboursements sont effectués directement par la CPAM. Elle assure la gestion des remboursements des consultations, médicaments, hospitalisations et analyses. La CPAM fait partie du régime général de la Sécurité sociale.",
+            "mauvais_choix": [
+                "La mairie de sa commune de résidence",
+                "Le centre des finances publiques",
+                "La caisse d'allocations familiales (CAF)"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 15,
+            "question": "La contraception :",
+            "bonne_reponse": "Est un droit accessible à toutes les femmes, gratuite pour les mineures et remboursée pour les majeures",
+            "description_bonne_reponse": "En France, la contraception est un droit fondamental pour les femmes. Depuis 2013, elle est gratuité pour les mineures de 15 à 18 ans. Depuis 2022, elle est gratuite pour toutes les femmes jusqu'à 26 ans. Les différents moyens de contraception (pilule, stérilet, implant, préservatifs) sont remboursés par l'Assurance maladie. La contraception est accessible sans ordonnance pour certains moyens (préservatifs) et avec ordonnance pour les autres.",
+            "mauvais_choix": [
+                "Est interdite en France pour les femmes mariées sans autorisation du mari",
+                "N'est accessible que sur ordonnance d'un médecin hospitalier",
+                "Est remboursée uniquement pour les hommes"
+            ],
+            "topics": ["droits-citoyens", "lois-societe", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 16,
+            "question": "À quoi sert la carte Vitale ?",
+            "bonne_reponse": "À obtenir le remboursement des frais de santé par l'Assurance maladie",
+            "description_bonne_reponse": "La carte Vitale est une carte personnelle qui permet d'être remboursé des frais de santé par l'Assurance maladie. Elle contient les informations administratives nécessaires à la prise en charge des soins (numéro de Sécurité sociale, régime d'affiliation, droits). Présentée au professionnel de santé, elle permet la transmission électronique des feuilles de soins et accélère le remboursement, généralement sous 5 à 7 jours.",
+            "mauvais_choix": [
+                "À voter lors des élections municipales",
+                "À justifier de son identité pour voyager à l'étranger",
+                "À bénéficier de réductions dans les transports en commun"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 17,
+            "question": "À quoi sert une mutuelle santé ?",
+            "bonne_reponse": "À compléter les remboursements de l'Assurance maladie pour les frais non couverts",
+            "description_bonne_reponse": "Une mutuelle santé (ou complémentaire santé) prend en charge tout ou partie des frais de santé que l'Assurance maladie ne rembourse pas : ticket modérateur, forfait journalier hospitalier, dépassements d'honoraires, soins dentaires et optiques. Elle peut être souscrite à titre individuel ou proposée par l'employeur (depuis 2016, la complémentaire santé d'entreprise est obligatoire pour les salariés).",
+            "mauvais_choix": [
+                "À remplacer la carte Vitale auprès des médecins",
+                "À payer les impôts à la place du contribuable",
+                "À obtenir un prêt bancaire à taux préférentiel"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 18,
+            "question": "Qu'est-ce que le tiers payant ?",
+            "bonne_reponse": "Un dispositif qui permet de ne pas avancer les frais médicaux chez le professionnel de santé",
+            "description_bonne_reponse": "Le tiers payant est un dispositif qui dispense le patient d'avancer les frais médicaux. Le professionnel de santé est directement payé par l'Assurance maladie et la mutuelle. Il s'applique obligatoirement pour les bénéficiaires de la Complémentaire santé solidaire et pour les soins liés à une affection de longue durée (ALD). Pour les autres patients, le tiers payant peut être accepté ou non par le professionnel de santé, sauf pour les femmes enceintes et les accidents du travail.",
+            "mauvais_choix": [
+                "Un système de paiement en trois fois sans frais",
+                "Une assurance qui rembourse le tiers des frais médicaux seulement",
+                "Un prélèvement automatique mensuel pour les soins courants"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 19,
+            "question": "L'inscription à l'Assurance maladie est :",
+            "bonne_reponse": "Obligatoire pour toute personne résidant en France de manière stable et régulière",
+            "description_bonne_reponse": "L'inscription à l'Assurance maladie est obligatoire pour toute personne qui travaille ou réside en France de manière stable et régulière. Depuis 2016, la Protection universelle maladie (PUMA) garantit à toute personne résidant en France de façon stable un droit à l'assurance maladie, sans condition d'activité professionnelle ou de nationalité. Les démarches d'ouverture des droits se font auprès de la CPAM du lieu de résidence.",
+            "mauvais_choix": [
+                "Facultative et dépend du choix personnel de chacun",
+                "Réservée aux personnes exerçant une activité professionnelle",
+                "Uniquement pour les citoyens français, pas pour les étrangers en situation régulière"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 20,
+            "question": "L'avortement est-il possible en France ?",
+            "bonne_reponse": "Oui, il est autorisé par la loi jusqu'à 14 semaines de grossesse",
+            "description_bonne_reponse": "L'interruption volontaire de grossesse (IVG) est autorisée en France depuis la loi Veil du 17 janvier 1975. Depuis 2022, le délai légal est de 14 semaines de grossesse (16 semaines après le début des dernières règles). Au-delà, l'IVG n'est possible que pour des raisons médicales (interruption médicale de grossesse, sans limite de délai). L'IVG est remboursée à 100 % par l'Assurance maladie. En 2024, la France a inscrit la liberté de recourir à l'IVG dans la Constitution.",
+            "mauvais_choix": [
+                "Non, il est interdit dans tous les cas depuis l'abrogation de la loi Veil",
+                "Oui, mais uniquement en cas de danger grave pour la santé de la mère",
+                "Oui, jusqu'au 6e mois de grossesse sans condition"
+            ],
+            "topics": ["lois-societe", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 21,
+            "question": "Travailler sans être déclaré est :",
+            "bonne_reponse": "Interdit par la loi, il s'agit de travail dissimulé passible de sanctions pénales",
+            "description_bonne_reponse": "Le travail non déclaré (travail dissimulé) est une infraction pénale interdite par le Code du travail. Il consiste pour un employeur à ne pas déclarer un salarié ou à ne pas remettre de bulletin de paie. Les sanctions peuvent aller jusqu'à 3 ans d'emprisonnement et 45 000 euros d'amende pour l'employeur, avec des peines complémentaires (interdiction de gérer, fermeture d'établissement). Le salarié non déclaré n'a aucun droit social (chômage, retraite, maladie).",
+            "mauvais_choix": [
+                "Autorisé pour les petits boulots de moins de 3 mois",
+                "Toléré par l'administration fiscale sous certains seuils de revenus",
+                "Possible uniquement pour les travailleurs indépendants en micro-entreprise"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 22,
+            "question": "Qu'est-ce que le SMIC ?",
+            "bonne_reponse": "Le salaire minimum légal en dessous duquel aucun employeur ne peut rémunérer un salarié",
+            "description_bonne_reponse": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum légal en France. Aucun employeur ne peut rémunérer un salarié en dessous de ce montant, quel que soit son secteur d'activité. Il est revalorisé chaque année au 1er janvier par le gouvernement, en fonction de l'inflation et du pouvoir d'achat. Il existe des taux réduits pour les apprentis et les moins de 18 ans. Au 1er janvier 2025, le SMIC brut est d'environ 11,65 € de l'heure.",
+            "mauvais_choix": [
+                "Le salaire moyen des Français calculé chaque année par l'INSEE",
+                "Un salaire recommandé mais non obligatoire pour les petites entreprises",
+                "Le salaire maximum autorisé dans la fonction publique d'État"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 23,
+            "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+            "bonne_reponse": "S'inscrire à France Travail (anciennement Pôle emploi)",
+            "description_bonne_reponse": "France Travail (ex-Pôle emploi) est l'opérateur public de l'emploi en France. S'y inscrire permet de bénéficier d'un accompagnement personnalisé, d'accéder aux offres d'emploi, de recevoir des conseils pour la rédaction du CV et la préparation aux entretiens, et d'être informé des formations disponibles. L'inscription est gratuite et peut se faire en ligne, par téléphone ou en agence. France Travail a remplacé Pôle emploi depuis le 1er janvier 2025.",
+            "mauvais_choix": [
+                "Publier une annonce de recherche d'emploi dans le journal local",
+                "Contacter directement le maire de sa commune",
+                "Acheter un costume pour les entretiens d'embauche"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 24,
+            "question": "Quelle est la durée légale du temps de travail par semaine ?",
+            "bonne_reponse": "35 heures pour un salarié à temps complet",
+            "description_bonne_reponse": "Depuis la loi Aubry du 19 janvier 2000, la durée légale du travail est fixée à 35 heures par semaine pour tous les salariés à temps complet. Les heures effectuées au-delà de 35 heures sont des heures supplémentaires, majorées de 25 % pour les 8 premières et de 50 % au-delà. Des conventions collectives peuvent prévoir des aménagements. La durée maximale absolue est de 48 heures par semaine et de 44 heures en moyenne sur 12 semaines.",
+            "mauvais_choix": [
+                "39 heures, majorées de 10 % au-delà de la 39e heure",
+                "32 heures pour les femmes et 37 heures pour les hommes",
+                "40 heures avec heures supplémentaires obligatoires"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 25,
+            "question": "Qui peut demander un congé parental d'éducation ?",
+            "bonne_reponse": "Tout salarié, homme ou femme, ayant au moins un enfant de moins de 3 ans",
+            "description_bonne_reponse": "Le congé parental d'éducation est ouvert à tout salarié justifiant d'au moins un an d'ancienneté dans l'entreprise, à l'occasion de la naissance ou de l'adoption d'un enfant. Il peut être demandé par le père ou la mère, jusqu'aux 3 ans de l'enfant. Le salarié peut choisir de suspendre totalement son contrat de travail ou de passer à temps partiel. Le congé parental n'est pas rémunéré par l'employeur mais la CAF verse la prestation partagée d'éducation de l'enfant (PreParE).",
+            "mauvais_choix": [
+                "Uniquement la mère, pour élever son enfant après la naissance",
+                "Uniquement les fonctionnaires titulaires de la fonction publique",
+                "Uniquement les parents ayant au moins trois enfants à charge"
+            ],
+            "topics": ["droits-citoyens", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 26,
+            "question": "Une personne étrangère, en situation régulière, peut-elle créer son entreprise ?",
+            "bonne_reponse": "Oui, elle peut créer son entreprise dans les mêmes conditions qu'un citoyen français",
+            "description_bonne_reponse": "Un étranger en situation régulière peut créer une entreprise en France dans les mêmes conditions qu'un Français, sous réserve de disposer d'un titre de séjour l'autorisant à exercer une activité professionnelle. Certains titres de séjour sont spécifiquement dédiés à l'entrepreneuriat (passeport talent, carte de séjour entrepreneur/profession libérale). L'administration française encourage la création d'entreprise par les étrangers comme facteur de dynamisme économique.",
+            "mauvais_choix": [
+                "Non, seuls les citoyens français peuvent créer une entreprise",
+                "Oui, mais uniquement après 10 ans de résidence continue en France",
+                "Non, elle doit obtenir une autorisation spéciale du ministère du Travail"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 27,
+            "question": "Une femme peut-elle créer son entreprise ?",
+            "bonne_reponse": "Oui, elle a le droit de créer et diriger son entreprise sans autorisation",
+            "description_bonne_reponse": "En France, les femmes ont le droit de créer, diriger et gérer une entreprise sans aucune autorisation préalable, au même titre que les hommes. L'égalité d'accès à l'activité économique est garantie par la loi. Depuis la loi du 13 juillet 1965 relative aux régimes matrimoniaux, les femmes peuvent exercer une profession sans le consentement de leur mari. Des dispositifs spécifiques encouragent la création d'entreprise par les femmes.",
+            "mauvais_choix": [
+                "Non, elle doit obtenir l'autorisation de son mari ou de son compagnon",
+                "Oui, mais uniquement avec un homme comme associé majoritaire",
+                "Non, seuls les hommes ont le droit de créer une entreprise en France"
+            ],
+            "topics": ["droits-citoyens", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 28,
+            "question": "Quels sont les textes qui définissent les règles au travail ?",
+            "bonne_reponse": "Le Code du travail, la convention collective et le contrat de travail",
+            "description_bonne_reponse": "Les règles applicables au travail sont définies à plusieurs niveaux : le Code du travail fixe les règles générales (durée du travail, congés, hygiène et sécurité) ; la convention collective de la branche d'activité précise les règles spécifiques au secteur (salaires minima, classifications, avantages particuliers) ; le contrat de travail détermine les conditions individuelles d'emploi du salarié (salaire, horaires, fonctions). En cas de conflit, la norme la plus favorable au salarié s'applique.",
+            "mauvais_choix": [
+                "Uniquement le contrat de travail signé entre l'employeur et le salarié",
+                "Les arrêtés préfectoraux et les décisions du maire de la commune",
+                "Le règlement intérieur de l'entreprise uniquement"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 29,
+            "question": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+            "bonne_reponse": "Les litiges individuels entre employeurs et salariés liés au contrat de travail",
+            "description_bonne_reponse": "Le conseil de prud'hommes est une juridiction paritaire composée de juges non professionnels élus (employeurs et salariés). Il est compétent pour régler les conflits individuels nés à l'occasion du contrat de travail : licenciement, salaires impayés, harcèlement, discrimination, durée du travail, congés, etc. La saisine est gratuite et sans avocat obligatoire, même si l'assistance d'un avocat est autorisée. La procédure commence par une phase de conciliation.",
+            "mauvais_choix": [
+                "Les conflits entre locataires et propriétaires (bail d'habitation)",
+                "Les litiges entre entreprises et leurs fournisseurs",
+                "Les contraventions et délits routiers"
+            ],
+            "topics": ["justice"]
+        },
+        {
+            "id": 30,
+            "question": "Qui a le droit de se syndiquer ?",
+            "bonne_reponse": "Tout salarié, quel que soit son statut ou son secteur d'activité",
+            "description_bonne_reponse": "La liberté syndicale est un droit fondamental reconnu par la Constitution et le Code du travail. Tout salarié peut librement adhérer au syndicat de son choix pour défendre ses droits et intérêts professionnels. Aucune discrimination liée à l'appartenance syndicale n'est permise. Les syndicats représentatifs négocient les accords collectifs, défendent les salariés et peuvent déclencher une grève. Les fonctionnaires et agents publics bénéficient également de ce droit.",
+            "mauvais_choix": [
+                "Uniquement les fonctionnaires et agents de l'État",
+                "Uniquement les salariés du secteur privé",
+                "Uniquement les ouvriers et employés, pas les cadres dirigeants"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 31,
+            "question": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+            "bonne_reponse": "Non, c'est strictement interdit par la loi, c'est une discrimination",
+            "description_bonne_reponse": "Le licenciement d'une salariée en état de grossesse ou en congé maternité est strictement interdit par le Code du travail. L'employeur ne peut pas rompre le contrat de travail d'une femme enceinte pendant la période de grossesse et pendant les 10 semaines suivant le congé maternité, sauf faute grave non liée à la grossesse. Tout licenciement fondé sur l'état de grossesse est nul et constitue une discrimination. La salariée peut obtenir des dommages-intérêts et sa réintégration.",
+            "mauvais_choix": [
+                "Oui, si l'employeur estime qu'elle ne peut plus occuper son poste",
+                "Oui, à condition de lui verser une indemnité de licenciement",
+                "Oui, pendant la période d'essai uniquement"
+            ],
+            "topics": ["discrimination", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 32,
+            "question": "L'instruction des enfants est obligatoire de :",
+            "bonne_reponse": "3 à 16 ans",
+            "description_bonne_reponse": "Depuis la loi du 26 juillet 2019 pour une école de la confiance, l'instruction est obligatoire pour tous les enfants résidant en France, français ou étrangers, de 3 à 16 ans. Les parents peuvent choisir entre la scolarisation dans un établissement public ou privé, ou l'instruction en famille (sous régime d'autorisation depuis 2021). Au-delà de 16 ans, la formation reste obligatoire jusqu'à 18 ans (scolarité, apprentissage, emploi ou service civique).",
+            "mauvais_choix": [
+                "6 à 14 ans, conformément aux lois Ferry de 1882",
+                "5 à 18 ans, depuis la réforme du collège unique",
+                "4 à 12 ans, comme dans la plupart des pays européens"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 33,
+            "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+            "bonne_reponse": "Jusqu'à 2 ans d'emprisonnement et 30 000 euros d'amende",
+            "description_bonne_reponse": "Le fait de se soustraire à l'obligation d'instruction peut être sanctionné pénalement. Selon l'article 227-17 du Code pénal, le fait par les parents de se soustraire à leurs obligations légales au point de compromettre gravement l'éducation de leur enfant est puni de 2 ans d'emprisonnement et 30 000 euros d'amende. Avant d'en arriver à cette sanction, l'éducation nationale met en place des dispositifs de dialogue et d'accompagnement des familles.",
+            "mauvais_choix": [
+                "Un simple avertissement délivré par le maire de la commune",
+                "Une amende forfaitaire de 135 euros comme pour une contravention",
+                "La perte définitive de l'autorité parentale sans possibilité de recours"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 34,
+            "question": "Quelle est la définition de l'autorité parentale ?",
+            "bonne_reponse": "L'ensemble des droits et devoirs des parents visant à protéger, éduquer et assurer le développement de leur enfant",
+            "description_bonne_reponse": "L'article 371-1 du Code civil définit l'autorité parentale comme un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant. Elle appartient aux parents jusqu'à la majorité de l'enfant pour le protéger dans sa sécurité, sa santé et sa moralité, pour assurer son éducation et permettre son développement. Les parents doivent assurer la surveillance, l'entretien, l'éducation et la santé de l'enfant. L'autorité parentale est exercée conjointement par les deux parents.",
+            "mauvais_choix": [
+                "Le droit exclusif du père de prendre toutes les décisions concernant l'enfant",
+                "L'autorisation donnée par le juge aux parents de punir physiquement leur enfant",
+                "Le droit des parents de disposer librement des biens de leur enfant"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 35,
+            "question": "Quel motif d'absence est accepté par l'école ?",
+            "bonne_reponse": "La maladie de l'enfant, sur présentation d'un certificat médical pour les absences prolongées",
+            "description_bonne_reponse": "Les seuls motifs d'absence acceptés par l'école sont : la maladie de l'enfant (certificat médical nécessaire au-delà de 3 jours), les réunions médicales ou paramédicales urgentes avec justificatif, un événement familial grave (décès), ou une autorisation exceptionnelle d'absence accordée par le directeur d'école pour un motif impérieux. Les absences non justifiées sont signalées aux services de l'éducation nationale et peuvent entraîner la suspension des allocations familiales.",
+            "mauvais_choix": [
+                "Les vacances familiales en dehors des périodes scolaires officielles",
+                "La garde des frères et sœurs à la maison",
+                "Les rendez-vous personnels non urgents (coiffeur, courses)"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 36,
+            "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+            "bonne_reponse": "16 ans",
+            "description_bonne_reponse": "L'instruction est obligatoire jusqu'à 16 ans révolus. Depuis la loi de 2019, l'instruction est obligatoire de 3 à 16 ans. Cependant, la formation reste obligatoire de 16 à 18 ans : l'élève doit poursuivre sa scolarité, suivre un apprentissage, occuper un emploi, effectuer un service civique ou bénéficier d'un accompagnement à l'insertion professionnelle.",
+            "mauvais_choix": [
+                "14 ans",
+                "18 ans",
+                "12 ans"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 37,
+            "question": "À quel âge commence l'instruction obligatoire des enfants ?",
+            "bonne_reponse": "3 ans",
+            "description_bonne_reponse": "Depuis la loi du 26 juillet 2019 pour une école de la confiance, l'instruction est obligatoire dès l'âge de 3 ans. Les enfants doivent être inscrits à l'école maternelle publique ou privée, ou bénéficier d'une instruction en famille autorisée. Avant cette réforme, l'obligation commençait à 6 ans. La loi de 2019 a abaissé l'âge de l'instruction obligatoire pour renforcer la réussite scolaire et lutter contre les inégalités dès le plus jeune âge.",
+            "mauvais_choix": [
+                "6 ans, comme avant la réforme de 2019",
+                "2 ans, pour favoriser l'éveil précoce des enfants",
+                "5 ans, en grande section de maternelle"
+            ],
+            "topics": ["devoirs-citoyens"]
+        },
+        {
+            "id": 38,
+            "question": "Comment s'appellent les établissements scolaires que les élèves intègrent après l'école élémentaire ?",
+            "bonne_reponse": "Le collège",
+            "description_bonne_reponse": "Après l'école élémentaire (CP au CM2, de 6 à 10 ans), les élèves entrent au collège, qui est le premier niveau de l'enseignement secondaire. Le collège accueille les élèves pour 4 années : 6e, 5e, 4e et 3e (de 11 à 14 ans). À la fin de la 3e, les élèves passent le diplôme national du brevet. Le collège est suivi par le lycée (2de, 1re et terminale) qui prépare au baccalauréat. Les collèges publics sont gérés par les départements.",
+            "mauvais_choix": [
+                "Le lycée",
+                "L'université",
+                "Le centre de formation d'apprentis"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 39,
+            "question": "En tant que parent d'élève, il est possible de :",
+            "bonne_reponse": "Participer aux conseils d'école et aux réunions parents-professeurs",
+            "description_bonne_reponse": "Les parents d'élèves ont le droit de participer à la vie scolaire. Ils peuvent être élus comme représentants des parents d'élèves au conseil d'école (école primaire) ou au conseil d'administration (collège et lycée). Ils peuvent assister aux réunions parents-professeurs et rencontrer les enseignants. Ils sont membres de la communauté éducative et contribuent à la bonne marche de l'école. Les parents peuvent également créer ou adhérer à une association de parents d'élèves.",
+            "mauvais_choix": [
+                "Assister aux cours dans la classe de son enfant chaque jour",
+                "Décider du programme scolaire enseigné par les professeurs",
+                "Choisir les manuels scolaires utilisés par l'établissement"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 40,
+            "question": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+            "bonne_reponse": "Une classe d'accueil spécifique (UPE2A) pour les élèves allophones arrivants",
+            "description_bonne_reponse": "Les enfants étrangers arrivant en France et ne parlant pas français sont accueillis dans les unités pédagogiques pour élèves allophones arrivants (UPE2A). Ces classes spécialisées leur permettent d'apprendre le français tout en suivant les enseignements scolaires ordinaires. Le droit à la scolarisation est garanti à tous les enfants résidant en France, quelle que soit leur nationalité ou leur situation administrative. L'objectif est une intégration rapide dans le système scolaire français.",
+            "mauvais_choix": [
+                "Aucune disposition particulière, ils apprennent avec les autres élèves sans soutien",
+                "Ils sont scolarisés dans une école internationale réservée aux étrangers",
+                "Ils doivent apprendre le français seuls chez eux avant d'être admis à l'école"
+            ],
+            "topics": ["droits-citoyens"]
+        },
+        {
+            "id": 41,
+            "question": "S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?",
+            "bonne_reponse": "L'école doit les accueillir avec les aménagements nécessaires à leur scolarisation",
+            "description_bonne_reponse": "La loi du 11 février 2005 a posé le principe de l'inclusion scolaire : tout enfant en situation de handicap a le droit d'être scolarisé dans un établissement scolaire ordinaire, avec les aménagements nécessaires. Des dispositifs comme les ULIS (Unités Localisées pour l'Inclusion Scolaire) et les AESH (Accompagnants des Élèves en Situation de Handicap) sont prévus pour accompagner ces élèves. Un projet personnalisé de scolarisation (PPS) est élaboré pour chaque élève.",
+            "mauvais_choix": [
+                "Les enfants handicapés ne sont pas scolarisés en France",
+                "Ils sont scolarisés uniquement dans des établissements médico-spécialisés",
+                "L'accueil à l'école est possible mais sans aucun aménagement spécifique"
+            ],
+            "topics": ["droits-citoyens", "discrimination"]
+        },
+        {
+            "id": 42,
+            "question": "Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?",
+            "bonne_reponse": "28 jours calendaires, dont 7 jours obligatoires",
+            "description_bonne_reponse": "Depuis le 1er juillet 2021, le congé paternité et d'accueil de l'enfant est passé à 28 jours calendaires pour une naissance, dont 7 jours obligatoires consécutifs après le congé de naissance de 3 jours. Pour les naissances multiples (jumeaux, triplés), la durée est de 32 jours. Ce congé est indemnisé par la Sécurité sociale dans la limite d'un plafond. Il peut être pris dans les 6 mois suivant la naissance de l'enfant.",
+            "mauvais_choix": [
+                "14 jours calendaires, dont 3 jours obligatoires comme avant la réforme",
+                "10 jours ouvrables, entièrement facultatifs",
+                "1 mois complet rémunéré à 100 % par l'employeur"
+            ],
+            "topics": ["droits-citoyens", "egalite-femmes-hommes"]
+        },
+        {
+            "id": 43,
+            "question": "Est-ce possible de punir physiquement ses enfants ?",
+            "bonne_reponse": "Non, c'est interdit par la loi depuis le 10 juillet 2019 (loi sur les violences éducatives ordinaires)",
+            "description_bonne_reponse": "Depuis la loi du 10 juillet 2019 relative à l'interdiction des violences éducatives ordinaires, les châtiments corporels sur les enfants sont interdits en France. Cette loi, surnommée « loi anti-fessée », interdit toute punition physique ou humiliante (fessée, gifle, crâpage d'oreille, privation de repas, enfermement). Les parents doivent éduquer leurs enfants sans recourir à la violence, en privilégiant des méthodes éducatives respectueuses. La loi s'inscrit dans la protection des droits de l'enfant.",
+            "mauvais_choix": [
+                "Oui, c'est un droit des parents reconnu par le Code civil",
+                "Oui, mais uniquement pour les enfants de moins de 6 ans",
+                "Non, mais c'est toléré si la punition reste légère et sans conséquence"
+            ],
+            "topics": ["droits-citoyens"]
+        }
+    ]
+}

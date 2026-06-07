@@ -10,7 +10,8 @@
                 "Il est élu au suffrage universel direct par les citoyens français lors d'un scrutin dédié",
                 "Il est élu par les députés de l'Assemblée nationale à la majorité absolue",
                 "Il est désigné par le Sénat après un vote de confiance de la chambre haute du Parlement"
-            ]
+            ],
+            "topics": ["institutions", "president"]
         },
         {
             "id": 2,
@@ -21,7 +22,8 @@
                 "Tout citoyen français majeur, sans condition de parrainage, à condition de verser une caution financière remboursable",
                 "Tout citoyen français âgé d'au moins 35 ans, titulaire d'un mandat électif national, parrainé par 100 parlementaires",
                 "Tout résident français depuis plus de 10 ans, européen ou français, âgé d'au moins 21 ans avec parrainage de 200 élus"
-            ]
+            ],
+            "topics": ["president", "suffrage-universel"]
         },
         {
             "id": 3,
@@ -32,7 +34,8 @@
                 "À l'État français, représenté par le Président de la République en tant que garant des institutions",
                 "Au Parlement, en sa qualité d'assemblée représentative élue directement par les citoyens",
                 "À la Nation française dans son ensemble, distincte du peuple, incarnée par ses institutions historiques"
-            ]
+            ],
+            "topics": ["institutions"]
         },
         {
             "id": 4,
@@ -43,7 +46,8 @@
                 "Le maire directement, par les citoyens de la commune au suffrage universel direct à deux tours",
                 "Les conseillers départementaux et municipaux lors d'un scrutin commun organisé tous les 6 ans",
                 "Le conseil municipal et le maire simultanément lors d'un scrutin de liste à deux tours"
-            ]
+            ],
+            "topics": ["commune", "suffrage-universel"]
         },
         {
             "id": 5,
@@ -54,7 +58,8 @@
                 "Obligatoire sous peine d'amende, tout citoyen français majeur doit impérativement s'inscrire avant ses 19 ans",
                 "Définitive une fois effectuée, sans possibilité de changer de bureau de vote ou de se réinscrire dans une autre commune",
                 "Uniquement possible en préfecture lors des périodes de révision des listes électorales fixées chaque année en décembre"
-            ]
+            ],
+            "topics": ["suffrage-universel"]
         },
         {
             "id": 6,
@@ -65,7 +70,8 @@
                 "Être citoyen européen, résider en France depuis au moins 5 ans et être inscrit sur les listes électorales",
                 "Être de nationalité française ou européenne, avoir 18 ans, résider fiscalement en France et être inscrit sur les listes",
                 "Être français, avoir 21 ans révolus, résider dans la commune depuis au moins 6 mois et être inscrit sur les listes"
-            ]
+            ],
+            "topics": ["suffrage-universel"]
         },
         {
             "id": 7,
@@ -76,7 +82,8 @@
                 "Être de nationalité française uniquement, avoir 18 ans, résider dans la commune depuis au moins 2 ans et obtenir 100 signatures d'habitants",
                 "Être citoyen français ou européen, avoir 25 ans révolus, résider obligatoirement dans la commune depuis au moins un an",
                 "Être français de naissance, avoir 18 ans, ne pas exercer de profession libérale et avoir résidé 3 ans dans la commune"
-            ]
+            ],
+            "topics": ["commune", "suffrage-universel"]
         },
         {
             "id": 8,
@@ -87,7 +94,8 @@
                 "Le préfet, représentant de l'État dans le département, nommé à cette fonction après élection interne au corps préfectoral",
                 "Le procureur de la République, élu par les magistrats du ressort du tribunal judiciaire pour un mandat de 7 ans",
                 "Le directeur général des services d'une région, désigné lors d'une élection professionnelle au sein de la fonction publique territoriale"
-            ]
+            ],
+            "topics": ["institutions", "suffrage-universel"]
         },
         {
             "id": 9,
@@ -98,7 +106,8 @@
                 "Représentant exclusif de l'État dans la commune, sans pouvoir exécutif propre, chargé uniquement d'appliquer les décisions préfectorales",
                 "Chef de l'exécutif municipal et président du conseil général, cumulant de droit les fonctions communales et départementales",
                 "Responsable uniquement des questions d'urbanisme et de voirie, le reste des fonctions étant délégué aux adjoints élus séparément"
-            ]
+            ],
+            "topics": ["commune"]
         },
         {
             "id": 10,
@@ -109,7 +118,8 @@
                 "Uniquement en préfecture ou sous-préfecture, seule autorité compétente pour la tenue des listes électorales officielles",
                 "Dans un bureau de poste agréé, qui dispose d'un accès au système national d'inscription électorale REU",
                 "Dans tout espace France Services, mais uniquement pendant les périodes de révision des listes électorales fixées par décret"
-            ]
+            ],
+            "topics": ["suffrage-universel"]
         },
         {
             "id": 11,
@@ -120,7 +130,8 @@
                 "À 16 ans, depuis la réforme constitutionnelle de 2019 pour les élections locales uniquement",
                 "À 21 ans, âge de la majorité politique telle qu'elle est définie par la Constitution de 1958",
                 "À 18 ans pour les élections locales et à 21 ans pour les élections présidentielles et législatives"
-            ]
+            ],
+            "topics": ["suffrage-universel"]
         },
         {
             "id": 12,
@@ -131,7 +142,8 @@
                 "Oui, le vote est une obligation civique sanctionnée d'une amende de 135 euros en cas d'abstention non justifiée",
                 "Oui, pour les élections présidentielles et législatives uniquement, le vote est obligatoire sous peine de perdre certains droits civiques",
                 "Non, sauf pour les élections présidentielles où l'abstention doit être justifiée par écrit auprès de la mairie"
-            ]
+            ],
+            "topics": ["suffrage-universel", "devoirs-citoyens"]
         },
         {
             "id": 13,
@@ -142,7 +154,8 @@
                 "Oui, si la loi est contraire aux convictions morales ou religieuses profondes d'une personne, elle peut invoquer l'objection de conscience",
                 "Oui, dans les cas d'urgence ou de nécessité absolue, le citoyen peut déroger à la loi et se justifier a posteriori devant un tribunal",
                 "Non, sauf pour les lois jugées inconstitutionnelles par un citoyen qui peut saisir le Conseil constitutionnel avant de l'appliquer"
-            ]
+            ],
+            "topics": ["devoirs-citoyens"]
         },
         {
             "id": 14,
@@ -153,7 +166,8 @@
                 "Ils sont élus au scrutin proportionnel de liste lors des élections législatives, à raison d'une liste par région administrative",
                 "Ils sont désignés par le Président de la République sur proposition du Premier ministre parmi les personnalités qualifiées",
                 "Ils sont élus par les conseillers municipaux et régionaux réunis en congrès départemental tous les cinq ans"
-            ]
+            ],
+            "topics": ["parlement", "suffrage-universel"]
         },
         {
             "id": 15,
@@ -164,7 +178,8 @@
                 "Uniquement l'Assemblée nationale, le Sénat n'ayant qu'un rôle consultatif sans pouvoir de vote sur les lois",
                 "Le gouvernement, qui dispose du pouvoir législatif délégué par le Président de la République sous la Ve République",
                 "Le Conseil d'État, qui examine et adopte les projets de loi avant leur transmission au Président pour promulgation"
-            ]
+            ],
+            "topics": ["parlement", "institutions"]
         },
         {
             "id": 16,
@@ -175,7 +190,8 @@
                 "Le pouvoir central (État), le pouvoir décentralisé (collectivités) et le pouvoir supranational (Union européenne)",
                 "Le pouvoir politique (gouvernement), le pouvoir économique (entreprises publiques) et le pouvoir médiatique (audiovisuel public)",
                 "Le pouvoir constituant (révision de la Constitution), le pouvoir législatif (vote des lois) et le pouvoir réglementaire (décrets)"
-            ]
+            ],
+            "topics": ["institutions", "justice", "constitution"]
         },
         {
             "id": 17,
@@ -186,7 +202,8 @@
                 "Un régime dans lequel l'État dispose du monopole de la création des lois et peut les modifier librement selon les nécessités de l'ordre public",
                 "Un système où les citoyens élisent directement les juges chargés d'interpréter et d'appliquer les lois démocratiquement votées",
                 "Une organisation politique dans laquelle la loi ne s'applique qu'aux simples citoyens, les gouvernants disposant d'une immunité fonctionnelle permanente"
-            ]
+            ],
+            "topics": ["constitution", "institutions"]
         },
         {
             "id": 18,
@@ -197,7 +214,8 @@
                 "4 ans pour le conseil municipal et 6 ans pour le maire, qui peut être renommé au-delà du mandat du conseil",
                 "5 ans pour le conseil municipal et le maire, alignés sur la durée du mandat présidentiel depuis la réforme de 2000",
                 "6 ans pour le conseil municipal, mais le maire est réélu tous les 3 ans par les conseillers pour assurer une rotation"
-            ]
+            ],
+            "topics": ["commune"]
         },
         {
             "id": 19,
@@ -208,7 +226,8 @@
                 "Les sénateurs, élus pour 6 ans au suffrage universel direct par les citoyens de chaque département",
                 "Les conseillers régionaux, représentant les régions au sein d'un Parlement à chambre unique depuis 2003",
                 "Les députés et les sénateurs simultanément, lors d'un scrutin national commun organisé tous les 5 ans"
-            ]
+            ],
+            "topics": ["parlement", "suffrage-universel"]
         },
         {
             "id": 20,
@@ -219,7 +238,8 @@
                 "7 ans, durée du septennat maintenue par la Constitution de 1958 et toujours en vigueur",
                 "5 ans, renouvelable indéfiniment sans limitation du nombre de mandats consécutifs",
                 "4 ans, aligné sur les mandats des autres démocraties européennes depuis la réforme constitutionnelle de 1995"
-            ]
+            ],
+            "topics": ["president"]
         },
         {
             "id": 21,
@@ -230,7 +250,8 @@
                 "4 ans, mandat harmonisé avec les élections européennes depuis le traité de Lisbonne",
                 "6 ans, comme les sénateurs, pour assurer une continuité et une stabilité institutionnelle au Parlement",
                 "5 ans, mais renouvelable obligatoirement par un vote de confiance à mi-mandat par les électeurs de la circonscription"
-            ]
+            ],
+            "topics": ["parlement"]
         },
         {
             "id": 22,
@@ -241,7 +262,8 @@
                 "5 ans, comme les députés, pour assurer une synchronisation avec le cycle électoral général tous les 5 ans",
                 "9 ans, mandat long non renouvelable garantissant l'indépendance des sénateurs vis-à-vis des pressions politiques",
                 "6 ans, le Sénat étant intégralement renouvelé en une seule fois lors de chaque élection sénatoriale nationale"
-            ]
+            ],
+            "topics": ["parlement"]
         },
         {
             "id": 23,
@@ -252,7 +274,8 @@
                 "Le Président de la République, seul chef du pouvoir exécutif selon la Constitution de la Ve République",
                 "Le ministre de l'Intérieur, chargé de la coordination interministérielle et de la cohérence de l'action gouvernementale",
                 "Le Secrétaire général du gouvernement, haut fonctionnaire garant de la continuité et de la coordination de l'action ministérielle"
-            ]
+            ],
+            "topics": ["institutions", "president"]
         },
         {
             "id": 24,
@@ -263,7 +286,8 @@
                 "Oui, mais uniquement à un seul parti à la fois, le cumul d'adhésions étant interdit par la loi sur le financement politique",
                 "Non, pour les fonctionnaires et agents de l'État, l'adhésion à un parti politique est strictement prohibée par le statut de la fonction publique",
                 "Oui, à condition d'avoir 21 ans révolus et de n'avoir jamais fait l'objet d'une condamnation pénale définitive"
-            ]
+            ],
+            "topics": ["droits-citoyens"]
         },
         {
             "id": 25,
@@ -274,7 +298,8 @@
                 "Le préfet du département, qui dispose du pouvoir de police administrative pour sanctionner les atteintes aux biens",
                 "Le tribunal administratif, chargé de juger les litiges entre les citoyens et de fixer les réparations civiles en cas de vol",
                 "La police nationale, qui détient le pouvoir de sanction définitive pour les délits mineurs comme le vol simple"
-            ]
+            ],
+            "topics": ["justice"]
         },
         {
             "id": 26,
@@ -285,7 +310,8 @@
                 "La région, qui est compétente pour l'ensemble de l'enseignement secondaire, collèges et lycées confondus",
                 "L'État, par l'intermédiaire des rectorats d'académie qui gèrent directement tous les établissements du second degré",
                 "La commune, en vertu du principe de proximité appliqué aux services éducatifs depuis la loi Defferre de 1982"
-            ]
+            ],
+            "topics": ["departement"]
         },
         {
             "id": 27,
@@ -296,7 +322,8 @@
                 "Le département, compétent pour l'ensemble de l'enseignement primaire et secondaire du premier cycle",
                 "L'État, seul responsable de l'ensemble de l'enseignement public, de la maternelle au lycée inclus",
                 "La région, en sa qualité de collectivité chef de file de l'éducation sur l'ensemble du territoire régional"
-            ]
+            ],
+            "topics": ["commune"]
         },
         {
             "id": 28,
@@ -307,7 +334,8 @@
                 "Ils sont élus directement par les citoyens de la commune au suffrage universel direct lors des élections municipales",
                 "Ils sont nommés par le préfet du département parmi les candidats proposés par le conseil municipal élu",
                 "Ils sont désignés par le Président de la République sur proposition du ministre de l'Intérieur pour les grandes villes"
-            ]
+            ],
+            "topics": ["commune", "suffrage-universel"]
         },
         {
             "id": 29,
@@ -318,7 +346,8 @@
                 "Le département, qui organise les transports interurbains entre les communes de son territoire et les liaisons ferroviaires locales",
                 "L'État, via la SNCF, qui reste seul compétent pour l'ensemble des transports ferroviaires sur le territoire national",
                 "L'intercommunalité, autorité organisatrice de l'ensemble des transports collectifs, urbains et régionaux, depuis la loi NOTRe"
-            ]
+            ],
+            "topics": ["region"]
         },
         {
             "id": 30,
@@ -329,7 +358,8 @@
                 "Par simple décret du Président de la République, signé en Conseil des ministres et contresigné par le Premier ministre",
                 "Par une loi organique votée à la majorité absolue de l'Assemblée nationale, sans nécessité d'un vote du Sénat",
                 "Par une pétition citoyenne ayant recueilli au moins 5 millions de signatures soumises directement au Conseil constitutionnel"
-            ]
+            ],
+            "topics": ["constitution"]
         },
         {
             "id": 31,
@@ -340,7 +370,8 @@
                 "Le Premier ministre, en tant que chef du gouvernement et second personnage de l'État dans l'ordre protocolaire",
                 "Le Président de l'Assemblée nationale, en vertu de sa représentation directe de la chambre élue au suffrage universel",
                 "Le doyen d'âge du gouvernement, selon la tradition républicaine consacrée par la jurisprudence du Conseil d'État"
-            ]
+            ],
+            "topics": ["president", "institutions"]
         },
         {
             "id": 32,
@@ -351,7 +382,8 @@
                 "Juger les membres du gouvernement pour les crimes commis dans l'exercice de leurs fonctions, comme la Cour de justice de la République",
                 "Conseiller le gouvernement sur la rédaction des projets de loi et vérifier leur cohérence juridique avant le dépôt parlementaire",
                 "Contrôler les comptes de l'État et des collectivités territoriales, en lieu et place de la Cour des comptes pour les lois de finances"
-            ]
+            ],
+            "topics": ["constitution", "justice"]
         },
         {
             "id": 33,
@@ -362,7 +394,8 @@
                 "Justifier d'un mandat électif national en cours (député, sénateur ou eurodéputé) au moment du dépôt de candidature",
                 "Obtenir 100 000 signatures de citoyens français inscrits sur les listes électorales via une plateforme officielle",
                 "Être proposé par au moins deux partis politiques représentés au Parlement, chacun ayant obtenu plus de 5 % aux dernières législatives"
-            ]
+            ],
+            "topics": ["president", "suffrage-universel"]
         },
         {
             "id": 34,
@@ -373,7 +406,8 @@
                 "96 départements, uniquement en France métropolitaine, les territoires d'outre-mer ayant un statut administratif distinct",
                 "100 départements, chiffre rond atteint lors de la création du département de Mayotte en 2011",
                 "95 départements métropolitains, les numéros 91 à 95 correspondant à la petite couronne et grande couronne d'Île-de-France"
-            ]
+            ],
+            "topics": ["departement"]
         },
         {
             "id": 35,
@@ -389,7 +423,8 @@
                 "En régions, départements et communes uniquement, la France ayant supprimé les arrondissements et cantons en 2015",
                 "En 13 régions métropolitaines, 95 départements, et environ 36 000 communes, sans autre niveau intermédiaire",
                 "En districts, provinces et municipalités, selon le modèle napoléonien révisé par les lois de décentralisation de 1982"
-            ]
+            ],
+            "topics": ["commune", "departement", "region"]
         },
         {
             "id": 36,
@@ -400,7 +435,8 @@
                 "Le Président du conseil départemental, élu par les conseillers départementaux et chargé d'exécuter les décisions de l'État",
                 "Le sous-préfet d'arrondissement, seul représentant territorial de l'État au niveau infradépartemental",
                 "Le procureur de la République, représentant de l'autorité judiciaire et de l'État dans les affaires pénales du département"
-            ]
+            ],
+            "topics": ["departement", "institutions"]
         },
         {
             "id": 37,
@@ -411,7 +447,8 @@
                 "Chef du gouvernement exclusif, le Président dirige directement l'ensemble des ministères et en est personnellement responsable devant le Parlement",
                 "Représentant protocolaire de la Nation, sans pouvoir exécutif réel, l'essentiel du pouvoir étant détenu par le Premier ministre",
                 "Garant de la Constitution mais soumis au contrôle permanent du Parlement qui peut le révoquer par un vote à la majorité simple"
-            ]
+            ],
+            "topics": ["president"]
         },
         {
             "id": 38,
@@ -422,7 +459,8 @@
                 "Chef de l'État en second, le Premier ministre préside les Conseils des ministres en l'absence du Président et dispose du droit de veto législatif",
                 "Coordinateur exclusif des ministères économiques et financiers, le Premier ministre n'intervenant pas dans les politiques régaliennes",
                 "Représentant du gouvernement devant le Sénat uniquement, l'Assemblée nationale relevant de la seule responsabilité du Président"
-            ]
+            ],
+            "topics": ["institutions", "president"]
         },
         {
             "id": 39,
@@ -433,7 +471,8 @@
                 "Contrôler la régularité des élections nationales et locales, et arbitrer les litiges entre candidats et partis politiques",
                 "Représenter la France devant la Cour européenne des droits de l'homme et défendre les intérêts de l'État dans les procédures internationales",
                 "Superviser le travail parlementaire et signaler au Conseil constitutionnel les lois susceptibles de violer les droits fondamentaux"
-            ]
+            ],
+            "topics": ["droits-citoyens", "institutions"]
         },
         {
             "id": 40,
@@ -444,7 +483,8 @@
                 "En 1957, lors de la signature du traité de Rome instituant la Communauté économique européenne",
                 "En 1986, lors de l'Acte unique européen qui a instauré la liberté de circulation des personnes dans la CEE",
                 "En 2004, lors de l'entrée en vigueur du traité constitutionnel européen adopté par les États membres"
-            ]
+            ],
+            "topics": ["union-europeenne", "construction-europeenne"]
         },
         {
             "id": 41,
@@ -455,7 +495,8 @@
                 "Wolfgang Amadeus Mozart, dont la Symphonie n°40 a été choisie comme symbole de l'héritage culturel commun européen",
                 "Johann Sebastian Bach, dont un choral de la Passion selon saint Matthieu a été adapté pour représenter les valeurs chrétiennes de l'Europe",
                 "Frédéric Chopin, compositeur polonais choisi pour symboliser l'élargissement de l'Union européenne vers l'Europe centrale et orientale"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 42,
@@ -466,7 +507,8 @@
                 "Le 25 mars, anniversaire de la signature du traité de Rome en 1957 fondant la Communauté économique européenne",
                 "Le 1er janvier, date marquant l'entrée en vigueur du marché unique européen et du traité de Maastricht",
                 "Le 7 février, anniversaire de la signature du traité de Maastricht en 1992 instaurant l'Union européenne"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 43,
@@ -477,7 +519,8 @@
                 "À Bruxelles, en Belgique, où sont regroupées la plupart des institutions de l'Union européenne",
                 "À Luxembourg-Ville, au Luxembourg, siège historique des institutions financières européennes depuis 1952",
                 "À Amsterdam, aux Pays-Bas, place financière majeure choisie pour accueillir la BCE lors de la création de l'euro"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 44,
@@ -488,7 +531,8 @@
                 "À Strasbourg, en France, ville siège du Parlement européen et de toutes les institutions communautaires",
                 "À Luxembourg-Ville, au Luxembourg, où sont regroupées les institutions judiciaires et financières de l'Union",
                 "À La Haye, aux Pays-Bas, siège traditionnel des institutions supranationales et des organisations internationales en Europe"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 45,
@@ -499,7 +543,8 @@
                 "Les ministres des États membres, qui représentent leurs gouvernements nationaux dans la chambre haute du Parlement",
                 "Les représentants permanents des États membres et des commissaires européens chargés des affaires législatives",
                 "Des délégués nommés par les parlements nationaux de chaque État membre selon une clé de répartition proportionnelle"
-            ]
+            ],
+            "topics": ["union-europeenne", "suffrage-universel"]
         },
         {
             "id": 46,
@@ -510,7 +555,8 @@
                 "28 États membres, le Royaume-Uni ayant finalement maintenu son adhésion après le référendum sur le Brexit de 2016",
                 "30 États membres, l'Ukraine et la Moldavie ayant officiellement intégré l'Union européenne en 2024",
                 "25 États membres, deux pays ayant quitté l'Union européenne suite à des crises politiques et économiques récentes"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 47,
@@ -521,7 +567,8 @@
                 "Le 25 mars 1957, date fondatrice de la construction européenne avec la signature du traité de Rome",
                 "Le 1er janvier 1993, date d'entrée en vigueur du marché unique et de la libre circulation des personnes",
                 "Le 13 décembre 2007, lors de la signature du traité de Lisbonne réformant les institutions de l'Union européenne"
-            ]
+            ],
+            "topics": ["union-europeenne", "construction-europeenne"]
         },
         {
             "id": 48,
@@ -532,7 +579,8 @@
                 "Le traité de Rome de 1957, toujours en vigueur dans sa version originale comme texte fondateur de la construction européenne",
                 "Le traité constitutionnel européen adopté par référendum dans tous les États membres en 2005 et entré en vigueur en 2006",
                 "Le traité d'Amsterdam de 1997, qui constitue le texte de référence pour l'organisation institutionnelle actuelle de l'Union"
-            ]
+            ],
+            "topics": ["union-europeenne", "construction-europeenne"]
         },
         {
             "id": 49,
@@ -543,7 +591,8 @@
                 "La Norvège, qui avait rejoint l'UE en 1994 avant de se retirer suite à un second référendum négatif en 2019",
                 "La Suisse, qui avait intégré l'espace Schengen avant de s'en retirer en 2020 suite à une votation populaire",
                 "La Grèce, qui avait envisagé un Grexit lors de la crise de la dette en 2015 avant de finalement rester dans la zone euro"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 50,
@@ -554,7 +603,8 @@
                 "La Marseillaise européenne, hymne composite créé en 1957 fusionnant des extraits des hymnes des six États fondateurs",
                 "Europa, hymne spécialement composé par le musicien grec Vangelis pour la création de l'Union européenne en 1993",
                 "Les Quatre Saisons de Vivaldi, musique baroque italienne symbolisant la diversité culturelle du continent européen"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 51,
@@ -565,7 +615,8 @@
                 "Autant d'étoiles que d'États membres, sur fond bleu, le nombre d'étoiles augmentant à chaque élargissement de l'Union",
                 "Une étoile centrale représentant l'Union entourée de cercles concentriques dorés sur fond bleu et or symbolisant les traités",
                 "Douze bandes alternées bleues et dorées avec une étoile centrale blanche, symbolisant les valeurs fondatrices de la paix en Europe"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 52,
@@ -576,7 +627,8 @@
                 "Les parlements nationaux de chaque État membre, qui désignent leurs représentants au Parlement européen proportionnellement à leur poids démographique",
                 "Le Conseil européen, composé des chefs d'État et de gouvernement, qui nomme les eurodéputés pour garantir leur indépendance",
                 "Les partis politiques européens, qui désignent leurs représentants selon des listes européennes communes adoptées en congrès transnational"
-            ]
+            ],
+            "topics": ["union-europeenne", "suffrage-universel"]
         },
         {
             "id": 53,
@@ -587,7 +639,8 @@
                 "À Bruxelles uniquement, en Belgique, où sont regroupées toutes les institutions de l'Union européenne depuis le traité de Lisbonne",
                 "À Luxembourg-Ville, au Luxembourg, siège historique des premières institutions communautaires depuis la CECA en 1952",
                 "À Genève, en Suisse, ville internationale neutre choisie pour accueillir les institutions parlementaires supranationales"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         },
         {
             "id": 54,
@@ -598,7 +651,8 @@
                 "La Bulgarie, qui a rejoint l'Union européenne en 2013 lors du même élargissement que la Roumanie dans les Balkans",
                 "La Serbie, qui a finalisé ses négociations d'adhésion en 2013 et est devenue membre à part entière de l'Union",
                 "Le Monténégro, qui a rejoint l'Union européenne en 2013, complétant ainsi l'intégration des États issus de l'ex-Yougoslavie"
-            ]
+            ],
+            "topics": ["union-europeenne", "construction-europeenne"]
         },
         {
             "id": 55,
@@ -609,7 +663,8 @@
                 "Non, le droit de vote aux élections locales reste exclusivement réservé aux nationaux de chaque État membre souverain",
                 "Oui, mais uniquement pour les élections au Parlement européen, les élections municipales restant réservées aux citoyens nationaux",
                 "Oui, à condition de résider dans le pays depuis au moins 5 ans et d'avoir obtenu un titre de séjour permanent européen"
-            ]
+            ],
+            "topics": ["union-europeenne", "droits-citoyens"]
         },
         {
             "id": 56,
@@ -620,7 +675,8 @@
                 "« Liberté, Égalité, Fraternité », devise française adoptée comme symbole des valeurs communes de l'ensemble des États membres",
                 "« Paix, Prospérité, Solidarité », devise adoptée lors du traité de Lisbonne pour refléter les objectifs de l'Union au XXIe siècle",
                 "« Par l'Europe, pour les peuples », devise officieuse adoptée lors du premier anniversaire de la création de l'euro en 2000"
-            ]
+            ],
+            "topics": ["union-europeenne"]
         }
     ]
 }
